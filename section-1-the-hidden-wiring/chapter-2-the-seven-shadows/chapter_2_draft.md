@@ -1,12 +1,12 @@
-# Chapter 2 — The Seven Shadows
+# 2. The Seven Shadows
 
-## Principles of Effective Business Communication
+*Principles of Effective Business Communication*
 
 ---
 
 ::: {#chapter-2-lo .lo}
 ::: {.lo_notice}
-## What You'll Begin to Notice
+**What You'll Begin to Notice**
 
 Messages that appear equally sound do not always move the same way.
 
@@ -47,7 +47,7 @@ You'll catch it in:
 What follows is not a set of standards to apply, but a way to see where messages begin to give way—often in ways that are easy to miss until they matter.
 :::
 
-## Seeing in a New Light
+## 2.1 Seeing in a New Light
 
 > Messages don't fail because people stop trying.  
 > They give way where meaning is most vulnerable—sometimes quietly, sometimes all at once.
@@ -68,7 +68,7 @@ So let's begin our exploration of the Seven Shadows.
 
 We start with the first principle—and perhaps the most deceptively simple of them all: **Clarity.**
 
-### Clear: The Light That Reveals
+### 2.1.1 Clear: The Light That Reveals
 
 **Why this shadow matters first**: When clarity fails, nothing else can succeed. Every other shadow compounds the damage left behind.
 
@@ -77,7 +77,7 @@ Most messages fail not because people disagree, but because they don't know what
 Imagine this: a manager communicates, "The implementation will be accelerated once dependencies are aligned." It sounds polished. It could appear in any memo or meeting note. Yet it says almost nothing. Who is accelerating what? Which dependencies? How will we know when alignment happens? If you've ever walked out of a meeting with everyone nodding and no one knowing, you've met the enemy of clarity.
 
 ::: ITW-Clear-ambiguity
-### Inside the Message
+### 2.1.2 Inside the Message
 
 "The implementation will be accelerated once dependencies are aligned."
 
@@ -98,7 +98,7 @@ It holds just long enough for the reader to notice that they are supplying the s
 
 What looked complete begins to thin.
 
-### Inside the Work
+### 2.1.3 Inside the Work
 
 Where is the message asking you to do work it should be carrying?
 
@@ -115,7 +115,7 @@ But clarity doesn't mean oversimplifying complex ideas. It means matching comple
 
 When in doubt, ask yourself: *Would someone outside my circle understand what I mean? Could they explain it to someone else without losing accuracy?* If the answer is yes, you've achieved clarity.
 
-### Concise: The Art of Breathing Room
+### 2.1.4 Concise: The Art of Breathing Room
 
 **A useful distinction**: Clarity determines whether a message can be understood. Concision determines whether it will be read at all.
 
@@ -149,7 +149,7 @@ If you've ever used an AI writing assistant, you've seen this in action. Ask it 
 
 Before you hit send, pause. *Can you say it with fewer words without losing meaning? Can you put the main point in the first line? Does every sentence earn its place?* Concision is not the trimming of thought—it's the shaping of it.
 
-### Concrete: The Ground Beneath Words
+### 2.1.5 Concrete: The Ground Beneath Words
 
 **What concreteness adds**: Without something to picture, even clear ideas drift. Concreteness gives ideas weight.
 
@@ -212,7 +212,7 @@ Concreteness doesn't limit creativity; it completes it. It's where imagination m
 
 At this point, a pattern should feel familiar. These shadows are not about carelessness or incompetence. They emerge precisely when communicators assume that effort alone guarantees understanding.
 
-### Correct: The Shape of Truth
+### 2.1.6 Correct: The Shape of Truth
 
 **A quiet misconception**: Correctness is not about winning arguments—it's about preserving trust.
 
@@ -225,7 +225,7 @@ We often think of being correct as an outcome—a fixed point reached when error
 Correctness begins with precision: using the right words, citing reliable information, representing data faithfully. But it does not end there. Communication that is technically right can still fail if it lands cold or condescending.
 
 ::: ITW-Correct-alignment
-### Inside the Message
+### 2.1.7 Inside the Message
 
 You respond to a colleague's draft with one word:
 
@@ -247,7 +247,7 @@ It sounds finished in a moment that may still require connection.
 Nothing factual has gone wrong.
 But the relationship absorbs the force.
 
-### Inside the Work
+### 2.1.8 Inside the Work
 
 What is this response confirming?
 And what else is it signaling at the same time?
@@ -288,7 +288,7 @@ So, before finalizing a message, pause: *Is this accurate? Is it fair? Is it kin
 
 *Next comes coherence—where separate truths begin to join, and structure gives rise to flow.*
 
-### Coherent: The Thread That Holds Meaning Together
+### 2.1.9 Coherent: The Thread That Holds Meaning Together
 
 **Orientation cue**: Coherence is not about individual sentences. It's about how ideas move together over time.
 
@@ -326,7 +326,7 @@ What should have come first.
 The message is still giving information.
 But it is no longer carrying understanding.
 
-### Inside the Work
+### 2.1.10 Inside the Work
 
 Where does the burden of connection shift from message to reader?
 
@@ -361,7 +361,7 @@ Before you finalize your next message, ask: *Can someone follow my reasoning wit
 
 *Next comes completeness—the moment when the whole picture comes into view.*
 
-### Complete: The Whole Picture
+### 2.1.11 Complete: The Whole Picture
 
 **What completeness protects**: When messages feel incomplete, work stalls—not because people resist, but because they hesitate.
 
@@ -426,7 +426,7 @@ Before sending your next message, pause to ask: *Does this provide everything so
 
 *Next comes courtesy—the shadow that makes communication fully human.*
 
-### Courtesy: The Light That Softens Every Shadow
+### 2.1.12 Courtesy: The Light That Softens Every Shadow
 
 **Why this shadow closes the set**: Courtesy doesn't fix mistakes—it prevents them from becoming fractures.
 
@@ -488,7 +488,7 @@ Before you send, ask: *Will this message make someone's work easier or their day
 
 *The Seven Shadows together reveal a simple truth: Communication is not a transfer of information but a shared act of understanding—and every act of understanding begins, and ends, with care.*
 
-## The Seven Shadows: A Bridge to Practice
+## 2.2 The Seven Shadows: A Bridge to Practice
 
 **Stepping back**: By now, the Seven Shadows should feel less like a list and more like a pattern you recognize in real conversations.
 
@@ -535,70 +535,111 @@ These principles will continue to echo through the next chapters—not as repeti
 
 *Communication begins with awareness, matures through practice, and endures through respect. The Seven Shadows are simply the first light of that understanding.*
 
-**Signal Lab — Decode**
+## 2.3 Signal Lab
 
-**Decode 2.1**
+::: {#chapter-2-signal-lab .signal_lab}
 
+### 2.3.1 Decode
+
+::: {.sl_decode}
+
+#### Decode 2.1
+
+::: {#decode-2-1 .sl_activity .decode_activity}
+
+::: {.sl_stimulus}
 A project manager posts an update in a shared channel visible to executives, team leads, and contributors.
 
 The implementation will be accelerated once dependencies are aligned.
+:::
 
+::: {.sl_questions}
 1. Where does this message begin—and what does that commit?
 2. What is the reader asked to assume before anything becomes clear?
 3. What feels stable at first, and what begins to give way?
+:::
+:::
 
+#### Decode 2.2
 
+::: {#decode-2-2 .sl_activity .decode_activity}
 
-**Decode 2.2**
-
+::: {.sl_stimulus}
 A team lead sends a message to finance requesting a correction that is time-sensitive.
 
 We reviewed the invoice issue and found inconsistencies in how charges were applied. We want to ensure everything aligns with the updated agreement before moving forward. Let me know if you need additional details.
+:::
 
-4. What is this message doing before the request appears?
-5. Where does action begin—and what delays it?
-6. What work is the reader doing before the decision becomes visible?
+::: {.sl_questions}
+1. What is this message doing before the request appears?
+2. Where does action begin—and what delays it?
+3. What work is the reader doing before the decision becomes visible?
+:::
+:::
 
+#### Decode 2.3
 
+::: {#decode-2-3 .sl_activity .decode_activity}
 
-**Decode 2.3**
-
+::: {.sl_stimulus}
 A status update is shared with stakeholders awaiting next steps on a confirmed milestone.
 
 The client approved the design. Deployment soon.
+:::
 
-7. What does this message allow—and what does it withhold?
-8. Where does movement pause?
-9. What feels less certain than it first appeared?
+::: {.sl_questions}
+1. What does this message allow—and what does it withhold?
+2. Where does movement pause?
+3. What feels less certain than it first appeared?
+:::
+:::
+:::
 
+### 2.3.2 Design
 
+::: {.sl_design}
 
-**Signal Lab — Design**
+#### Design 2.1
 
-**Design 2.1**
+::: {#design-2-1 .sl_activity .design_activity}
 
-Refer to Decode 2.1
+::: {.sl_reference}
+Refer to Decode 2.1.
+:::
 
+::: {.sl_stimulus}
 The implementation will be accelerated once dependencies are aligned.
+:::
 
-A) What is missing before anything can move?
-B) What would settle the uncertainty without expanding the message unnecessarily?
-C) Where does clarity begin—and what follows from it?
+::: {.sl_questions}
+A. What is missing before anything can move?
+B. What would settle the uncertainty without expanding the message unnecessarily?
+C. Where does clarity begin—and what follows from it?
+:::
+:::
 
+#### Design 2.2
 
+::: {#design-2-2 .sl_activity .design_activity}
 
-**Design 2.2**
+::: {.sl_reference}
+Refer to Decode 2.2.
+:::
 
-Refer to Decode 2.2
-
+::: {.sl_stimulus}
 We reviewed the invoice issue and found inconsistencies in how charges were applied. We want to ensure everything aligns with the updated agreement before moving forward.
+:::
 
-D) What belongs at the front of this message?
-E) What can follow without interfering with action?
-F) What holds the purpose—and what pulls away from it?
+::: {.sl_questions}
+A. What belongs at the front of this message?
+B. What can follow without interfering with action?
+C. What holds the purpose—and what pulls away from it?
+:::
+:::
+:::
+:::
 
-
-**Chapter 2 — Notes**
+## 2.4 Notes
 
 1. Mary Ellen Guffey and Dana Loewy, *Business Communication* (Boston: Cengage Learning).
 
@@ -608,7 +649,7 @@ F) What holds the purpose—and what pulls away from it?
 
 4. Mary Ellen Guffey and Dana Loewy, *Business Communication* (Boston: Cengage Learning).
 
-**Chapter 2 — For Further Study**
+## 2.5 For Further Study
 
 **Business Communication**
 

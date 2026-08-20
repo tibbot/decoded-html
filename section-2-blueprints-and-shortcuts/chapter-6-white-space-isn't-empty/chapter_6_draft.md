@@ -1,4 +1,4 @@
-# Chapter 6: White Space Isn't Empty
+# 6. White Space Isn't Empty
 
 *Designing for Clarity and Impact*
 
@@ -52,7 +52,7 @@ how interpretation starts downstream of visibility, not apart from it
 What follows is a way to notice how messages are encountered before they are understood—and how that first encounter begins shaping everything that follows.
 :::
 
-## Before a Word
+## 6.1 Before a Word
 
 > Before a message is read, it is seen.
 
@@ -64,7 +64,7 @@ Readers adjust posture, attention, and patience within moments of seeing a page 
 
 Design, in this sense, comes first—a view shared across work in information design and usability that treats visual structure as a prerequisite for comprehension rather than a finishing layer ¹.
 
-## Effort, Distributed
+## 6.2 Effort, Distributed
 
 > Readers are remarkably sensitive to effort.
 
@@ -137,7 +137,7 @@ What must be located before work can begin?
 
 🖼️
 
-## Attribution Happens Automatically
+## 6.3 Attribution Happens Automatically
 
 > Readers do not stop at experiencing effort. They explain it.
 
@@ -177,7 +177,7 @@ Inside the Work
 
 ✏️
 
-## Naming the Assumption
+## 6.4 Naming the Assumption
 
 > At some point, the pattern gives itself away.
 
@@ -221,7 +221,7 @@ What must be inferred in each case?
 
 🖼️
 
-## How Intentionality Breaks
+## 6.5 How Intentionality Breaks
 
 > Misalignment does not require negligence.
 
@@ -233,7 +233,7 @@ A message may be thoughtful and precise, yet appear careless because its surface
 
 Design does not announce how it came to be. It only shows what remains.
 
-## Credibility and the Illusion of Care
+## 6.6 Credibility and the Illusion of Care
 
 > Design does something else, too: it shapes credibility.
 
@@ -249,7 +249,7 @@ The point is not to reward polish or dismiss substance. It is to recognize that 
 
 Writers who ignore this do not become more authentic. They become harder to hear.
 
-## Design as Access
+## 6.7 Design as Access
 
 > Once design is understood as visibility, another dimension comes into focus: access.
 
@@ -315,7 +315,7 @@ What must be reconstructed before teams can align?
 
 🖼️
 
-## Seeing the Whole System
+## 6.8 Seeing the Whole System
 
 > Visibility is not decoration. It is access.
 
@@ -356,7 +356,7 @@ What becomes visible first—and what does that change?
 🖼️
 
 
-## Communication That Breathes
+## 6.9 Communication That Breathes
 
 > Ownership does not end with clarity.
 
@@ -368,14 +368,23 @@ Some messages pass quietly and strengthen what already exists. Others introduce 
 
 These moments are not rare. They repeat. And how they are handled matters more than writers often expect. The question is no longer whether these patterns exist, but what to do once they are visible.
 
-**Signal Lab**
+## 6.10 Signal Lab
 
+::: {#chapter-6-signal-lab .signal_lab}
+
+::: {.sl_intro}
 *What is made visible determines what can be used.*
+:::
 
-**Decode**
+### 6.10.1 Decode
 
-**Decode 6.1**
+::: {.sl_decode}
 
+#### Decode 6.1
+
+::: {#decode-6-1 .sl_activity .decode_activity}
+
+::: {.sl_stimulus}
 A project update is shared as a dense block of text with no headings, no spacing, and no visual separation.
 
 **Message**
@@ -385,16 +394,20 @@ A project update is shared as a dense block of text with no headings, no spacing
 All required information is present.
 
 Some readers move through it. Others delay. A few skim and miss key details.
+:::
 
-Where does this message begin—and what does that commit?
+::: {.sl_questions}
+1. Where does this message begin—and what does that commit?
+2. What must the reader do before they can act?
+3. Who is doing additional work—and why?
+:::
+:::
 
-What must the reader do before they can act?
+#### Decode 6.2
 
-Who is doing additional work—and why?
+::: {#decode-6-2 .sl_activity .decode_activity}
 
-
-**Decode 6.2**
-
+::: {.sl_stimulus}
 Two versions of a slide present the same idea.
 
 **Version A**
@@ -413,14 +426,19 @@ Two versions of a slide present the same idea.
 Next: secure local partnerships this week."
 
 Both are accurate.
+:::
 
-Which version commits first—and to what?
+::: {.sl_questions}
+1. Which version commits first—and to what?
+2. What does each version ask the reader to trust?
+:::
+:::
 
-What does each version ask the reader to trust?
+#### Decode 6.3
 
+::: {#decode-6-3 .sl_activity .decode_activity}
 
-**Decode 6.3**
-
+::: {.sl_stimulus}
 A document uses inconsistent headings, uneven spacing, and shifting visual patterns.
 
 **Message (excerpt)**
@@ -442,32 +460,50 @@ Finalize contracts and begin integration testing"
 The reasoning is strong.
 
 Readers describe it as rushed.
+:::
 
-What is being treated as intentional?
+::: {.sl_questions}
+1. What is being treated as intentional?
+2. What does the reader now believe about the message?
+:::
+:::
+:::
 
-What does the reader now believe about the message?
+### 6.10.2 Design
 
+::: {.sl_design}
 
-**Design**
+#### Design 6.1
 
-**Design 6.1**
+::: {#design-6-1 .sl_activity .design_activity}
 
-Return to Decode 6.1.
+::: {.sl_reference}
+Refer to Decode 6.1.
+:::
 
-What must be visible first for this message to be usable?
+::: {.sl_questions}
+A. What must be visible first for this message to be usable?
+B. What can follow without blocking action?
+:::
+:::
 
-What can follow without blocking action?
+#### Design 6.2
 
+::: {#design-6-2 .sl_activity .design_activity}
 
-**Design 6.2**
+::: {.sl_reference}
+Refer to Decode 6.2 or Decode 6.3.
+:::
 
-Return to Decode 6.2 or 6.3.
+::: {.sl_questions}
+A. What do you make visible immediately—and what do you defer?
+B. What decision does that enforce?
+:::
+:::
+:::
+:::
 
-What do you make visible immediately—and what do you defer?
-
-What decision does that enforce?
-
-**Chapter 6 — Notes**
+## 6.11 Notes
 
 1. Edward R. Tufte, *The Visual Display of Quantitative Information* (Cheshire, CT: Graphics Press, 1983); Janice (Ginny) Redish, *Letting Go of the Words* (San Francisco: Morgan Kaufmann, 2007); Donald A. Norman, *The Design of Everyday Things* (New York: Basic Books, 1988).
 
@@ -477,7 +513,7 @@ What decision does that enforce?
 
 4. Ronald L. Mace, "Universal Design in Housing," *Assistive Technology* 10, no. 1 (1998); World Wide Web Consortium (W3C), *Web Content Accessibility Guidelines (WCAG)*.
 
-**Chapter 6 — For Further Study**
+## 6.12 For Further Study
 
 **Business Communication**
 

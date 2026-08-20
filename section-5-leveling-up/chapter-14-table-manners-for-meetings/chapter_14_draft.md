@@ -1,4 +1,4 @@
-# Table Manners for Meetings
+# 14. Table Manners for Meetings
 
 *Professional Etiquette & Collaboration* 
 
@@ -43,7 +43,7 @@ Professional communication does not stay fixed after it enters a shared space. A
 Once those patterns are visible, professional presence begins to look less like manners and more like responsibility for meaning under motion.
 :::
 
-## The Moment After Sending
+## 14.1 The Moment After Sending
 
 > Meaning begins to change the moment it is used.
 
@@ -64,7 +64,7 @@ Communication no longer arrives into empty space. It enters environments already
 Once a message leaves your hands, it is no longer waiting to be understood. It is already shaping what comes next.
 
 
-## When Meaning Is Public
+## 14.2 When Meaning Is Public
 
 > Meaning in public space is selected, repeated, and recombined.
 
@@ -87,17 +87,17 @@ When it begins to drift, the same process carries something different. A version
 Once repetition and reframing take root, revision—of either version—requires interrupting what is already in motion.
 
 
-## When Silence Becomes Action
+## 14.3 When Silence Becomes Action
 
 ::: ITM-silence-as-continuation 
 
-### Inside the Message
+### 14.3.1 Inside the Message
 
 > Message"Any concerns with moving the vendor review to Friday? If I don't hear otherwise, I'll update the timeline this afternoon."
 
 The message appears to invite response, but it also creates a path for silence to function as permission. The deadline for objection does not merely organize the exchange; it allows the current interpretation to advance if no one interrupts it. Agreement is not stated, but the work can still move as if agreement has been supplied.
 
-### Inside the Work
+### 14.3.2 Inside the Work
 ⁘ What does silence authorize here?
 
 ⁘ Who has enough context, confidence, and time to interrupt before the timeline changes?
@@ -132,7 +132,7 @@ Silence does not determine which of these occurs. It allows what is already pres
 
 What is not said still shapes what the group understands and influences what follows.
 
-## When Direction Has Structure
+## 14.4 When Direction Has Structure
 
 > Direction shapes what communication can do—and who must carry its consequences.
 
@@ -144,7 +144,8 @@ What does not change is that every message is taken up and judged. Someone reads
 
 What changes is not whether a message is evaluated, but how that evaluation happens and what it requires from the message itself. In directional environments, different pressures begin to take shape. Some constrain meaning—narrowing what can be said and how it can be defended. Others reshape it—requiring adjustment, negotiation, and reintroduction as it moves across peers.
 
-::: PF-directional-alignment :::
+::: {#pf-directional-alignment .pf}
+:::
 
 A request sent upward enters a space where evaluation is explicit. It will be accepted, rejected, or redirected, and that possibility is already present before anything is written. The message is shaped with that outcome in mind. What might otherwise be left open is narrowed. Uncertainty is reduced to what can be defended. Risk is not removed, but it is framed in a way that can be judged. What remains unstated does not disappear. It becomes part of what is being evaluated.
 
@@ -156,13 +157,13 @@ These patterns are often described as channels—upward, downward, lateral—but
 
 ::: ITM-directional-burden 
 
-### Inside the Message
+### 14.4.1 Inside the Message
 
 > Message"Please update the client packet so it reflects the revised rollout plan. Keep the core scope intact and flag anything that creates delivery risk."
 
 The instruction moves downward, but it leaves several interpretive spaces open. "Revised rollout plan," "core scope," and "delivery risk" may be clear to the person sending the message and less stable for the person carrying it out. The message transfers action, but it also transfers the burden of deciding what counts as faithful execution.
 
-### Inside the Work
+### 14.4.2 Inside the Work
 ⁘ What must the audience already know before this instruction can become usable?
 
 ⁘ Which parts guide action, and which parts require reconstruction?
@@ -176,7 +177,7 @@ The instruction moves downward, but it leaves several interpretive spaces open. 
 The same message does not function the same way in each direction. It is evaluated differently, acted on differently, and produces different consequences depending on where it is sent and how it will be used.
 
 
-## When Meaning Is Negotiated
+## 14.5 When Meaning Is Negotiated
 
 > Agreement is constructed—and may not hold.
 
@@ -204,12 +205,13 @@ When differences resurface, they rarely appear as direct contradiction. They sho
 
 What is often labeled miscommunication is not a failure to communicate, but a difference in what participants believed had already been settled.
 
-::: PF-partial-alignment :::
+::: {#pf-partial-alignment .pf}
+:::
 
 Meaning is constructed in that movement. It holds long enough to carry work forward, even as parts of it remain incomplete or in tension.
 
 
-## When the Moment Passes but the Impression Remains
+## 14.6 When the Moment Passes but the Impression Remains
 
 > What holds under pressure is what will be remembered.
 
@@ -239,13 +241,13 @@ Once an impression becomes usable, it resists revision. A single later moment ra
 
 ::: ITM-impression-memory
 
-### Inside the Message
+### 14.6.1 Inside the Message
 
 > MessageMeeting note: "Jordan slowed the discussion to clarify the implementation risk before the group approved the Friday timeline."
 
 The note preserves a moment, but not the full conditions around it. The clarification may have protected the decision. It may also be remembered as hesitation, caution, or resistance once the pressure of the meeting disappears. What remains is a usable impression, compressed enough to travel.
 
-### Inside the Work
+### 14.6.2 Inside the Work
 ⁘ What does the record make easy to remember?
 
 ⁘ What context disappears when the moment becomes a label?
@@ -254,7 +256,7 @@ The note preserves a moment, but not the full conditions around it. The clarific
 
 ⁘ What pattern would be needed later to revise the impression without merely contradicting it?
 
- :::
+:::
 
 Revision usually requires pattern, not correction. Over time, later interactions can supply a different shape: repeated clarity, steadiness, follow-through, repair. The earlier impression may not vanish, but it can lose authority as a stronger pattern becomes easier to remember.
 
@@ -268,7 +270,7 @@ Figure 14.3 Convergence Model of Meaning: Structure, channel, design, audience, 
 
 The Convergence Model of Meaning makes visible where meaning begins to hold—and where it does not—as these elements come together.
 
-## Why Communication Never Finishes
+## 14.7 Why Communication Never Finishes
 
 > Technique belongs to its moment. Meaning carries across them.
 
@@ -308,83 +310,124 @@ What appears complex across moments resolves into these two forces. What is judg
 
 Communication does not finish. What is constrained and reshaped carries forward into what comes next.
 
-**Signal Lab—Decode**
+## 14.8 Signal Lab
 
-**Decode 14.1**
+::: {#chapter-14-signal-lab .signal_lab}
 
+### 14.8.1 Decode
+
+::: {.sl_decode}
+
+#### Decode 14.1
+
+::: {#decode-14-1 .sl_activity .decode_activity}
+
+::: {.sl_stimulus}
 A project lead posts in a shared channel:
 
 "We'll treat the Friday client packet date as confirmed unless concerns surface by 3 p.m."
 
 No one responds. At 3:15, the timeline is updated.
+:::
 
+::: {.sl_questions}
 1. What is the message asking silence to do?
-
 2. Who is positioned to interrupt the interpretation before it advances?
-
 3. What becomes harder to revisit after the timeline changes?
+:::
+:::
 
-**Decode 14.2**
+#### Decode 14.2
 
+::: {#decode-14-2 .sl_activity .decode_activity}
+
+::: {.sl_stimulus}
 A manager sends a downward instruction:
 
 "Revise the packet around the updated rollout plan. Keep scope intact and flag anything that creates delivery risk."
 
 Two team members make different revisions. Each can defend the choice.
+:::
 
-4. Which parts of the message guide action?
+::: {.sl_questions}
+1. Which parts of the message guide action?
+2. Which parts require the audience to complete the meaning?
+3. Where does ambiguity become variation rather than simple confusion?
+:::
+:::
 
-5. Which parts require the audience to complete the meaning?
+#### Decode 14.3
 
-6. Where does ambiguity become variation rather than simple confusion?
+::: {#decode-14-3 .sl_activity .decode_activity}
 
-**Decode 14.3**
-
+::: {.sl_stimulus}
 After a meeting, the summary reads:
 
 "The team agreed to proceed with the Friday timeline. Compliance language is still being finalized."
 
 A week later, one person remembers the decision as settled. Another remembers it as conditional.
+:::
 
-7. What did the summary allow to move forward?
+::: {.sl_questions}
+1. What did the summary allow to move forward?
+2. What remained unresolved but still traveled with the decision?
+3. Where does later friction begin: in disagreement, memory, or partial alignment?
+:::
+:::
+:::
 
-8. What remained unresolved but still traveled with the decision?
+### 14.8.2 Design
 
-9. Where does later friction begin: in disagreement, memory, or partial alignment?
+::: {.sl_design}
 
-**Signal Lab—Design**
+#### Design 14.1
 
-**Design 14.1**
+::: {#design-14-1 .sl_activity .design_activity}
 
+::: {.sl_reference}
 Refer to Decode 14.1.
+:::
 
+::: {.sl_questions}
 A. What must be made explicit if silence should not carry agreement by itself?
-
 B. Where should the response burden sit: with everyone, with named owners, or with a specific decision-maker?
-
 C. What would preserve momentum without treating nonresponse as full alignment?
+:::
+:::
 
-**Design 14.2**
+#### Design 14.2
 
+::: {#design-14-2 .sl_activity .design_activity}
+
+::: {.sl_reference}
 Refer to Decode 14.2.
+:::
 
-D. What must be defined so the instruction can be carried out consistently?
+::: {.sl_questions}
+A. What must be defined so the instruction can be carried out consistently?
+B. What should remain flexible so the audience can still exercise judgment?
+C. Where does downward communication need to stop before it over-constrains action?
+:::
+:::
 
-E. What should remain flexible so the audience can still exercise judgment?
+#### Design 14.3
 
-F. Where does downward communication need to stop before it over-constrains action?
+::: {#design-14-3 .sl_activity .design_activity}
 
-**Design 14.3**
-
+::: {.sl_reference}
 Refer to Decode 14.3.
+:::
 
-G. What record would allow work to proceed while preserving the unresolved condition?
+::: {.sl_questions}
+A. What record would allow work to proceed while preserving the unresolved condition?
+B. What phrase or structure would prevent "agreed" from becoming stronger than the meeting actually was?
+C. What does the next audience need to see so the decision is usable but not falsely settled?
+:::
+:::
+:::
+:::
 
-H. What phrase or structure would prevent "agreed" from becoming stronger than the meeting actually was?
-
-I. What does the next audience need to see so the decision is usable but not falsely settled?
-
-**Chapter 14 — Notes**
+## 14.9 Notes
 
 1. Karl E. Weick, *Sensemaking in Organizations* (Thousand Oaks, CA: Sage Publications, 1995).
 
@@ -399,7 +442,7 @@ I. What does the next audience need to see so the decision is usable but not fal
 6. Charles Perrow, *Normal Accidents: Living with High-Risk Technologies* (Princeton: Princeton University Press, 1984).
 
 
-**Chapter 14 — For Further Study**
+## 14.10 For Further Study
 
 **Business Communication**
 

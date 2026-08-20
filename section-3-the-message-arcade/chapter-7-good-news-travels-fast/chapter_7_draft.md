@@ -1,4 +1,4 @@
-# Chapter 7: Good News Travels Fast
+# 7. Good News Travels Fast
 
 *Routine and Positive Messages*
 
@@ -41,7 +41,7 @@ Low-friction messages are easy to underestimate because nothing in the moment fo
 What follows is a way of seeing why "easy" messages are rarely neutral once they begin to accumulate.
 :::
 
-## Ownership When Nothing Pushes Back
+## 7.1 Ownership When Nothing Pushes Back
 
 > When communication goes well, ownership becomes harder to see—not because it disappears, but because nothing forces it into view.
 
@@ -63,19 +63,19 @@ Ownership persists here. It simply becomes easier to ignore.
 
 ✏️ ITM-ownership-baseline
 
-### Message
+### 7.1.1 Message
 Approved — go ahead and use the current template for this quarter's updates. It worked well last time, so no changes are needed.
 
-### Inside the Message
+### 7.1.2 Inside the Message
 Nothing in the note is difficult. It clears the path and keeps work moving. But it also does something quieter: it teaches the audience what level of precision and reconsideration will appear when no one is pushing back. The approval lands as permission, but also as baseline.
 
-### Inside the Work
+### 7.1.3 Inside the Work
 ⁘ What standard has just been carried forward without being re-examined?
 ⁘ What does "it worked well last time" ask the audience to accept without fresh evidence?
 ⁘ If this becomes the model for future updates, what has been normalized?
 ⁘ Where is continuity being protected—and where might drift be hiding inside that continuity?
 
-## Low Friction Is an Environment, Not a Signal
+## 7.2 Low Friction Is an Environment, Not a Signal
 
 > Low-friction moments are often mistaken for neutral ones.
 
@@ -101,7 +101,7 @@ And efficiency, when unexamined, is not neutral.
 
 Low-friction environments reward speed—but they also conceal erosion, a pattern long noted in business communication texts that treat routine messages as infrastructure rather than mere transactions.¹ They hide the gradual loss of clarity, the quiet lowering of standards, the subtle shift from intentional communication to habitual output. Because nothing breaks, nothing demands correction. Because nothing demands correction, judgment fades.
 
-## The Miscalibration Problem
+## 7.3 The Miscalibration Problem
 
 > When outcomes are favorable, communicators often mistake silence for approval and ease for effectiveness.
 
@@ -121,13 +121,13 @@ The miscalibration deepens because silence is mistaken for approval.
 
 ✏️ ITM-silence-approval
 
-### Message
+### 7.3.1 Message
 Thanks, everyone. I sent the update this morning and haven't heard any concerns, so I'm assuming we're aligned.
 
-### Inside the Message
+### 7.3.2 Inside the Message
 The sentence sounds reasonable because nothing visible resists it. Silence is converted into agreement, and the absence of friction is treated as proof that the message did enough on its own. The message closes the loop by borrowing certainty from a quiet environment.
 
-### Inside the Work
+### 7.3.3 Inside the Work
 ⁘ What work might the audience already be doing without saying so?
 ⁘ Who may be adapting silently rather than signaling disagreement?
 ⁘ What does the phrase "I'm assuming we're aligned" settle too quickly?
@@ -147,13 +147,13 @@ And suddenly, the baseline matters.
 
 ✏️ ITM-baseline-inheritance
 
-### Message
+### 7.3.4 Message
 Good news — we can move forward. Details are mostly the same as before, and we'll sort out any small issues as they come up.
 
-### Inside the Message
+### 7.3.5 Inside the Message
 The message carries relief and momentum, which makes its omissions easier to forgive in the moment. But what gets deferred here will not disappear. It becomes part of the baseline the audience inherits when conditions tighten and the cost of improvisation rises.
 
-### Inside the Work
+### 7.3.6 Inside the Work
 ⁘ What is being deferred under the cover of forward motion?
 ⁘ Which "small issues" are small only while pressure remains low?
 ⁘ What assumptions will the audience carry into the next, less forgiving moment?
@@ -163,7 +163,7 @@ The reader who once compensated quietly now resists. The recipient who inferred 
 
 At that point, communicators often feel blindsided. Nothing changed, they think. But something has been changing all along.
 
-## Judgment When Nothing Demands It
+## 7.4 Judgment When Nothing Demands It
 
 > Judgment is not situational. It is environmental.
 
@@ -187,7 +187,7 @@ Handled well, these moments create stability. Handled casually, they introduce n
 
 This is the quiet discipline of ownership when nothing pushes back: maintaining standards not because a moment is difficult, but because it is formative.
 
-## Translating the Canon: Routine and Positive
+## 7.5 Translating the Canon: Routine and Positive
 
 > The traditional categories of routine and positive messages describe surface conditions; the deeper distinction lies in what each message is asked to sustain.
 
@@ -209,7 +209,7 @@ That distinction matters long before communication becomes difficult.
 
 🖼️ PF-routine-positive-distinction 
 
-## When Ease Ends
+## 7.6 When Ease Ends
 
 > Low-friction moments do not last forever.
 
@@ -229,52 +229,106 @@ In the chapters ahead, the environment changes. Ease gives way to constraint. Fa
 
 What will matter then is not technique, but whether judgment has already been practiced when it was least demanded.
 
-# Step 11 — Signal Lab
+## 7.7 Signal Lab
 
-## Decode
+::: {#chapter-7-signal-lab .signal_lab}
 
-### Decode 7.1
+### 7.7.1 Decode
+
+::: {.sl_decode}
+
+#### Decode 7.1
+
+::: {#decode-7-1 .sl_activity .decode_activity}
+
+::: {.sl_stimulus}
 A department lead sends a quick follow-up after a routine approval:
 Approved. Use the current client update format again this month. If anything comes up, we can adjust later.
+:::
+
+::: {.sl_questions}
 1. What is this message doing beyond granting approval?
 2. Where does it begin—and what does that commit?
 3. What is the audience expected to carry forward without being told explicitly?
+:::
+:::
 
-### Decode 7.2
+#### Decode 7.2
+
+::: {#decode-7-2 .sl_activity .decode_activity}
+
+::: {.sl_stimulus}
 A manager writes:
 I sent the summary yesterday and haven't heard any concerns, so I'm assuming we're aligned.
+:::
+
+::: {.sl_questions}
 1. What has been taken as evidence here?
 2. What work might the audience already be doing that the message does not acknowledge?
 3. What feels less certain than it first appeared?
+:::
+:::
 
-### Decode 7.3
+#### Decode 7.3
+
+::: {#decode-7-3 .sl_activity .decode_activity}
+
+::: {.sl_stimulus}
 A team receives this note after finishing a recurring report:
 Thanks for getting this in on time. Please send the same package to Finance.
+:::
+
+::: {.sl_questions}
 1. Is this message mainly maintaining continuity, reinforcing relationship, or both?
 2. What does the audience learn about how carefully low-friction moments will be handled?
 3. If this same team later receives a difficult message, what baseline will this note have helped establish?
+:::
+:::
+:::
 
-## Design
+### 7.7.2 Design
 
-### Design 7.1
+::: {.sl_design}
+
+#### Design 7.1
+
+::: {#design-7-1 .sl_activity .design_activity}
+
+::: {.sl_reference}
 Refer to Decode 7.2.
+:::
+
+::: {.sl_questions}
 A. What would need to become visible before alignment could be treated as real rather than assumed?
 B. What belongs in the message itself, and what should not be left to silence?
 C. What would reduce future resistance without turning the note into over-explanation?
+:::
+:::
 
-### Design 7.2
+#### Design 7.2
+
+::: {#design-7-2 .sl_activity .design_activity}
+
+::: {.sl_reference}
 Refer to Decode 7.3.
+:::
+
+::: {.sl_questions}
 A. What needs to stay efficient if the message is to remain routine?
 B. What could be added or shifted if the communicator wants the same moment to deepen trust?
 C. What choice would matter more in practice: tone, structure, or the kind of value being recognized?
+:::
+:::
+:::
+:::
 
-**Chapter 7 — Notes**
+## 7.8 Notes
 
 1. Courtland L. Bovée and John V. Thill, *Business Communication Today* (Boston: Pearson); Mary Ellen Guffey, *Business Communication: Process and Product* (Boston: Cengage).
 
 2. Penelope Brown and Stephen C. Levinson, *Politeness: Some Universals in Language Usage* (Cambridge: Cambridge University Press, 1987).
 
-**Chapter 7 — For Further Study**
+## 7.9 For Further Study
 
 **Business Communication**
 

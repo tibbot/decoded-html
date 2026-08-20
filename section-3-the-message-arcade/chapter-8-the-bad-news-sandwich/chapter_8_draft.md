@@ -1,4 +1,4 @@
-# Chapter 8: The Bad News Sandwich
+# 8. The Bad News Sandwich
 
 *Negative Messages*
 
@@ -47,7 +47,7 @@ Negative messages are rarely difficult only because they disappoint. They are di
 What follows is a way of seeing why bad-news messages are not mainly about softening impact, but about carrying consequence clearly enough that movement can continue.
 :::
 
-## When Continuity Is No Longer an Option
+## 8.1 When Continuity Is No Longer an Option
 
 > Not all messages are allowed to continue.
 
@@ -71,7 +71,7 @@ When continuity cannot be maintained, messages stop reinforcing the system and b
 
 There is no version of these moments where nothing is at stake.
 
-## Asymmetry Enters the Room
+## 8.2 Asymmetry Enters the Room
 
 > When continuity breaks, balance often breaks with it.
 
@@ -101,13 +101,13 @@ Asymmetry does not create consequence. It reveals whether consequence was alread
 
 ✏️ ITM-asymmetry-recalibration
 
-### Inside the Message
+### 8.2.1 Inside the Message
 
 *We won't be able to extend the project deadline. Please proceed with the current delivery date and adjust internal planning as needed.*
 
 The limit appears quickly, but the real pressure is not only in the refusal. It is in who now has to absorb the adjustment. The message leaves the decision with the communicator and the recalibration with the recipient. The asymmetry is not created by tone; it is made visible by what the message requires from the audience next.
 
-### Inside the Work
+### 8.2.2 Inside the Work
 
 ⁘ Where does the message place the burden of adjustment after the decision is stated?
 
@@ -117,7 +117,7 @@ The limit appears quickly, but the real pressure is not only in the refusal. It 
 
 ⁘ If the audience cannot comply cleanly, where does that strain become visible?
 
-## The Misread: Erasing the Imbalance
+## 8.3 The Misread: Erasing the Imbalance
 
 > When communicators struggle in constrained moments, it is rarely because they misunderstand the outcome.
 
@@ -147,13 +147,13 @@ This is the core miscalibration in constrained communication: mistaking emotiona
 
 ✏️ ITM-buffering-trust
 
-### Inside the Message
+### 8.3.1 Inside the Message
 
 *I know this isn't ideal, and I really wish we could accommodate the request because the work has been strong. At this point, though, it probably makes sense to stay with the original plan for now.*
 
 The language tries to preserve relationship by surrounding the limit with affirmation and softness. But the more the message cushions, the less stable the boundary feels. The recipient is left listening for what is firm inside a field of goodwill. The imbalance remains; what begins to wobble is trust in the finality of the decision.
 
-### Inside the Work
+### 8.3.2 Inside the Work
 
 ⁘ Which phrases clarify the decision, and which ones make it feel provisional?
 
@@ -167,7 +167,7 @@ Ethical responsibility here does not mean minimizing impact. It means owning it.
 
 These moments feel fragile not because the message is difficult, but because pretense is expensive.
 
-## Carrying Constraint Responsibly
+## 8.4 Carrying Constraint Responsibly
 
 > When outcomes narrow, communicators often feel pressure to act quickly.
 
@@ -205,7 +205,7 @@ That steadiness—not comfort—is what ethical communication looks like when op
 
 🖼️ PF-softening-vs-finality
 
-## Translating the Canon: Negative Messages, Decoded
+## 8.5 Translating the Canon: Negative Messages, Decoded
 
 > In the language of business communication, moments like these are typically grouped under the label negative messages.
 
@@ -237,13 +237,13 @@ That is the ethical burden these moments place on ownership.
 
 ✏️ ITM-limit-then-movement 
 
-### Inside the Message
+### 8.5.1 Inside the Message
 
 *Your request for an extension is denied. The revised draft is still due Friday at 3:00 p.m. If the current scope no longer fits, send a narrowed version by noon tomorrow so we can confirm what remains viable.*
 
 The message does not attempt to make the refusal feel mutual. It states the limit, then immediately turns toward the remaining terrain. The denial still carries consequence, but the audience is not left to infer what comes next. Constraint becomes usable because the message restores orientation after closing one path.
 
-### Inside the Work
+### 8.5.2 Inside the Work
 
 ⁘ What changes when the message pairs finality with a legible next move?
 
@@ -253,7 +253,7 @@ The message does not attempt to make the refusal feel mutual. It states the limi
 
 ⁘ If the refusal had stopped one sentence earlier, what would the recipient still have to reconstruct?
 
-## When Limits Are Set, Movement Follows
+## 8.6 When Limits Are Set, Movement Follows
 
 > When constraint is carried responsibly, something changes.
 
@@ -279,7 +279,7 @@ A responsibly carried refusal does something different. It states the limit plai
 
 This is not generosity layered on top of clarity. It is clarity completed.
 
-## Where Movement Resumes
+## 8.7 Where Movement Resumes
 
 > Once the limit is clear, the work shifts.
 
@@ -297,64 +297,103 @@ That is how responsibility travels after bad news is delivered.
 
 🖼️ PF-refusal-vs-orientation 
 
-# Step 11 — Signal Lab
+## 8.8 Signal Lab
 
-## Decode
+::: {#chapter-8-signal-lab .signal_lab}
 
-### Decode 8.1
+### 8.8.1 Decode
+
+::: {.sl_decode}
+
+#### Decode 8.1
+
+::: {#decode-8-1 .sl_activity .decode_activity}
+
+::: {.sl_stimulus}
 A supervisor replies to a request:
 
 We won't be extending the timeline. Please work within the current deadline and adjust your internal plan as needed.
+:::
 
+::: {.sl_questions}
 1. What does this message decide—and what does it leave the audience to absorb?
-
 2. Where does the recipient's work begin after the refusal is stated?
-
 3. What becomes visible about asymmetry in the final sentence?
+:::
+:::
 
-### Decode 8.2
+#### Decode 8.2
+
+::: {#decode-8-2 .sl_activity .decode_activity}
+
+::: {.sl_stimulus}
 A department lead writes:
 
 I understand why you asked, and I really wish we could make this work. Right now it probably makes sense to keep the original arrangement.
+:::
 
+::: {.sl_questions}
 1. Which parts of the message sound empathetic, and which parts sound decisive?
-
 2. What is the recipient likely to treat as final—and what still sounds negotiable?
-
 3. Where might trust thin if the outcome is clearer than the wording allows?
+:::
+:::
 
-### Decode 8.3
+#### Decode 8.3
+
+::: {#decode-8-3 .sl_activity .decode_activity}
+
+::: {.sl_stimulus}
 A project manager sends this note:
 
 We can't approve the extension. The current deadline remains in place. If scope is now the issue, send a reduced version by noon so we can confirm what still fits.
+:::
 
+::: {.sl_questions}
 1. What closes in this message, and what opens?
-
 2. How does the second half change the recipient's position inside the constraint?
-
 3. What does the message do beyond delivering bad news?
+:::
+:::
+:::
 
-## Design
+### 8.8.2 Design
 
-### Design 8.1
+::: {.sl_design}
+
+#### Design 8.1
+
+::: {#design-8-1 .sl_activity .design_activity}
+
+::: {.sl_reference}
 Refer to Decode 8.2.
+:::
 
+::: {.sl_questions}
 A. What would need to change for the message to preserve empathy without disguising finality?
-
 B. Which phrase is carrying too much uncertainty for a constrained moment?
-
 C. What should the recipient no longer have to infer once the message is revised?
+:::
+:::
 
-### Design 8.2
+#### Design 8.2
+
+::: {#design-8-2 .sl_activity .design_activity}
+
+::: {.sl_reference}
 Refer to Decode 8.3.
+:::
 
+::: {.sl_questions}
 A. What must remain firm if the refusal is to stay intelligible?
-
 B. What follow-on guidance helps the audience move rather than stall?
-
 C. Where is the line between orientation and reopening negotiation?
+:::
+:::
+:::
+:::
 
-# Chapter 8 — Notes
+## 8.9 Notes
 
 1. Penelope Brown and Stephen C. Levinson, *Politeness: Some Universals in Language Usage* (Cambridge: Cambridge University Press, 1987); Kitty O. Locker, *Business and Administrative Communication* (Boston: McGraw-Hill); Mary Ellen Guffey, *Business Communication: Process and Product* (Boston: Cengage).
 
@@ -362,7 +401,7 @@ C. Where is the line between orientation and reopening negotiation?
 
 3. Tom R. Tyler, *Why People Obey the Law* (New Haven, CT: Yale University Press, 1990); Jason A. Colquitt, "On the Dimensionality of Organizational Justice," *Journal of Applied Psychology* 86, no. 3 (2001): 386–400.
 
-# Chapter 8 — For Further Study
+## 8.10 For Further Study
 
 **Business Communication**
 

@@ -1,4 +1,4 @@
-# Chapter 5: Channel Surfing
+# 5. Channel Surfing
 
 *Crafting Messages Across Channels*
 
@@ -55,7 +55,7 @@ They move through environments—some crowded, some quiet, some immediate, some 
 What follows is not a guide to choosing channels, but a way to see what channels are already doing to your messages.
 :::
 
-## Messages Do Not Arrive Alone.
+## 5.1 Messages Do Not Arrive Alone.
 
 By the time a message reaches its intended audience, it is already sharing space—competing with other messages, shaped by the medium that carries it, framed by expectations that have little to do with the communicator's intent. Even the most carefully structured message enters conditions it does not control.
 
@@ -65,7 +65,7 @@ In the previous chapter, structure made intention visible. Here, intention encou
 
 **That surface matters.**
 
-## Where Messages Land
+## 5.2 Where Messages Land
 
 **Channels shape interpretation before content appears.** This section reframes channels as conditions that establish pace, posture, and seriousness.
 
@@ -106,7 +106,7 @@ The audience senses immediately how much time is expected, how quickly a respons
 
 Channel choice, then, participates in interpretation—a finding long noted in organizational communication research on media fit and ambiguity, which shows that different channels shape urgency, richness, and interpretive load in systematic ways ¹.
 
-## A Moment of Orientation
+## 5.3 A Moment of Orientation
 
 **The audience is already situated before meaning arrives.** This section turns attention to the invisible conditions that shape engagement.
 
@@ -120,7 +120,7 @@ The conditions under which audiences consume messages—time available, physical
 
 ::: ITW-channel-awareness 
 
-### Inside the Message
+### 5.3.1 Inside the Message
 
 You are already inside a channel.
 
@@ -132,7 +132,7 @@ Nothing about the message has changed.
 
 But the conditions under which you meet it have already begun to shift the work.
 
-### Inside the Work
+### 5.3.2 Inside the Work
 
 ⟐ What condition does this message enter—focused attention, fragmented time, or interruption?
 
@@ -146,7 +146,7 @@ But the conditions under which you meet it have already begun to shift the work.
 
 Channels do not just carry messages. They shape the moment in which messages are met—a perspective echoed by work that treats media not as neutral tools but as environments that condition perception and response ².
 
-## Interference, Experienced
+## 5.4 Interference, Experienced
 
 **Messages encounter friction long before disagreement.** This section names the forces that bend, slow, or distort meaning in transit.
 
@@ -158,7 +158,7 @@ These conditions often operate together. They overlap and compound, sometimes ca
 
 It is felt.
 
-### Technical Interference: Access Before Meaning
+### 5.4.1 Technical Interference: Access Before Meaning
 
 **Access precedes interpretation.** This section shows how technical friction consumes attention before meaning earns it.
 
@@ -176,7 +176,7 @@ This is not about polish. It is about reach.
 
 Consider a report circulated as a dense PDF during a busy week. Even audiences who care about the outcome may postpone engagement simply because the format signals time they do not have. The same content, broken into a brief summary with links, can invite earlier attention without sacrificing rigor.
 
-### Emotional Interference: Readiness to Receive
+### 5.4.2 Emotional Interference: Readiness to Receive
 
 **Emotion is part of the channel.** This section explains how readiness shapes reception independent of intent.
 
@@ -194,7 +194,7 @@ A performance reminder delivered privately by email may feel supportive; the sam
 
 Communicators who recognize this begin to see when a message needs space, grounding, or reassurance—not as a tactic, but as an acknowledgment of the moment it enters.
 
-### Social Interference: Visibility and Risk
+### 5.4.3 Social Interference: Visibility and Risk
 
 **Visibility redistributes risk.** This section examines how channels quietly shape participation and silence.
 
@@ -212,7 +212,7 @@ These dynamics do not disappear with clarity. They persist alongside it.
 
 ::: ITW-visibility-risk 
 
-### Inside the Message
+### 5.4.4 Inside the Message
 
 "Can you clarify what ‘aligned with current standards' means in this case?"
 
@@ -226,7 +226,7 @@ The message remains the same.
 
 Your position inside it does not.
 
-### Inside the Work
+### 5.4.5 Inside the Work
 
 ⟐ Who is visible in this exchange—and who is exposed by participating?
 
@@ -244,7 +244,7 @@ For example, a question asked in a large meeting may go unspoken not because it 
 
 Choosing a channel is therefore also choosing a social configuration—one that shapes participation, silence, and response before the message itself has a chance to persuade or inform.
 
-### Cognitive Interference: Load and Attention
+### 5.4.6 Cognitive Interference: Load and Attention
 
 **Attention is a scarce resource.** This section frames clarity as respect for cognitive limits.
 
@@ -260,7 +260,7 @@ Cognitive interference does not mean the audience is careless or incapable. It m
 
 Communicators who recognize this begin to see clarity differently—not as simplification, but as respect for limited cognitive bandwidth. They become attentive to pacing, emphasis, and load, knowing that what is clear in one context may be overwhelming in another.
 
-## Interference in Concert
+## 5.5 Interference in Concert
 
 **Friction compounds across dimensions.** This section shows why channel choice is always a judgment under uncertainty.
 
@@ -303,7 +303,7 @@ What is the audience left to supply in each case?
 
 
 
-## From Containers to Conditions
+## 5.6 From Containers to Conditions
 
 **Channels are environments, not objects.** This section marks the conceptual shift that anchors the chapter.
 
@@ -315,7 +315,7 @@ Communicators who treat channels as containers focus on placement. Communicators
 
 This shift does not require abandoning efficiency or habit. It requires awareness.
 
-## Synchronous and Asynchronous, Reconsidered
+## 5.7 Synchronous and Asynchronous, Reconsidered
 
 **Timing redistributes responsibility.** This section reframes synchronicity as an ethical and structural choice.
 
@@ -329,7 +329,7 @@ Neither condition is inherently better. Each shapes how responsibility is shared
 
 ::: ITW-responsibility-shift 
 
-### Inside the Message
+### 5.7.1 Inside the Message
 
 "Please review the document and confirm that everything is aligned."
 
@@ -344,7 +344,7 @@ Some meaning is present. Some must be constructed.
 The message holds—but it does not complete itself.
 
 
-### Inside the Work
+### 5.7.2 Inside the Work
 
 ⟐ What must the audience supply that is not explicitly present?
 
@@ -362,7 +362,7 @@ A brainstorming session may benefit from synchronous exchange to surface ideas q
 
 In synchronous spaces, responsibility is distributed across participants. In asynchronous ones, it rests more heavily on the communicator to anticipate questions, provide context, and signal priorities clearly.
 
-## Coherence Across Surfaces
+## 5.8 Coherence Across Surfaces
 
 **Messages rarely live in one place.** This section explains why alignment matters more than completeness.
 
@@ -378,7 +378,7 @@ Coherence does not require repetition. It requires alignment.
 
 When audiences encounter a decision first as a spoken summary and later as a written rationale, alignment helps them recognize continuity rather than contradiction—even when details differ.
 
-## Plain Language as Friction Management
+## 5.9 Plain Language as Friction Management
 
 **Clarity conserves attention.** This section positions plain language as a design response to interference.
 
@@ -390,7 +390,7 @@ In channels where attention is fragmented or stakes are high, clarity preserves 
 
 This is not about lowering standards. It is about allocating cognitive effort where it matters most.
 
-## Ownership, Extended
+## 5.10 Ownership, Extended
 
 **Responsibility expands as messages move.** This section bridges channel awareness to the next layer of communication.
 
@@ -404,10 +404,19 @@ The same planning decisions that shape a message internally now shape how it sur
 
 That layer comes next.
 
-**Signal Lab — Decode**
+## 5.11 Signal Lab
 
-**Decode 5.1**
+::: {#chapter-5-signal-lab .signal_lab}
 
+### 5.11.1 Decode
+
+::: {.sl_decode}
+
+#### Decode 5.1
+
+::: {#decode-5-1 .sl_activity .decode_activity}
+
+::: {.sl_stimulus}
 A project update is sent:
 
 "We've moved the deadline to Friday. Please adjust your work accordingly."
@@ -419,16 +428,20 @@ It appears in three places:
 - a weekly project summary email  
 
 The message is unchanged.
+:::
 
-Where does coordination happen easily—and where does it begin to fragment?
+::: {.sl_questions}
+1. Where does coordination happen easily—and where does it begin to fragment?
+2. What must the audience supply in each setting before action becomes possible?
+3. Where does the work of alignment fall?
+:::
+:::
 
-What must the audience supply in each setting before action becomes possible?
+#### Decode 5.2
 
-Where does the work of alignment fall?
+::: {#decode-5-2 .sl_activity .decode_activity}
 
-
-**Decode 5.2**
-
+::: {.sl_stimulus}
 A status update is shared:
 
 "We're continuing to make progress across all workstreams. A few dependencies are still resolving, and we'll have more clarity soon."
@@ -437,16 +450,20 @@ The update is delivered:
 
 - as a quick message in a busy chat thread  
 - as a written update in a project report  
+:::
 
-What is likely to be noticed in each case?
+::: {.sl_questions}
+1. What is likely to be noticed in each case?
+2. What is likely to be assumed?
+3. Where might interpretation begin to drift?
+:::
+:::
 
-What is likely to be assumed?
+#### Decode 5.3
 
-Where might interpretation begin to drift?
+::: {#decode-5-3 .sl_activity .decode_activity}
 
-
-**Decode 5.3**
-
+::: {.sl_stimulus}
 A request is issued:
 
 "Review the attached materials and provide feedback."
@@ -456,15 +473,20 @@ It is sent:
 - during a live discussion  
 - as a follow-up email  
 - as a task in a project management tool  
+:::
 
-Where does clarity depend on the moment?  
-Where does it depend on the message itself?
+::: {.sl_questions}
+1. Where does clarity depend on the moment?
+2. Where does it depend on the message itself?
+3. Who is responsible for making the request usable in each case?
+:::
+:::
 
-Who is responsible for making the request usable in each case?
+#### Decode 5.4
 
+::: {#decode-5-4 .sl_activity .decode_activity}
 
-**Decode 5.4**
-
+::: {.sl_stimulus}
 A clarification question forms as a message is read:
 
 "Can you clarify what ‘aligned with current standards' means in this case?"
@@ -478,54 +500,81 @@ It could be asked:
 - in a direct message to the sender  
 
 The wording does not change.
+:::
 
-Where does the question feel easy to ask—and where does it begin to carry risk?
+::: {.sl_questions}
+1. Where does the question feel easy to ask—and where does it begin to carry risk?
+2. Who is likely to speak—and who is likely to hold back?
+3. What happens to understanding when the question is not asked at all?
+:::
+:::
+:::
 
-Who is likely to speak—and who is likely to hold back?
+### 5.11.2 Design
 
-What happens to understanding when the question is not asked at all?
+::: {.sl_design}
 
+#### Design 5.1
 
-**Signal Lab — Design**
+::: {#design-5-1 .sl_activity .design_activity}
 
-**Design 5.1**
-
+::: {.sl_reference}
 Refer to Decode 5.1.
+:::
 
+::: {.sl_stimulus}
 You cannot change the message.
 
 You can only change the channel.
+:::
 
-Where would you place this message to support coordinated response?
+::: {.sl_questions}
+A. Where would you place this message to support coordinated response?
+B. What conditions must be present for that choice to hold?
+:::
+:::
 
-What conditions must be present for that choice to hold?
+#### Design 5.2
 
+::: {#design-5-2 .sl_activity .design_activity}
 
-**Design 5.2**
-
+::: {.sl_reference}
 Refer to Decode 5.2.
+:::
 
+::: {.sl_stimulus}
 You cannot change the channel.
 
 You can only change the message.
+:::
 
-What would need to be carried explicitly to reduce interpretation drift?
+::: {.sl_questions}
+A. What would need to be carried explicitly to reduce interpretation drift?
+B. What must travel with the message so that meaning survives the conditions?
+:::
+:::
 
-What must travel with the message so that meaning survives the conditions?
+#### Design 5.3
 
+::: {#design-5-3 .sl_activity .design_activity}
 
-**Design 5.3**
-
+::: {.sl_reference}
 Refer to Decode 5.3.
+:::
 
+::: {.sl_stimulus}
 You can change both the message and the channel.
+:::
 
-What combination would reduce the need for follow-up clarification?
+::: {.sl_questions}
+A. What combination would reduce the need for follow-up clarification?
+B. Where does the work of understanding belong—and how will you distribute it?
+:::
+:::
+:::
+:::
 
-Where does the work of understanding belong—and how will you distribute it?
-
-
-# Chapter 5 — Notes
+## 5.12 Notes
 
 1. Richard L. Daft and Robert H. Lengel, "Organizational Information Requirements, Media Richness and Structural Design," *Management Science* 32, no. 5 (1986): 554–571.
 
@@ -537,7 +586,7 @@ Where does the work of understanding belong—and how will you distribute it?
 
 5. Mary Ellen Guffey, *Business Communication: Process and Product* (Boston: Cengage); Courtland L. Bovée and John V. Thill, *Business Communication Today* (Boston: Pearson).
 
-# Chapter 5 — For Further Study
+## 5.13 For Further Study
 
 **Business Communication**
 
