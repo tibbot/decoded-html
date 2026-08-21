@@ -84,30 +84,13 @@ Across business communication, rhetoric, and adjacent fields, a consistent patte
 What emerges across this lineage is a shift: presentation is no longer the final step of communication. It is the moment where judgment becomes possible under constraint.
 
 
-### 12.2.1 Inside the Message
+::: {#diagram-12-1 .diagram_ref .io_ref data-src="io-pairs/io_visual-decision-slide.html"}
+[io_visual-decision-slide.html](io-pairs/io_visual-decision-slide.html)
 
-A slide appears near the start of a presentation:
-
-**Recommendation: Expand Pilot to All Regions**
-
-Below the title, a chart shows adoption rising across six weeks. The line is clean. The color is confident. A small note reads: "Week 5 excludes incomplete partner data."
-
-The presenter begins speaking, but the room has already moved.
-
-The title has made the recommendation feel like the premise. The chart has made growth feel continuous. The footnote is visible, but not active.
-
-Nothing on the slide is false.
-
-What it asks the room to notice first is doing the work.
-
-### 12.2.2 Inside the Work
-
-⁘ What has the slide made easy to accept before explanation begins?
-
-⁘ Which uncertainty is present but visually weakened?
-
-⁘ What would need to change for the room to inspect the recommendation rather than inherit it?
-
+::: {.diagram_caption}
+Diagram 12.1: io_visual-decision-slide.html
+:::
+:::
 
 In live contexts, visuals often speak before the presenter does. They frame expectations, cue interpretation, and suggest conclusions in advance of explanation. Even a brief glance can establish a narrative that spoken qualifiers struggle to reopen.
 
@@ -119,7 +102,7 @@ What is placed on the slide is elevated. What is absent is demoted. What is simp
 
 This is why visuals accelerate decision-making. They collapse complexity into something that can be apprehended at a glance. That speed is not neutral. It favors conclusions that survive reduction over those that require context to be understood.
 
-### 12.2.3 When Design Starts Deciding for the Room
+### 12.2.1 When Design Starts Deciding for the Room
 
 > By the time a visual appears, its ethical choices have already been made.
 
@@ -131,7 +114,7 @@ The slide does not say, "This is settled." It implies, "This is what remains aft
 
 Not all decisions fail because they are wrong. Some fail because not everyone was able to see the same thing.
 
-### 12.2.4 When the Decision Isn't Shared
+### 12.2.2 When the Decision Isn't Shared
 
 > When not everyone can read the visual, not everyone shares the decision.
 
@@ -141,7 +124,7 @@ If a visual cannot be interpreted by everyone in the room—because of color dep
 
 Accessible design does more than include. It exposes assumptions about who is expected to understand quickly and who is expected to follow.
 
-### 12.2.5 Before Anyone Has Time to Sit With It
+### 12.2.3 Before Anyone Has Time to Sit With It
 
 > Slides decide how long the room is allowed to think.
 
@@ -168,9 +151,14 @@ Sequence and timing do not simply organize a presentation. They determine what t
 Because time is finite, structure acts as a sorting mechanism. It tells the audience—often implicitly—what deserves sustained attention and what can be treated as context, background, or constraint rather than substance.
 
 The way a talk is organized does more than help an audience follow along. It determines what will be treated as foundational, what will be tolerated as nuance, and what will be dismissed as peripheral once time runs out.
+::: {#diagram-12-2 .diagram_ref .pf_ref data-src="alignment/pf-structure-priority.html"}
+[pf-structure-priority.html](alignment/pf-structure-priority.html)
 
-::: {#pf-structure-priority .pf}
+::: {.diagram_caption}
+Diagram 12.2: pf-structure-priority.html
 :::
+:::
+
 
 
 Openings establish the frame within which everything else will be interpreted. Once this frame is set, it becomes difficult to escape. Evidence introduced later will be evaluated against it, not alongside it.
@@ -241,33 +229,13 @@ Some questions are welcomed. Others are tolerated. A few are deflected.
 
 "We can take that offline" is not logistical. It redistributes responsibility.
 
-### 12.5.1 Inside the Message
+::: {#diagram-12-3 .diagram_ref .io_ref data-src="io-pairs/io_question-power.html"}
+[io_question-power.html](io-pairs/io_question-power.html)
 
-A stakeholder asks:
-
-"Do we know whether the adoption trend holds if Week 5 partner data is included?"
-
-The presenter answers:
-
-"That is a good question. We can take the data-quality details offline, but the overall direction is clear."
-
-The meeting continues.
-
-The question has not been ignored. It has been relocated.
-
-The room hears responsiveness. It also receives a signal: the central judgment remains intact.
-
-The compression has been challenged, but not reopened.
-
-
-### 12.5.2 Inside the Work
-
-⁘ What did the question make visible?
-
-⁘ What did the answer preserve—and what did it move out of the room?
-
-⁘ When does "offline" protect focus, and when does it remove accountability from the decision space?
-
+::: {.diagram_caption}
+Diagram 12.3: io_question-power.html
+:::
+:::
 
 Power dynamics shape whose questions survive.
 
@@ -302,9 +270,14 @@ Without the room, the qualifiers weaken. Without the pacing, the sequence disapp
 Once slides circulate without narration, they acquire a different authority. They appear finished, even when they were provisional. Titles harden into claims. Visuals detach from the conditions under which they were discussed.
 
 Meeting notes favor decisiveness. Ambiguity is inconvenient to record. A slide that felt provisional in the room can read as final once it travels. A title that guided discussion becomes the conclusion others inherit. Later, outcomes are justified by what was presented.
+::: {#diagram-12-4 .diagram_ref .pf_ref data-src="alignment/pf-artifact-afterlife.html"}
+[pf-artifact-afterlife.html](alignment/pf-artifact-afterlife.html)
 
-::: {#pf-artifact-afterlife .pf}
+::: {.diagram_caption}
+Diagram 12.4: pf-artifact-afterlife.html
 :::
+:::
+
 
 The artifact does not remember the moment. It replaces it. Responsible presentations anticipate their afterlife.
 
@@ -435,6 +408,8 @@ C. How should the meeting record capture the unresolved question?
 :::
 :::
 
+::: {.notes}
+
 ## 12.9 Notes
 
 1. Mary Ellen Guffey, *Business Communication: Process and Product*; Courtland L. Bovée and John V. Thill, *Business Communication Today*.
@@ -442,6 +417,10 @@ C. How should the meeting record capture the unresolved question?
 2. Katharine O. Locker, *Business and Administrative Communication*; Erving Goffman, *The Presentation of Self in Everyday Life*.
 
 3. John Sweller, *Cognitive Load Theory*; Richard Schechner, *Performance Studies: An Introduction*.
+
+:::
+
+::: {.further_study}
 
 ## 12.10 For Further Study
 
@@ -464,3 +443,5 @@ Goffman, Erving. *The Presentation of Self in Everyday Life.*
 Schechner, Richard. *Performance Studies: An Introduction.*
 
 Sweller, John. *Cognitive Load Theory.*
+
+:::

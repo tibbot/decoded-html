@@ -67,29 +67,13 @@ Once movement begins, uncertainty does not disappear. It settles—sometimes une
 
 Persuasion is not the act of securing agreement. It is the act of inviting others into exposure.
 
-✏️  ITM-risk-visibility
+::: {#diagram-9-1 .diagram_ref .io_ref data-src="io-pairs/io_risk-visibility.html"}
+[io_risk-visibility.html](io-pairs/io_risk-visibility.html)
 
-### 9.3.1 Inside the Message
-
-*Team —*
-*There is a real chance to expand the client relationship if we can produce a preliminary proposal by next Friday. Nothing is final yet, but early movement will help position us well. Let me know who can lean in this week so we can keep momentum.*
-
-The message sounds measured. It does not overclaim. It does not order anyone outright.
-But it creates motion before the audience can fully see what that motion may attach them to.
-"Early movement" sounds temporary. "Lean in" sounds bounded. "Keep momentum" makes hesitation feel like loss.
-The ask is still voluntary on the surface.
-The exposure is not yet fully visible.
-
-### 9.3.2 Inside the Work
-
-⁘ What future burden is being suggested without being fully named?
-
-⁘ Which costs remain offstage at the moment the audience is asked to move?
-
-⁘ What does the language make feel temporary that may become ongoing once the decision takes hold?
-
-⁘ If someone agrees now, what are they likely to discover only after momentum hardens?
-
+::: {.diagram_caption}
+Diagram 9.1: io_risk-visibility.html
+:::
+:::
 
 ## 9.4 Where Decisions Actually Form
 
@@ -148,26 +132,13 @@ Communicators feel sincere. Recipients feel motivated. Action follows. And yet, 
 
 The missing element was not goodwill. It was exposure made legible early enough to matter.
 
-✏️  ITM-legible-exposure
+::: {#diagram-9-2 .diagram_ref .io_ref data-src="io-pairs/io_legible-exposure.html"}
+[io_legible-exposure.html](io-pairs/io_legible-exposure.html)
 
-### 9.6.1 Inside the Message
-
-*Client update:*
-*We are continuing to make progress across the proposed rollout and the team is aligning well around next steps. A few dependencies are still resolving, but we expect to have clearer visibility shortly and remain optimistic about the direction.*
-
-Nothing here is false. Progress is real. Alignment may be real. Even optimism may be earned.
-Yet the message smooths the terrain at exactly the point where the audience would need sharper footing.
-"Dependencies are still resolving" carries uncertainty without scale. "Clearer visibility shortly" defers consequence into a later moment. The message protects momentum, but it also thins the audience's ability to see what is narrowing now.
-
-### 9.6.2 Inside the Work
-
-⁘ What does the audience believe after reading this that the message has not fully earned?
-
-⁘ Where has uncertainty been made abstract rather than actionable?
-
-⁘ What remains accurate yet insufficient for informed judgment?
-
-⁘ If consequences surface later, what part of that surprise was already built into this phrasing?
+::: {.diagram_caption}
+Diagram 9.2: io_legible-exposure.html
+:::
+:::
 
 ## 9.7 Informed Movement
 
@@ -182,8 +153,14 @@ Legibility requires design choices. It requires naming tradeoffs before enthusia
 Legibility does not mean exhaustive detail or predictive certainty. It means proportional honesty—clarity that matches the weight of the decision being asked of others.
 
 When the ask is small, exposure should be small and clear. When the ask is large, vagueness becomes irresponsible.
+::: {#diagram-9-3 .diagram_ref .pf_ref data-src="alignment/pf-shared-consequence.html"}
+[pf-shared-consequence.html](alignment/pf-shared-consequence.html)
 
-🖼️  PF-shared-consequence
+::: {.diagram_caption}
+Diagram 9.3: pf-shared-consequence.html
+:::
+:::
+
 
 This is where ownership sharpens. The communicator must decide which uncertainties belong at the center of the message and which can remain peripheral. Enthusiasm cannot substitute for disclosure. Vision cannot replace orientation.
 
@@ -250,8 +227,14 @@ Neither moment is dramatic. Neither involves bad faith.
 But they lead to different experiences of ownership.
 
 The question is not which ask was kinder. It is which made exposure legible early enough for consent to be meaningful.
+::: {#diagram-9-4 .diagram_ref .pf_ref data-src="alignment/pf-informed-movement.html"}
+[pf-informed-movement.html](alignment/pf-informed-movement.html)
 
-🖼️  PF-informed-movement
+::: {.diagram_caption}
+Diagram 9.4: pf-informed-movement.html
+:::
+:::
+
 
 ## 9.9 Where It Stops Being Neutral
 
@@ -408,6 +391,8 @@ C. Where should the communicator absorb more responsibility for legibility befor
 :::
 :::
 
+::: {.notes}
+
 ## 9.12 Notes
 
 1. Mary Ellen Guffey, *Business Communication: Process and Product* (Boston: Cengage); Kitty O. Locker, *Business and Administrative Communication* (Boston: McGraw-Hill).
@@ -421,6 +406,10 @@ C. Where should the communicator absorb more responsibility for legibility befor
 5. Kitty O. Locker, *Business and Administrative Communication*; Mary Ellen Guffey, *Business Communication: Process and Product*.
 
 6. Aristotle, *Rhetoric*; Carolyn R. Miller, "Genre as Social Action," *Quarterly Journal of Speech* 70, no. 2 (1984): 151–167.
+
+:::
+
+::: {.further_study}
 
 ## 9.13 For Further Study
 
@@ -446,3 +435,5 @@ Miller, Carolyn R. "Genre as Social Action."
 
 French, John R. P., and Bertram Raven. "The Bases of Social Power."
 
+
+:::

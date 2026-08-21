@@ -75,6 +75,15 @@ Consider a one‑page memo presented as a single uninterrupted block versus the 
 In the second version, readers can scan, orient, and decide where to slow down.
 In the first, they must commit fully—before knowing whether the effort will be rewarded.
 
+::: {#diagram-6-1 .diagram_ref .io_ref data-src="io-pairs/io_convergence.html"}
+[io_convergence.html](io-pairs/io_convergence.html)
+
+::: {.diagram_caption}
+Diagram 6.1: io_convergence.html
+:::
+:::
+
+
 When those signals are present and consistent, readers move with relative ease. When they are absent, readers compensate.
 
 They search for landmarks.
@@ -85,57 +94,22 @@ That effort does not disappear. It shifts.
 
 Design determines who pays first, a distribution of cognitive load that usability research has long treated as a design choice rather than a reader deficiency ².
 
-✏️ ITW-effort-distribution 
+::: {#diagram-6-2 .diagram_ref .io_ref data-src="io-pairs/io_effort-distribution.html"}
+[io_effort-distribution.html](io-pairs/io_effort-distribution.html)
 
-Inside the Message
+::: {.diagram_caption}
+Diagram 6.2: io_effort-distribution.html
+:::
+:::
 
-A project brief is shared as a single, uninterrupted block of text.
+::: {#diagram-6-3 .diagram_ref .pf_ref data-src="alignment/pf-share-a-decision-update.html"}
+[pf-share-a-decision-update.html](alignment/pf-share-a-decision-update.html)
 
-It contains all required information: objectives, constraints, timelines, and next steps.
+::: {.diagram_caption}
+Diagram 6.3: pf-share-a-decision-update.html
+:::
+:::
 
-No headings. No spacing. No visual cues.
-
-Nothing is missing.
-
-Inside the Work
-
-⁘ Where does the audience begin—and where do they have to find their own starting point?
-
-⁘ What must be located before meaning becomes usable?
-
-⁘ How long does the message ask for before it gives anything back?
-
-⁘ Which parts are most likely to be skipped—not because they lack importance, but because they require too much effort to find?
-
-⁘ If the message is only partially read, what survives—and what does not?
-
-✏️
-
-🖼️ PF-visibility-1 
-
-**Purpose**  
-Share a decision update so the team can act without delay.
-
----
-
-**Version A**
-
-"Rollout begins Friday. Confirm your component is ready by Wednesday and flag any blockers today."
-
----
-
-**Version B**
-
-"We've finalized the rollout plan. The timeline, dependencies, and next steps are outlined below. Please review and proceed accordingly."
-
----
-
-**Alignment**
-
-Which version carries action forward immediately?  
-What must be located before work can begin?
-
-🖼️
 
 ## 6.3 Attribution Happens Automatically
 
@@ -153,29 +127,13 @@ They do not see copy‑and‑paste artifacts. They do not see inherited formatti
 
 And the surface is treated as intentional.
 
-✏️ ITW-attribution 
+::: {#diagram-6-4 .diagram_ref .io_ref data-src="io-pairs/io_attribution.html"}
+[io_attribution.html](io-pairs/io_attribution.html)
 
-Inside the Message
-
-A report is delivered with inconsistent headings, uneven spacing, and shifting visual patterns.
-
-The analysis is careful. The conclusions are sound.
-
-Nothing in the content signals haste.
-
-Inside the Work
-
-⁘ What does the audience assume about the communicator before evaluating the analysis?
-
-⁘ Which visible patterns are treated as deliberate—and which are read as oversight?
-
-⁘ Where does perceived effort begin to stand in for actual effort?
-
-⁘ How quickly does interpretation move from the message to the person behind it?
-
-⁘ What would need to change on the surface for the same content to be received differently?
-
-✏️
+::: {.diagram_caption}
+Diagram 6.4: io_attribution.html
+:::
+:::
 
 ## 6.4 Naming the Assumption
 
@@ -194,32 +152,14 @@ When that alignment holds, readers move with confidence. When it breaks, readers
 The cost is not confusion alone. It is trust.
 
 Once intentionality is named, design stops looking like a finishing touch. It becomes the surface where ownership shows itself.
+::: {#diagram-6-5 .diagram_ref .pf_ref data-src="alignment/pf-provide-a-stakeholder-project-update.html"}
+[pf-provide-a-stakeholder-project-update.html](alignment/pf-provide-a-stakeholder-project-update.html)
 
-🖼️ PF-visibility-2 
+::: {.diagram_caption}
+Diagram 6.5: pf-provide-a-stakeholder-project-update.html
+:::
+:::
 
-**Purpose**  
-Provide a project update for external stakeholders so they correctly understand current risk.
-
----
-
-**Version A**
-
-"Dependencies remain unresolved. If they do not align this week, the timeline may shift."
-
----
-
-**Version B**
-
-"We're continuing to make progress across all workstreams. A few dependencies are still resolving, and we'll have more clarity soon."
-
----
-
-**Alignment**
-
-Which version makes risk visible early enough to act on?  
-What must be inferred in each case?
-
-🖼️
 
 ## 6.5 How Intentionality Breaks
 
@@ -245,6 +185,15 @@ Good looks can, at times, override what would otherwise require closer scrutiny�
 
 This is uncomfortable, but it is real.
 
+::: {#diagram-6-6 .diagram_ref .io_ref data-src="io-pairs/io_credibility.html"}
+[io_credibility.html](io-pairs/io_credibility.html)
+
+::: {.diagram_caption}
+Diagram 6.6: io_credibility.html
+:::
+:::
+
+
 The point is not to reward polish or dismiss substance. It is to recognize that credibility is inferred from visible cues whether we intend it or not. Design does not replace thinking, but it frames how thinking is received.
 
 Writers who ignore this do not become more authentic. They become harder to hear.
@@ -263,57 +212,22 @@ Design that anticipates variation—differences in device, attention, environmen
 
 This is not aesthetic sensitivity. It is foresight.
 
-✏️ ITW-access 
+::: {#diagram-6-7 .diagram_ref .io_ref data-src="io-pairs/io_access.html"}
+[io_access.html](io-pairs/io_access.html)
 
-Inside the Message
+::: {.diagram_caption}
+Diagram 6.7: io_access.html
+:::
+:::
 
-A table distinguishes categories using color alone.
+::: {#diagram-6-8 .diagram_ref .pf_ref data-src="alignment/pf-confirm-next-steps-cross-functional.html"}
+[pf-confirm-next-steps-cross-functional.html](alignment/pf-confirm-next-steps-cross-functional.html)
 
-On one screen, the differences are clear.
+::: {.diagram_caption}
+Diagram 6.8: pf-confirm-next-steps-cross-functional.html
+:::
+:::
 
-On another, the contrast is difficult to detect.
-
-The labels are minimal. The structure assumes visibility.
-
-Inside the Work
-
-⁘ Who can fully engage with this message—and who must compensate?
-
-⁘ What must the audience supply when visibility is uneven?
-
-⁘ Where does effort increase—not because of complexity, but because of presentation?
-
-⁘ What happens to participation when access is partial rather than complete?
-
-⁘ If the distinction cannot be seen, does the message still function as intended?
-
-✏️
-
-🖼️ PF-visibility-3 
-
-**Purpose**  
-Confirm next steps in a cross-functional team so work proceeds in a coordinated way.
-
----
-
-**Version A**
-
-"Design will finalize assets this week. Engineering will begin implementation next week. QA will follow."
-
----
-
-**Version B**
-
-"Design finalizes assets by Thursday. Engineering begins Friday. QA starts immediately after handoff."
-
----
-
-**Alignment**
-
-Where does coordination become usable?  
-What must be reconstructed before teams can align?
-
-🖼️
 
 ## 6.8 Seeing the Whole System
 
@@ -328,32 +242,14 @@ Design is where these forces begin to show.
 What is visible is what is judged—not because readers are shallow, but because meaning cannot land where it cannot be seen.
 
 And once something is seen, it cannot be unseen.
+::: {#diagram-6-9 .diagram_ref .pf_ref data-src="alignment/pf-escalate-an-issue-to-senior-management.html"}
+[pf-escalate-an-issue-to-senior-management.html](alignment/pf-escalate-an-issue-to-senior-management.html)
 
-🖼️ PF-visibility-4 
+::: {.diagram_caption}
+Diagram 6.9: pf-escalate-an-issue-to-senior-management.html
+:::
+:::
 
-**Purpose**  
-Escalate an issue to senior management so it receives immediate attention.
-
----
-
-**Version A**
-
-"We've encountered an issue affecting the integration. Details are below, along with context and possible causes."
-
----
-
-**Version B**
-
-"Integration is failing in production. Investigation is underway. Immediate support needed to prevent impact."
-
----
-
-**Alignment**
-
-Which version signals urgency before explanation?  
-What becomes visible first—and what does that change?
-
-🖼️
 
 
 ## 6.9 Communication That Breathes
@@ -503,6 +399,8 @@ B. What decision does that enforce?
 :::
 :::
 
+::: {.notes}
+
 ## 6.11 Notes
 
 1. Edward R. Tufte, *The Visual Display of Quantitative Information* (Cheshire, CT: Graphics Press, 1983); Janice (Ginny) Redish, *Letting Go of the Words* (San Francisco: Morgan Kaufmann, 2007); Donald A. Norman, *The Design of Everyday Things* (New York: Basic Books, 1988).
@@ -512,6 +410,10 @@ B. What decision does that enforce?
 3. Edward R. Tufte, *The Visual Display of Quantitative Information* (Cheshire, CT: Graphics Press, 1983).
 
 4. Ronald L. Mace, "Universal Design in Housing," *Assistive Technology* 10, no. 1 (1998); World Wide Web Consortium (W3C), *Web Content Accessibility Guidelines (WCAG)*.
+
+:::
+
+::: {.further_study}
 
 ## 6.12 For Further Study
 
@@ -535,3 +437,5 @@ Mace, Ronald L. Universal Design principles.
 
 W3C. *Web Content Accessibility Guidelines (WCAG).*
 
+
+:::

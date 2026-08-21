@@ -103,8 +103,14 @@ At its simplest, the model separates three elements:
 Table: SMR Anatomy
 
 
-Image: SMR Lens\
-Direction: Who is responsible for what here?
+::: {#diagram-1-1 .diagram_ref .image_ref data-src="images/SMR - Direction.svg"}
+[SMR - Direction.svg](images/SMR%20-%20Direction.svg)
+
+::: {.diagram_caption}
+Diagram 1.1: SMR - Direction.svg
+:::
+:::
+
 
 ### 1.4.2 How it works
 
@@ -129,10 +135,14 @@ Still, it gave us the first tool to diagnose why so many meetings, memos, and me
 And once we drew it, the next question practically asked itself:
 
 ***Why do clear messages fail?***
+::: {#diagram-1-2 .diagram_ref .pf_ref data-src="alignment/pf-confirming-timeline.html"}
+[pf-confirming-timeline.html](alignment/pf-confirming-timeline.html)
 
-◈ PF-confirmation-drift
+::: {.diagram_caption}
+Diagram 1.2: pf-confirming-timeline.html
+:::
+:::
 
-Figure: Confirming a timeline
 
 ## 1.5 Shannon–Weaver—Discovering Distortion
 
@@ -160,8 +170,14 @@ This model adds two pressures the earlier line could not show: the *channel* a m
 
 Table: Shannon-Weaver Anatomy
 
-Image: Shannon-Weaver Lens\
-Distortion: Where could this message have been altered or degraded?
+::: {#diagram-1-3 .diagram_ref .image_ref data-src="images/Shannon Weaver - Distortion.svg"}
+[Shannon Weaver - Distortion.svg](images/Shannon%20Weaver%20-%20Distortion.svg)
+
+::: {.diagram_caption}
+Diagram 1.3: Shannon Weaver - Distortion.svg
+:::
+:::
+
 
 ### 1.5.2 How it works
 
@@ -172,10 +188,14 @@ During a video meeting, a poor internet connection causes words to drop out. Eve
 ### 1.5.3 Why it matters
 
 Recognizing noise helps business communicators troubleshoot miscommunication. When a message doesn't land, it may not be the people—it may be the channel.
+::: {#diagram-1-4 .diagram_ref .pf_ref data-src="alignment/pf-addressing-missed-updates.html"}
+[pf-addressing-missed-updates.html](alignment/pf-addressing-missed-updates.html)
 
-◈ PF-correction-expectation
+::: {.diagram_caption}
+Diagram 1.4: pf-addressing-missed-updates.html
+:::
+:::
 
-Image: Addressing missed updates in a reporting process
 
 
 Even when messages arrive intact, misunderstandings persist. Noise, of course, had always existed. The SMR line was never truly clean; we just lacked the language to measure its distortion. Shannon–Weaver made the invisible visible. Communication stopped being a clear pipe and became a signal struggling through resistance.
@@ -194,31 +214,14 @@ This model gave us two enduring questions:
 
 2.      **What kinds of noise could distort it?**
 
-### 1.5.4 Inside the Message
+::: {#diagram-1-5 .diagram_ref .io_ref data-src="io-pairs/io_channel-survival.html"}
+[io_channel-survival.html](io-pairs/io_channel-survival.html)
 
-*The message moves—but not all of it holds.*
+::: {.diagram_caption}
+Diagram 1.5: io_channel-survival.html
+:::
+:::
 
-The same update is delivered in a meeting, then sent through a channel.
-
-In one setting, attention gathers; in another, it fragments.
-
-Some parts carry forward. Others begin to thin.
-
-The content is unchanged.
-
-What survives is not.
-
-### 1.5.5 Inside the Work
-
-Signals do not travel intact; they travel under conditions.
-
-Where attention narrows, more holds. Where it fragments, more gives way.
-
-What arrives is shaped as much by the channel as by the words.
-
-⁘ What is being carried forward?
-
-⁘ What is lost in transit?
 
 Yet even with perfect channels and low noise, misunderstandings persisted. Something deeper than interference was at work.
 
@@ -252,7 +255,14 @@ Schramm's model turns attention away from transmission alone and toward the shar
 
 Table: Schramm Anatomy
 
-Image: Schramm Lens — Interpretation: Do we mean the same thing when we say this?
+::: {#diagram-1-6 .diagram_ref .image_ref data-src="images/Schramm - Interpretation.svg"}
+[Schramm - Interpretation.svg](images/Schramm%20-%20Interpretation.svg)
+
+::: {.diagram_caption}
+Diagram 1.6: Schramm - Interpretation.svg
+:::
+:::
+
 
 ### 1.6.2 How it works
 
@@ -264,33 +274,22 @@ This model reminds us that clarity isn't just about words—it's about context. 
 
 In business, the insight is everywhere. A financial analyst and a software engineer might both use the word "launch," but one imagines a product milestone while the other imagines a rocket trajectory. The signal travels perfectly—no noise—yet the meaning diverges.
 
-### 1.6.4 Inside the Message
+::: {#diagram-1-7 .diagram_ref .io_ref data-src="io-pairs/io_shared-ground.html"}
+[io_shared-ground.html](io-pairs/io_shared-ground.html)
 
-Understanding holds—but not in the same place.
+::: {.diagram_caption}
+Diagram 1.7: io_shared-ground.html
+:::
+:::
 
-A feature is explained clearly. Terms are precise. Steps follow logically.
+::: {#diagram-1-8 .diagram_ref .pf_ref data-src="alignment/pf-introduce-new-feature.html"}
+[pf-introduce-new-feature.html](alignment/pf-introduce-new-feature.html)
 
-From one frame, it holds. From another, it begins to drift.
+::: {.diagram_caption}
+Diagram 1.8: pf-introduce-new-feature.html
+:::
+:::
 
-Meaning does not break; it diverges.
-
-What is understood depends on where the message begins.
-
-### 1.6.5 Inside the Work
-
-Meaning takes hold where something is already familiar.
-
-When a message begins outside that ground, the work shifts from understanding to translation.
-
-What holds in one frame can feel distant in another—not because the message failed, but because the starting point moved.
-
-⁘ Where does understanding begin?
-
-⁘ What must be bridged?
-
-◈ PF-introduction-audience-start
-
-Image: Introducing a new feature to a cross-functional audience
 
 Schramm's model pushed communication from mechanics toward psychology and culture. It captured empathy's role: understanding requires seeing through another's frame. In a global economy, this became the difference between collaboration and chaos.
 
@@ -326,11 +325,14 @@ The Transactional model stops separating sender and receiver and treats communic
 
 Table: Transactional Anatomy
 
-Image: Transactional Lens — Co-creation How is this interaction changing as it unfolds?
-<figure>
-<img src="C:\Users\guy_b\OneDrive\Documents\re-BComm\decoded\Section 1 - The Hidden Wiring\Chapter 1 - Static and Signal\chapter_1_final.media/media/image14.svg" style="width:6.5in;height:1.83056in" />
-<figcaption><p></p></figcaption>
-</figure>
+::: {#diagram-1-9 .diagram_ref .image_ref data-src="images/Transactional - Co-creation.svg"}
+[Transactional - Co-creation.svg](images/Transactional%20-%20Co-creation.svg)
+
+::: {.diagram_caption}
+Diagram 1.9: Transactional - Co-creation.svg
+:::
+:::
+
 
 ### 1.7.2 How it works
 
@@ -408,31 +410,14 @@ Real-world communication rarely flows smoothly. Messages can be disrupted by:
 
 - **Feedback Loops**—the cues that tell senders whether the message landed as intended. A quick emoji reaction in chat, a puzzled look on camera, or silence in a meeting all provide feedback. Without feedback, even polished messages risk failure.
 
-### 1.9.1 Inside the Message
+::: {#diagram-1-10 .diagram_ref .io_ref data-src="io-pairs/io_diagnostic.html"}
+[io_diagnostic.html](io-pairs/io_diagnostic.html)
 
-*Something is off—and it isn't located in one place.*
+::: {.diagram_caption}
+Diagram 1.10: io_diagnostic.html
+:::
+:::
 
-The message moves, but unevenly.
-
-Direction, channel, experience, and feedback remain in play—simultaneously.
-
-One layer begins to carry more than the others.
-
-The imbalance does not announce itself.
-
-It reveals itself in where the message begins to give way.
-
-### 1.9.2 Inside the Work
-
-Breakdowns rarely originate from a single point.
-
-What appears in one layer is often carried from another.
-
-Clarity in one dimension can coexist with strain in another.
-
-⁘ Where does the message begin to give way?
-
-⁘ Where is the strain being carried?
 
 If communication were simply about transferring messages, we'd all be experts by now. But even with perfect channels and shared meaning, things still go wrong: emails falter, tone slips, trust cracks. Why? Because effective communication depends on choices—how we phrase, frame, and listen.
 
@@ -576,6 +561,8 @@ C. What would you commit to—and what would you leave unresolved?
 :::
 :::
 
+::: {.notes}
+
 ## 1.11 Notes
 
 1.  Wilbur Schramm, *The Process and Effects of Mass Communication* (Urbana: University of Illinois Press, 1954).
@@ -587,6 +574,10 @@ C. What would you commit to—and what would you leave unresolved?
 4.  Wilbur Schramm, *The Process and Effects of Mass Communication* (Urbana: University of Illinois Press, 1954).
 
 5.  Dean C. Barnlund, "A Transactional Model of Communication," in *Foundations of Communication Theory*, ed. K. K. Sereno and C. D. Mortensen (New York: Harper & Row, 1970); Frank E. X. Dance, "The Concept of Communication," *Journal of Communication* 20, no. 2 (1970): 201–210.
+
+:::
+
+::: {.further_study}
 
 ## 1.12 For Further Study
 
@@ -607,3 +598,5 @@ The sources below are not required reading. They are offered for readers who wan
   Schramm, W. (early mass and interpersonal communication models).
 
   Barnlund, D. C. (transactional communication model).
+
+:::

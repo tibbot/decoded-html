@@ -67,8 +67,14 @@ Compression feels like improvement. It feels like clarity refined, signal streng
 What remains does not stay where it began.
 
 It moves—across channels, across formats, across moments that were never part of the original exchange. An update becomes a message. The message becomes a summary. The summary begins to act like a directive. Each transition is reasonable. Each version preserves intent as best it can. No single step introduces a failure.
+::: {#diagram-15-1 .diagram_ref .pf_ref data-src="alignment/pf-confirm-deadline-shift.html"}
+[pf-confirm-deadline-shift.html](alignment/pf-confirm-deadline-shift.html)
 
-[ANCHOR: PF-confirm-deadline-shift]
+::: {.diagram_caption}
+Diagram 15.1: pf-confirm-deadline-shift.html
+:::
+:::
+
 
 
 And yet, something changes. With each movement, the message becomes slightly more dependent on what the next reader brings to it. What was once explicit begins to rely on inference. What was once shared becomes assumed. The message is no longer anchored to the moment that produced it.
@@ -87,37 +93,21 @@ Distribution exposes the message to conditions it was never explicitly designed 
 
 ◈ ITM-shifted-deadline-distribution
 
-### 15.2.4 Inside the Message
+::: {#diagram-15-2 .diagram_ref .io_ref data-src="io-pairs/io_shifted-deadline-distribution.html"}
+[io_shifted-deadline-distribution.html](io-pairs/io_shifted-deadline-distribution.html)
 
-"We'll move the deadline to Friday. Adjust accordingly."
+::: {.diagram_caption}
+Diagram 15.2: io_shifted-deadline-distribution.html
+:::
+:::
 
-The message is short enough to travel. That is part of its strength.
-
-It tells people what changed and implies that action should follow. For those close to the original conversation, the implication may be enough. They can supply the reasons, constraints, and dependencies from memory.
-
-Farther from that moment, the same sentence begins to ask for more. Friday means one thing to a team that controls its own sequence, another to a vendor already committed to delivery windows, and another to a client trying to infer whether scope has shifted with time.
-
-The wording has not failed. It has outgrown the conditions that once made it sufficient.
-
-### 15.2.5 Inside the Work
-
-⁘ What travels with the deadline, and what stays behind in the room where the change was first understood?
-
-⁘ Which audience can act from the sentence alone, and which audience must reconstruct consequence before acting?
-
-⁘ Where does a compact message become portable enough to move and too thin to hold?
-
-⁘ What would need to accompany the sentence so later action does not depend on being present earlier?
-
-
-
-### 15.2.6 Who Wasn't There
+### 15.2.4 Who Wasn't There
 
 The message now reaches people who were not in the room when it was first delivered—people who did not hear the tone, did not see the reactions, did not have the opportunity to ask clarifying questions in real time.
 
 They inherit the message without the moment. And yet, they are expected to act as if they had both. What remains must now do more than it was originally asked to do. It must stand in for context it no longer carries. It must answer questions it was never structured to address.
 
-### 15.2.7 What Changes in Transit
+### 15.2.5 What Changes in Transit
 
 What was left as residue now endures through distribution, shifting as it travels. Some meanings hold. Others stretch. A few begin to diverge.
 
@@ -153,19 +143,13 @@ Someone must ask the question that was not anticipated. Someone must clarify wha
 
 ◈ ITM-unassigned-rework-load
 
-### 15.3.3 Inside the Message
+::: {#diagram-15-3 .diagram_ref .io_ref data-src="io-pairs/io_unassigned-rework-load.html"}
+[io_unassigned-rework-load.html](io-pairs/io_unassigned-rework-load.html)
 
-"We had to rework everything after the Friday shift—dependencies weren't clear."
-
-The sentence arrives after the original message has disappeared. It does not argue over wording. It points to the work that appeared because the wording did not carry enough of the situation forward.
-
-The work is not evenly shared. One person traces dependencies. Another pauses before committing. Another rebuilds a schedule that had seemed stable. None of these actions may have been requested, but each becomes necessary once the message meets conditions it did not name.
-
-The repair is not separate from the communication. It is part of what the communication required after release.
-
-### 15.3.4 Inside the Work
-
-⁘ Who is now doing the work the original message did not carry?
+::: {.diagram_caption}
+Diagram 15.3: io_unassigned-rework-load.html
+:::
+:::
 
 ⁘ Which part of the rework belongs to project complexity, and which part belongs to meaning that had to be reconstructed?
 
@@ -178,7 +162,7 @@ Sometimes this work is taken on by choice—by the person who sees the risk earl
 
 This is not extra work in the sense of inefficiency. It is necessary work—work that makes the original message usable in the conditions it now inhabits. And it is here that responsibility begins to take shape—not as intent, but as who must carry what the message did not make explicit.
 
-### 15.3.5 Where the Load Falls
+### 15.3.3 Where the Load Falls
 
 The load is not distributed evenly. It falls where the message meets resistance.
 
@@ -186,13 +170,13 @@ A team working closest to the dependency absorbs more of it. A stakeholder with 
 
 From a distance, the system appears to be functioning. Up close, the effort required to sustain that function is uneven.
 
-### 15.3.6 Invisible Adjustments
+### 15.3.4 Invisible Adjustments
 
 Much of this work never becomes visible. It appears as small adjustments: an extra confirmation step, a quiet delay, a secondary check before committing resources. These are rarely announced. They are folded into the process, absorbed into how things are done.
 
 Over time, these adjustments accumulate. Not as formal changes, but as lived practice—how people protect themselves against what might happen if assumptions do not hold.
 
-### 15.3.7 When Work Becomes Expectation
+### 15.3.5 When Work Becomes Expectation
 
 Repeated often enough, this additional work changes what is expected.
 
@@ -200,7 +184,7 @@ Clarification is no longer optional; it becomes routine. Confirmation is no long
 
 What began as a response to a specific message becomes part of the environment in which all messages are received.
 
-### 15.3.8 The Cost of Holding Meaning
+### 15.3.6 The Cost of Holding Meaning
 
 None of this appears in the message itself.
 
@@ -210,7 +194,7 @@ And yet, the cost is real. Time is spent. Attention is divided. Confidence is ad
 
 Meaning does not hold on its own. It is held—by the work others are willing or required to do to keep it intact. When that work is uneven, so is the quality of the decisions that follow. What looks like inconsistency from the outside often reflects differences in what each part of the system had to do to make the message usable.
 
-### 15.3.9 What This Makes Visible
+### 15.3.7 What This Makes Visible
 
 At this point, a different question begins to surface. Not whether the message was clear. But whether the message accounted for what others would need to do to make it work. Responsibility shifts.
 
@@ -275,8 +259,14 @@ These conditions act as a kind of screen. They do not block the message entirely
 ### 15.5.3 What Is Required to Proceed
 
 As these filters take hold, the threshold for action begins to shift. What once required only clarity may now require confirmation; what once required a single message may now require a sequence—an update, a clarification, a follow-up to ensure alignment.
+::: {#diagram-15-4 .diagram_ref .pf_ref data-src="alignment/pf-confirm-resource-commitment.html"}
+[pf-confirm-resource-commitment.html](alignment/pf-confirm-resource-commitment.html)
 
-[ANCHOR: PF-confirm-resource-commitment]
+::: {.diagram_caption}
+Diagram 15.4: pf-confirm-resource-commitment.html
+:::
+:::
+
 
 This is not simply caution. It is adaptation. People adjust what they need in order to move forward—not because they prefer more process, but because experience has taught them what happens when they move too quickly or with too much assumption.
 
@@ -286,42 +276,29 @@ Trust does not disappear; it changes. It becomes conditional—not in a formal s
 
 ◈ ITM-written-confirmation-threshold
 
-### 15.5.5 Inside the Message
+::: {#diagram-15-5 .diagram_ref .io_ref data-src="io-pairs/io_written-confirmation-threshold.html"}
+[io_written-confirmation-threshold.html](io-pairs/io_written-confirmation-threshold.html)
 
-"We need written confirmation before committing resources."
-
-The sentence does not reject the message that came before it. It changes the condition under which action can proceed.
-
-Something has been learned. A verbal update, a brief note, or a familiar assurance no longer carries enough weight on its own. The audience is not asking for more words because they prefer process. They are asking because previous experience has changed what counts as usable certainty.
-
-Trust has not vanished. It has acquired a threshold.
-
-### 15.5.6 Inside the Work
-
-⁘ What has the system learned to require before action becomes safe enough to take?
-
-⁘ Does the request for confirmation slow the work, protect the work, or reveal that the earlier message no longer travels with enough force?
-
-⁘ What kind of evidence would satisfy the threshold without turning every message into a defensive record?
-
-⁘ How does a communicator rebuild movement once confirmation has become part of the cost of acting?
-
+::: {.diagram_caption}
+Diagram 15.5: io_written-confirmation-threshold.html
+:::
+:::
 
 The difference lies not in the message alone, but in what the system has learned to require before it acts.
 
-### 15.5.7 Constraint Takes Shape
+### 15.5.5 Constraint Takes Shape
 
 Over time, these filters do more than shape individual responses—they begin to set conditions. Certain forms of communication move easily: they meet expectations, satisfy conditions, and pass through without resistance. Others slow down: they require reinforcement, clarification, or additional validation before they can proceed. Constraint does not appear as a rule; it appears as a pattern of what works and what does not.² And once it appears consistently enough, it becomes part of how the system operates.
 
-### 15.5.8 What Holds, What Bends, What Breaks
+### 15.5.6 What Holds, What Bends, What Breaks
 
 Within this environment, messages are no longer equal in how they perform. Some hold—they align with expectation and move forward with little resistance. Some bend—they require adjustment, clarification, or additional support to function. Some break—they fail to meet the conditions required for action and must be reworked entirely. These outcomes are not always visible at the moment of delivery; they become visible in what follows—how smoothly work proceeds, how much effort is required to sustain it, and how often correction is needed.
 
-### 15.5.9 The Narrowing Path
+### 15.5.7 The Narrowing Path
 
 As constraint takes shape, the range of what is considered "usable" communication begins to narrow. Certain approaches become reliable; others become risky; some are avoided altogether. This is not necessarily intentional. It is the result of accumulated experience shaping what is treated as viable. Over time, this narrowing can create efficiency—fewer missteps, more predictable outcomes—but it can also limit flexibility, making it harder to adapt when conditions change.
 
-### 15.5.10 What This Makes Visible
+### 15.5.8 What This Makes Visible
 
 At this point, a different kind of awareness begins to emerge—not just of what messages say, but of what they must satisfy in order to be acted on. Communication is no longer judged only by clarity or completeness; it is judged by whether it meets the conditions required for action within the system that has formed. What was once an open field of possibility is now shaped by constraint, and that constraint—quietly, consistently—determines what can move forward, and what cannot.
 
@@ -380,8 +357,14 @@ What has been repeated becomes expected; what has been expected becomes normal; 
 #### Where Recalibration Begins
 
 Once visible, these conditions can be shaped—adjusted in response to what has accumulated. A communicator revisits how messages are constructed—what is named, what is left implicit, and what others will need to act without hesitation. What has been learned through accumulation becomes a resource. Recalibration changes what comes next.⁶
+::: {#diagram-15-6 .diagram_ref .pf_ref data-src="alignment/pf-recalibrate-after-pattern.html"}
+[pf-recalibrate-after-pattern.html](alignment/pf-recalibrate-after-pattern.html)
 
-[ANCHOR: PF-recalibrate-after-pattern]
+::: {.diagram_caption}
+Diagram 15.6: pf-recalibrate-after-pattern.html
+:::
+:::
+
 
 
 ### 15.6.5 What This Makes Possible
@@ -503,6 +486,8 @@ C. What small structural change would make later messages easier to trust, carry
 :::
 :::
 
+::: {.notes}
+
 ## 15.8 Notes
 
 1. James M. Burns, *Leadership* (New York: Harper Perennial Modern Classics, 2010).
@@ -518,6 +503,10 @@ C. What small structural change would make later messages easier to trust, carry
 6. Donald A. Schön, *The Reflective Practitioner: How Professionals Think in Action* (New York: Basic Books, 1983).
 
 ---
+
+:::
+
+::: {.further_study}
 
 ## 15.9 For Further Study
 
@@ -552,3 +541,5 @@ Provides a framework for understanding how cultural context shapes interpretatio
 F. **Schön, Donald A.** *The Reflective Practitioner*.
 Introduces reflection as a mechanism for professional growth, aligning with recalibration as an ongoing response to accumulated experience.
 
+
+:::

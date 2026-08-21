@@ -63,48 +63,14 @@ Such breakdowns are common not because communicators are careless, but because c
 
 Not the demographic. Not a distribution list. The *people* whose minds the message must traverse—people with histories, contexts, pressures, limits, and very different angles of interpretation.
 
-::: ITM audience-resolution-distribution
-### 3.1.1 Inside the Message
+::: {#diagram-3-1 .diagram_ref .io_ref data-src="io-pairs/io_audience-resolution-distribution.html"}
+[io_audience-resolution-distribution.html](io-pairs/io_audience-resolution-distribution.html)
 
-A message circulates to several teams:
-
-"Submit updated projections by Friday. Flag any constraints that could affect delivery."
-
-It lands in your queue.
-
-Friday.
-
-Updated from which baseline.
-
-Constraints framed how.
-
-The request holds, yet opens in different directions.
-
-You picture the work ahead.
-
-For one team, the numbers already exist. A quick pass brings them forward.
-
-For another, the model sits mid-build. Assumptions shift as you touch them.
-
-For you, upstream inputs arrive late in the week. The timeline compresses around you.
-
-The same message moves across all three.
-
-It settles differently each time.
-
-
-### 3.1.2 Inside the Work
-
-What does "Friday" require from where you stand?
-
-Which pieces are ready—and which must be created before anything can move?
-
-How much of the request is defined, and how much are you shaping as you go?
-
-Where does the cost of delay fall if your projection changes later?
-
-Who absorbs the consequence of being early, late, or wrong?
+::: {.diagram_caption}
+Diagram 3.1: io_audience-resolution-distribution.html
 :::
+:::
+
 
 Every message has a face the sender never sees: the one reflected in the mind of the receiver.
 
@@ -154,56 +120,26 @@ A distinct mode of **ethical responsibility** begins to emerge—not as a compro
 
 What matters here is not which system is "better," but which one can actually guide everyday communication when people disagree, lack shared values, or operate under uncertainty. Ethics governs shared interaction among people who do not share conscience and are not constantly regulated by law. It consists of professional norms, organizational expectations, and societal standards that stabilize collective work. Ethics functions as the operating system of business communication: it enables coordination, trust, and predictability under conditions of uncertainty, asymmetry, and interdependence.
 
-::: ITM 2 — ethical-governance-choice
-### 3.3.1 Inside the Message
+::: {#diagram-3-2 .diagram_ref .io_ref data-src="io-pairs/io_ethical-governance-choice.html"}
+[io_ethical-governance-choice.html](io-pairs/io_ethical-governance-choice.html)
 
-You are preparing an update for a client.
-
-A delay has emerged.
-
-It sits in the dependency layer—nothing fully broken, nothing fully stable.
-
-The timeline holds for now, but only if several pieces align in the next few days.
-
-You begin to draft:
-
-"We're continuing to make progress across all active workstreams. A few dependencies are still resolving, and we'll have a clearer view as those come into place."
-
-The statement is accurate.
-
-Nothing in it misleads.
-
-You read it again.
-
-The client will see movement.
-
-They will not see the narrowing margin.
-
-They will not see what happens if alignment slips.
-
-You pause on the phrasing.
-
-What the message carries forward—and what it leaves behind—begin to separate.
-
-
-### 3.3.2 Inside the Work
-
-What does the client need to understand to make sense of this moment?
-
-What remains implied—and what becomes visible through your wording?
-
-Where does clarity shift into exposure?
-
-What does accuracy hold—and what does it allow to remain out of view?
-
-How much of the situation travels with the message as written?
+::: {.diagram_caption}
+Diagram 3.2: io_ethical-governance-choice.html
 :::
+:::
+
 
 Ethics becomes indispensable precisely because neither law nor morality can perform this work alone. Law cannot anticipate every communicative context, nor adapt quickly to evolving practices. Morality cannot be presumed to align across roles, cultures, or cognitive frames. Ethics fills the functional gap by establishing shared expectations about how communication should be designed when others are affected.
 
 Understood this way, ethics is not a set of outcomes or virtues layered onto communication after the fact.
+::: {#diagram-3-3 .diagram_ref .pf_ref data-src="alignment/pf-ethical-governance-drift.html"}
+[pf-ethical-governance-drift.html](alignment/pf-ethical-governance-drift.html)
 
-◈ PF-ethical-governance-drift
+::: {.diagram_caption}
+Diagram 3.3: pf-ethical-governance-drift.html
+:::
+:::
+
 
 At this point, it may help to slow down. These functions are not rules to memorize. They are lenses you will begin to recognize *after* communication breaks—not before. It is a governing framework that actively shapes how communication may operate. In business contexts, ethical communication performs several critical functions.
 
@@ -251,42 +187,14 @@ Together, these perspectives converge on a simple but consequential insight: the
 
 This is why ethical responsibility increases with power—not as a moral indictment, but as a structural necessity.
 
-::: ITM 3 — asymmetry-interpretive-limit
-### 3.4.1 Inside the Message
+::: {#diagram-3-4 .diagram_ref .io_ref data-src="io-pairs/io_asymmetry-interpretive-limit.html"}
+[io_asymmetry-interpretive-limit.html](io-pairs/io_asymmetry-interpretive-limit.html)
 
-A note appears in the team channel from a senior lead:
-
-"Move the client deliverable to end of day. Keep scope intact. We'll reconcile dependencies after."
-
-The thread continues below it. No pause. No follow-up.
-
-You are not in the earlier conversations.
-
-Keep scope intact.
-
-Dependencies after.
-
-End of day.
-
-You look at your queue. The work in front of you does not shift cleanly.
-
-Questions form, then stall.
-
-The message has already moved on.
-
-
-### 3.4.2 Inside the Work
-
-What can you ask here—and what holds you back?
-
-What would clarification change—and what might it cost?
-
-Which parts of the message carry authority, and which remain open?
-
-What do you adjust without confirmation?
-
-Where does risk settle if your interpretation is off?
+::: {.diagram_caption}
+Diagram 3.4: io_asymmetry-interpretive-limit.html
 :::
+:::
+
 
 The common thread across these perspectives is not blame, but design. Each explains how meaning becomes fragile when responsibility for understanding is unevenly distributed. When authority, access, or consequence are unevenly distributed, communicative choices carry unequal weight.
 
@@ -311,43 +219,25 @@ Second, accessibility governs the cost of interpretation. Dense jargon, compress
 Third, accessibility reduces preventable noise. Noise is not limited to external interference; it is often introduced by design. Messages that bury critical information, rely on implicit cues, or lack structural signposts increase friction at the moment interpretation is required. When meaning must be hunted for, attention and accuracy both suffer.
 
 Finally, accessibility stabilizes shared meaning under varied constraints. Even within a single audience, conditions differ. Time pressure, cognitive load, language comfort, device limitations, and environmental distractions all shape interpretation. Accessible communication increases the likelihood that meaning survives these variations, making understanding less dependent on ideal circumstances or privileged position.
+::: {#diagram-3-5 .diagram_ref .pf_ref data-src="alignment/pf-accessibility-burden-shift.html"}
+[pf-accessibility-burden-shift.html](alignment/pf-accessibility-burden-shift.html)
 
-◈ PF-accessibility-burden-shift
+::: {.diagram_caption}
+Diagram 3.5: pf-accessibility-burden-shift.html
+:::
+:::
+
 
 In many contexts, accessibility is not optional. Anti-discrimination and accessibility laws—including the Americans with Disabilities Act (ADA).⁸)—establish enforceable minimum standards for reasonably accessible communication. Legal compliance, however, represents only the minimum boundary.
 
-::: ITM 4 — decoding-burden-accessibility
-### 3.5.1 Inside the Message
+::: {#diagram-3-6 .diagram_ref .io_ref data-src="io-pairs/io_decoding-burden-accessibility.html"}
+[io_decoding-burden-accessibility.html](io-pairs/io_decoding-burden-accessibility.html)
 
-A message arrives from another team:
-
-"Proceed with the revised intake flow. Align with the updated schema and route exceptions through the standard path. Loop in Ops if dependencies surface."
-
-The language holds.
-
-You read it once. Then again.
-
-Revised from what. Updated where. Standard for whom. Dependencies on which side.
-
-Nothing in the message stops you. Nothing in it settles.
-
-A response is expected. Movement follows from this.
-
-You begin to assemble what is missing.
-
-
-### 3.5.2 Inside the Work
-
-Where does understanding begin for you?
-
-What are you supplying before anything becomes usable?
-
-Which terms carry meaning—and which require reconstruction?
-
-What would need to be present for the message to move on its own?
-
-Where does the effort of meaning sit right now?
+::: {.diagram_caption}
+Diagram 3.6: io_decoding-burden-accessibility.html
 :::
+:::
+
 
 Accessibility carries ethical significance because inaccessible communication increases cognitive load, and cognitive load is not borne equally. As decoding effort rises, participation narrows to those with surplus time, familiarity, or resources. What appears as misunderstanding or disengagement often reflects predictable outcomes of design.
 
@@ -361,8 +251,14 @@ Ethical failures in communication arise from predictable structural mismatches�
 
 For this reason, ethical communication benefits from diagnostic study. When authentic structures are understood, breakdowns become recognizable patterns. The goal is not to assign fault, but to understand how meaning succeeds or fails under real conditions.
 
-CAIO Visual
-Figure: Context, Access, Interpretation, and Ownership
+::: {#diagram-3-7 .diagram_ref .image_ref data-src="images/CAIO.svg"}
+[CAIO.svg](images/CAIO.svg)
+
+::: {.diagram_caption}
+Diagram 3.7: CAIO.svg
+:::
+:::
+
 
 Authentic ethical communication operates through anticipation and alignment. It anticipates audience needs, balances context with clarity, distributes cognitive effort deliberately, provides equitable access to meaning, respects situational constraints, and aligns purpose with method. When these elements work together, meaning travels with stability. When they weaken, fractures appear.
 
@@ -383,8 +279,14 @@ A fourth fracture arises through **purpose drift**. Communicators sometimes blen
 Purpose drift matters because purpose governs obligation. When purpose remains ambiguous, effort and consequence become difficult to calibrate. (These message purposes will be examined in depth in Section II.)
 
 A final fracture involves **context absence**. Communicators may provide direction without rationale, or rationale without actionable guidance. "Please prioritize the compliance dashboard." Without clarity around why, for whom, or by when, the audience must supply logic on its own. Cognitive effort rises while accuracy declines.
+::: {#diagram-3-8 .diagram_ref .pf_ref data-src="alignment/pf-purpose-drift-signal.html"}
+[pf-purpose-drift-signal.html](alignment/pf-purpose-drift-signal.html)
 
-◈ PF-purpose-drift-signal
+::: {.diagram_caption}
+Diagram 3.8: pf-purpose-drift-signal.html
+:::
+:::
+
 
 Across these fractures, a common pattern emerges.
 
@@ -401,8 +303,14 @@ Purpose has been present throughout this chapter, though rarely named. It sits b
 Purpose is often reduced to intention—what the communicator hopes to achieve. In practice, purpose functions more precisely as a forecast of obligation. It shapes what the audience must understand, what effort is reasonable to expect, and what consequences follow from misunderstanding or inaction.
 
 Every act of business communication carries an implied purpose, whether articulated or not. That purpose organizes interpretation. It signals to the audience what kind of attention is required, how seriously the message should be taken, and what form of response—if any—is expected. When purpose is clear, audiences can calibrate effort and responsibility. When purpose is ambiguous, interpretive labor increases.
+::: {#diagram-3-9 .diagram_ref .pf_ref data-src="alignment/pf-purpose-obligation-forecast.html"}
+[pf-purpose-obligation-forecast.html](alignment/pf-purpose-obligation-forecast.html)
 
-◈ PF-purpose-obligation-forecast
+::: {.diagram_caption}
+Diagram 3.9: pf-purpose-obligation-forecast.html
+:::
+:::
+
 
 Looking ahead to Section II, you will encounter four broad families of business communication: informing, requesting, persuading, and resolving. At this stage, these categories matter less as labels than as lenses. Each forecasts a different relationship between communicator and audience.
 
@@ -592,6 +500,8 @@ C. Where should responsibility shift from audience to message?
 :::
 :::
 
+::: {.notes}
+
 ## 3.10 Notes
 
 1. David K. Berlo, *The Process of Communication* (New York: Holt, Rinehart and Winston, 1960).
@@ -609,6 +519,10 @@ C. Where should responsibility shift from audience to message?
 7. John R. P. French Jr. and Bertram Raven, "The Bases of Social Power," in *Studies in Social Power*, ed. Dorwin Cartwright (Ann Arbor: University of Michigan, 1959); Henry Mintzberg, *Power In and Around Organizations* (Englewood Cliffs, NJ: Prentice Hall, 1983).
 
 8. Americans with Disabilities Act of 1990, 42 U.S.C. §12101 et seq.
+
+:::
+
+::: {.further_study}
 
 ## 3.11 For Further Study
 
@@ -628,3 +542,5 @@ C. Where should responsibility shift from audience to message?
 
     Burke, Kenneth. *A Rhetoric of Motives.*
 
+
+:::

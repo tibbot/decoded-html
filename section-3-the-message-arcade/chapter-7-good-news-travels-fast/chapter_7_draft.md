@@ -61,19 +61,13 @@ Yet the message has still crossed the same threshold introduced at the end of Se
 
 Ownership persists here. It simply becomes easier to ignore.
 
-✏️ ITM-ownership-baseline
+::: {#diagram-7-1 .diagram_ref .io_ref data-src="io-pairs/io_ownership-baseline.html"}
+[io_ownership-baseline.html](io-pairs/io_ownership-baseline.html)
 
-### 7.1.1 Message
-Approved — go ahead and use the current template for this quarter's updates. It worked well last time, so no changes are needed.
-
-### 7.1.2 Inside the Message
-Nothing in the note is difficult. It clears the path and keeps work moving. But it also does something quieter: it teaches the audience what level of precision and reconsideration will appear when no one is pushing back. The approval lands as permission, but also as baseline.
-
-### 7.1.3 Inside the Work
-⁘ What standard has just been carried forward without being re-examined?
-⁘ What does "it worked well last time" ask the audience to accept without fresh evidence?
-⁘ If this becomes the model for future updates, what has been normalized?
-⁘ Where is continuity being protected—and where might drift be hiding inside that continuity?
+::: {.diagram_caption}
+Diagram 7.1: io_ownership-baseline.html
+:::
+:::
 
 ## 7.2 Low Friction Is an Environment, Not a Signal
 
@@ -119,19 +113,13 @@ They notice which messages require extra interpretation. They notice when expect
 
 The miscalibration deepens because silence is mistaken for approval.
 
-✏️ ITM-silence-approval
+::: {#diagram-7-2 .diagram_ref .io_ref data-src="io-pairs/io_silence-approval.html"}
+[io_silence-approval.html](io-pairs/io_silence-approval.html)
 
-### 7.3.1 Message
-Thanks, everyone. I sent the update this morning and haven't heard any concerns, so I'm assuming we're aligned.
-
-### 7.3.2 Inside the Message
-The sentence sounds reasonable because nothing visible resists it. Silence is converted into agreement, and the absence of friction is treated as proof that the message did enough on its own. The message closes the loop by borrowing certainty from a quiet environment.
-
-### 7.3.3 Inside the Work
-⁘ What work might the audience already be doing without saying so?
-⁘ Who may be adapting silently rather than signaling disagreement?
-⁘ What does the phrase "I'm assuming we're aligned" settle too quickly?
-⁘ If questions surface later, where will responsibility for the misread appear to belong?
+::: {.diagram_caption}
+Diagram 7.2: io_silence-approval.html
+:::
+:::
 
 Over time, communicators begin to trust ease instead of judgment. They equate speed with competence, brevity with clarity, familiarity with alignment. Messages become thinner—not shorter, but lighter in intent.
 
@@ -145,19 +133,13 @@ A decision carries risk. A refusal lands. A correction is required.
 
 And suddenly, the baseline matters.
 
-✏️ ITM-baseline-inheritance
+::: {#diagram-7-3 .diagram_ref .io_ref data-src="io-pairs/io_baseline-inheritance.html"}
+[io_baseline-inheritance.html](io-pairs/io_baseline-inheritance.html)
 
-### 7.3.4 Message
-Good news — we can move forward. Details are mostly the same as before, and we'll sort out any small issues as they come up.
-
-### 7.3.5 Inside the Message
-The message carries relief and momentum, which makes its omissions easier to forgive in the moment. But what gets deferred here will not disappear. It becomes part of the baseline the audience inherits when conditions tighten and the cost of improvisation rises.
-
-### 7.3.6 Inside the Work
-⁘ What is being deferred under the cover of forward motion?
-⁘ Which "small issues" are small only while pressure remains low?
-⁘ What assumptions will the audience carry into the next, less forgiving moment?
-⁘ If the environment changes tomorrow, what in this message will still hold?
+::: {.diagram_caption}
+Diagram 7.3: io_baseline-inheritance.html
+:::
+:::
 
 The reader who once compensated quietly now resists. The recipient who inferred generously now asks for justification. The goodwill that once absorbed imprecision no longer cushions the message.
 
@@ -206,8 +188,14 @@ But they carry different obligations.
 Routine messages ask whether continuity can be trusted. Positive messages ask whether value is genuine. Seen this way, the difference between them is not tone or format, but intent under exposure. One sustains the system. The other invests in the relationship that system depends on.
 
 That distinction matters long before communication becomes difficult.
+::: {#diagram-7-4 .diagram_ref .pf_ref data-src="alignment/pf-routine-positive-distinction.html"}
+[pf-routine-positive-distinction.html](alignment/pf-routine-positive-distinction.html)
 
-🖼️ PF-routine-positive-distinction 
+::: {.diagram_caption}
+Diagram 7.4: pf-routine-positive-distinction.html
+:::
+:::
+
 
 ## 7.6 When Ease Ends
 
@@ -220,8 +208,14 @@ When that happens, the baseline matters.
 The clarity that once moved unnoticed becomes essential. The trust that quietly accumulated begins to carry load. Or, if it was allowed to erode, its absence suddenly becomes visible.
 
 This is why routine and positive moments deserve attention long before communication becomes difficult. They are where standards are set without pressure, where habits form without consequence, and where others learn how seriously future messages should be taken.
+::: {#diagram-7-5 .diagram_ref .pf_ref data-src="alignment/pf-baseline-under-load.html"}
+[pf-baseline-under-load.html](alignment/pf-baseline-under-load.html)
 
-🖼️ PF-baseline-under-load
+::: {.diagram_caption}
+Diagram 7.5: pf-baseline-under-load.html
+:::
+:::
+
 
 When resistance finally appears, communicators do not start fresh. They inherit the conditions they have been shaping all along.
 
@@ -322,11 +316,17 @@ C. What choice would matter more in practice: tone, structure, or the kind of va
 :::
 :::
 
+::: {.notes}
+
 ## 7.8 Notes
 
 1. Courtland L. Bovée and John V. Thill, *Business Communication Today* (Boston: Pearson); Mary Ellen Guffey, *Business Communication: Process and Product* (Boston: Cengage).
 
 2. Penelope Brown and Stephen C. Levinson, *Politeness: Some Universals in Language Usage* (Cambridge: Cambridge University Press, 1987).
+
+:::
+
+::: {.further_study}
 
 ## 7.9 For Further Study
 
@@ -346,3 +346,5 @@ Brown, Penelope, and Stephen C. Levinson. *Politeness: Some Universals in Langua
 
 Weick, Karl E. *Sensemaking in Organizations.*
 
+
+:::

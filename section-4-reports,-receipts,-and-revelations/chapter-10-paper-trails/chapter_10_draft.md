@@ -88,22 +88,14 @@ That usability is precisely what gives them force. It also means that whatever c
 
 An appendix is not neutral storage. It is a signal about priority. A summary is not a mirror. It is an argument about relevance.
 
-::: ITM-compression-survival 
+::: {#diagram-10-1 .diagram_ref .io_ref data-src="io-pairs/io_compression-survival.html"}
+[io_compression-survival.html](io-pairs/io_compression-survival.html)
 
-### 10.2.3 Inside the Message
-
-The executive summary states: "Implementation remains on track. Final vendor dependencies are expected to resolve before launch."
-
-The statement gives the audience something usable. It preserves movement, reduces friction, and allows planning to continue. But the uncertainty has been compressed into a phrase that travels less clearly than the confidence around it.
-
-### 10.2.4 Inside the Work
-⁘ What does "on track" allow later audiences to assume?
-
-⁘ Which dependency conditions need to remain visible if the record is cited later?
-
-⁘ Where does the summary preserve usefulness, and where does it begin to trade traceability for momentum?
-
+::: {.diagram_caption}
+Diagram 10.1: io_compression-survival.html
 :::
+:::
+
 
 
 A clean structure does not guarantee completeness. It guarantees coherence. The report does not announce these judgments. It presents their outcome as if it were natural. This is why paper trails deserve inspection long after they are produced. Not because they are wrong, but because they are stable. Stability invites reliance. Reliance invites repetition. Repetition converts tentative conclusions into assumed facts.
@@ -159,27 +151,25 @@ Internally, proposals often masquerade as planning documents. They outline scope
 Externally, proposals carry additional weight. They are persuasive by design, but their persuasion is embedded in structure rather than rhetoric. Organization signals seriousness. Detail signals preparedness. Absence signals irrelevance. An external proposal does not simply ask for approval. It defines the terms under which approval can occur.
 
 In both cases, the proposal's power lies less in what it promises than in what it stabilizes. Once accepted, the proposal becomes the reference point against which deviation is measured. Flexibility narrows. Alternatives recede. The document that once invited judgment becomes the standard that enforces it.
+::: {#diagram-10-2 .diagram_ref .pf_ref data-src="alignment/pf-proposal-flexibility.html"}
+[pf-proposal-flexibility.html](alignment/pf-proposal-flexibility.html)
 
-::: {#pf-proposal-flexibility .pf}
+::: {.diagram_caption}
+Diagram 10.2: pf-proposal-flexibility.html
+:::
 :::
 
-::: ITM-proposal-boundary 
 
-### 10.3.6 Inside the Message
-The proposal defines a three-month pilot, two deliverables, and a fixed review date. After approval, a stakeholder asks whether a related training component can be added.
+::: {#diagram-10-3 .diagram_ref .io_ref data-src="io-pairs/io_proposal-boundary.html"}
+[io_proposal-boundary.html](io-pairs/io_proposal-boundary.html)
 
-Before approval, the proposal invited judgment. After approval, the same language becomes a boundary. The document has not changed, but its force has.
-
-### 10.3.7 Inside the Work
-⁘ What did the proposal make discussable before approval?
-
-⁘ What became harder to introduce after approval?
-
-⁘ Where should flexibility have been made visible if future adjustment was expected?
-
+::: {.diagram_caption}
+Diagram 10.3: io_proposal-boundary.html
+:::
 :::
 
-### 10.3.8 What Becomes Stable
+
+### 10.3.6 What Becomes Stable
 
 Across all these forms, the same pattern holds. Reports do not merely inform. They position future readers. They determine what feels open to question and what feels already decided. Their ethical weight does not come from intent, but from durability.
 
@@ -199,25 +189,14 @@ Once embedded, these compressed borrowings behave like original claims. They are
 
 Speed rewards plausibility over traceability.³ It encourages writers to preserve conclusions while discarding the scaffolding that made them defensible. Attribution becomes optional not because it is unimportant, but because it slows momentum at precisely the moment momentum feels necessary. But records do not remember speed. They remember outcomes.
 
-::: ITM-paraphrase-lineage 
+::: {#diagram-10-4 .diagram_ref .io_ref data-src="io-pairs/io_paraphrase-lineage.html"}
+[io_paraphrase-lineage.html](io-pairs/io_paraphrase-lineage.html)
 
-### 10.4.1 Inside the Message
-A report paraphrases an earlier research note: 
-
-"Customer onboarding delays are primarily caused by documentation gaps." 
-
-The original note said delays appeared in teams where documentation gaps combined with staffing shortages and unclear ownership.
-
-The paraphrase is not fabricated. It is plausible. But it narrows the lineage of the claim until a conditional finding begins to look like a stable cause.
-
-### 10.4.2 Inside the Work
-⁘ What was preserved from the source, and what disappeared?
-
-⁘ What would a later audience be unable to reconstruct from the report alone?
-
-⁘ Where does speed turn a traceable claim into an unsupported organizational fact?
-
+::: {.diagram_caption}
+Diagram 10.4: io_paraphrase-lineage.html
 :::
+:::
+
 
 A paraphrase that once felt provisional becomes permanent once it enters the trail. The original source grows harder to recover. The assumptions it carried are no longer visible. What remains is a *claim without lineage*, supported only by repetition.
 
@@ -252,9 +231,14 @@ When lineage and interpretive continuity shape credibility, the Modern Language 
 And when durability is paramount—when documents must remain legible long after their authors are gone—the Chicago Manual of Style (CMS) prioritizes clarity, provenance, and archival stability.
 
 The differences described here are not differences in rigor, but in audience expectation. APA, MLA, and CMS are interfaces, not foundations. They are different answers to the same underlying question: *what does this audience need in order to trust what I am saying?*⁴
+::: {#diagram-10-5 .diagram_ref .pf_ref data-src="alignment/pf-citation-calibration.html"}
+[pf-citation-calibration.html](alignment/pf-citation-calibration.html)
 
-::: {#pf-citation-calibration .pf}
+::: {.diagram_caption}
+Diagram 10.5: pf-citation-calibration.html
 :::
+:::
+
 
 A report that overwhelms an executive audience with dense citation may appear insecure rather than rigorous. A report that offers minimal attribution in a research‑driven environment may feel careless rather than efficient. In both cases, the ethical failure is not incorrect formatting, but misjudged audience care.
 
@@ -415,6 +399,8 @@ C. Where does approval need to close the decision, and where should it leave rev
 :::
 :::
 
+::: {.notes}
+
 ## 10.9 Notes
 
 1. Mary Ellen Guffey, *Business Communication: Process and Product* (Boston: Cengage Learning, 2022); Courtland L. Bovée and John V. Thill, *Business Communication Today* (Boston: Pearson, 2021).
@@ -424,6 +410,10 @@ C. Where does approval need to close the decision, and where should it leave rev
 3. Daniel Kahneman, *Thinking, Fast and Slow* (New York: Farrar, Straus and Giroux, 2011).
 
 4. American Psychological Association, *Publication Manual of the American Psychological Association* (Washington, DC: APA); Modern Language Association, *MLA Handbook*; University of Chicago Press, *The Chicago Manual of Style*.
+
+:::
+
+::: {.further_study}
 
 ## 10.10 For Further Study
 
@@ -442,3 +432,5 @@ Foucault, Michel. *Power/Knowledge.*
 Latour, Bruno. *Science in Action.*
 
 Bowker, Geoffrey C., and Susan Leigh Star. *Sorting Things Out.*
+
+:::
