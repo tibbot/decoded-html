@@ -1,4 +1,4 @@
-# Chapter 11: Evidence Please
+# 11. Evidence Please
 
 *Research and Evidence*
 
@@ -45,7 +45,7 @@ It arrives through methods, categories, summaries, visuals, and citations that h
 What follows is not a manual for collecting evidence, but a way to see how evidence becomes admissible before it becomes persuasive.
 :::
 
-## Admissibility Before Accuracy
+## 11.1 Admissibility Before Accuracy
 
 > What counts as evidence is not decided by rigor alone.
 
@@ -57,13 +57,13 @@ This is why evidence rarely feels radical. It feels appropriate. It is decided b
 
 Research does not simply discover. It qualifies.
 
-### Inside the Message
+### 11.1.1 Inside the Message
 
 "Several customer interviews suggested that the new intake process creates confusion during handoff. Because the sample was small and comments were qualitative, these findings were not included in the final evidence summary."
 
 The evidence is not dismissed as false. It is dismissed as difficult to admit. It is accurate enough to matter and unofficial enough to disappear.
 
-### Inside the Work
+### 11.1.2 Inside the Work
 
 ⁘ What makes this evidence difficult to admit?
 ⁘ What would need to change for the finding to become usable without pretending it is stronger than it is?
@@ -85,7 +85,7 @@ Formal research gains authority by appearing systematic. Executive summaries pro
 
 What matters is not whether evidence was collected, but which kinds of uncertainty were permitted to remain visible.
 
-## When Evidence Hardens Into Terrain
+## 11.2 When Evidence Hardens Into Terrain
 
 > Evidence settles before it convinces.
 
@@ -131,7 +131,7 @@ To inspect evidence well is to look for compression lines. To notice where richn
 
 It lives in the moments when a researcher pauses to ask whether clarity has come at the cost of erasure. It lives in the willingness to surface limitations early, before conclusions harden into reference points. And it lives in the design choices that make uncertainty visible without making evidence unusable.
 
-## Compression, Transformation, and Invisible Judgment
+## 11.3 Compression, Transformation, and Invisible Judgment
 
 > Integrity is not compromised only when data is falsified. It is compromised when transformation becomes invisible.
 
@@ -141,13 +141,13 @@ In practice, data integrity is about whether evidence can survive reuse without 
 
 Data does not arrive intact. It is collected, cleaned, structured, and prepared for movement. Each of these stages involves judgment. Each involves loss. Each leaves traces—though not all of them remain visible to later readers.
 
-### Inside the Message
+### 11.3.1 Inside the Message
 
 "Responses with incomplete demographic fields were removed. Related categories were combined to improve readability. Extreme values were excluded before calculating the average response time."
 
 The transformations sound procedural. Each one may be justified. But the evidence has changed shape before the audience sees it.
 
-### Inside the Work
+### 11.3.2 Inside the Work
 ⁘ Which transformations are necessary for use?
 ⁘ Which transformations need to remain visible for later judgment?
 ⁘ What would collapse if the audience treated this cleaned result as the original evidence?
@@ -192,7 +192,7 @@ It preserves friction where friction matters. It signals where certainty has bee
 
 Integrity lives in that signaling.
 
-## Repair, Containment, and Credibility
+## 11.4 Repair, Containment, and Credibility
 
 > Evidence must be made usable without becoming unquestionable
 
@@ -224,7 +224,7 @@ Averages replace distributions. Trends replace volatility. Thresholds replace nu
 
 What the visual makes legible becomes the story. What it cannot show disappears from consideration—not because it was disproven, but because it was not rendered.
 
-### Inside the Message
+### 11.4.1 Inside the Message
 
 A dashboard displays a single line: 
 
@@ -234,7 +234,7 @@ The chart shows a smooth downward trend.
 
 The visual makes improvement visible. It also hides distribution. The average carries the story because the visual has made that story easiest to see.
 
-### Inside the Work
+### 11.4.2 Inside the Work
 ⁘ What does the chart make immediately credible?
 ⁘ What does the chart make harder to ask?
 ⁘ What companion signal would preserve the improvement without erasing variation?
@@ -258,71 +258,112 @@ Evidence does not need to speak loudly. It needs to leave room for response. Tha
 
 That room is not created by disclaimers. It is created by design. And when it is absent, the consequences do not appear immediately. They appear later—when evidence is used to justify decisions that no longer feel open to question. This is why ethics in research communication is not a separate concern. It is the discipline that governs how evidence survives contact with use.
 
-**Signal Lab Decode**
+## 11.5 Signal Lab
 
-**Decode 11.1**
+::: {#chapter-11-signal-lab .signal_lab}
 
+### 11.5.1 Decode
+
+::: {.sl_decode}
+
+#### Decode 11.1
+
+::: {#decode-11-1 .sl_activity .decode_activity}
+
+::: {.sl_stimulus}
 A research team reviews customer interviews after a process change. The interviews reveal repeated confusion during handoff, but the sample is small and the comments do not fit the existing performance dashboard. The final report includes only completion rates and average resolution time.
+:::
 
+::: {.sl_questions}
 1. What evidence is present but difficult to admit?
-
 2. What does the existing dashboard make easier to recognize?
-
 3. What disappears when only structured metrics enter the report?
+:::
+:::
 
-**Decode 11.2**
+#### Decode 11.2
 
+::: {#decode-11-2 .sl_activity .decode_activity}
+
+::: {.sl_stimulus}
 A dataset is prepared for an executive summary. Incomplete responses are removed. Several categories are combined. Outliers are excluded. The final chart shows a clean improvement trend across the quarter.
+:::
 
-4. Which decisions transformed the evidence before it reached the audience?
+::: {.sl_questions}
+1. Which decisions transformed the evidence before it reached the audience?
+2. What becomes more usable after those decisions?
+3. What becomes harder to inspect later?
+:::
+:::
 
-5. What becomes more usable after those decisions?
+#### Decode 11.3
 
-6. What becomes harder to inspect later?
+::: {#decode-11-3 .sl_activity .decode_activity}
 
-**Decode 11.3**
-
+::: {.sl_stimulus}
 A presentation slide states: "Average resolution time improved by 43%." The visual shows a single downward line. Team-level variation is not shown. One team's resolution time worsened, but that detail remains in the appendix.
+:::
 
-7. What story does the visual make immediately credible?
+::: {.sl_questions}
+1. What story does the visual make immediately credible?
+2. What uncertainty survives only if the appendix is read?
+3. Where does compression begin to behave like conclusion?
+:::
+:::
+:::
 
-8. What uncertainty survives only if the appendix is read?
+### 11.5.2 Design
 
-9. Where does compression begin to behave like conclusion?
+::: {.sl_design}
 
-**Signal Lab Decode**
+#### Design 11.1
 
-**Design 11.1**
+::: {#design-11-1 .sl_activity .design_activity}
 
+::: {.sl_reference}
 Refer to Decode 11.1.
+:::
 
+::: {.sl_questions}
 A. What would allow the qualitative evidence to count without overstating its strength?
-
 B. What signal could preserve the interview findings alongside the structured metrics?
-
 C. What must remain visible so the report does not teach the organization to ignore that kind of evidence?
+:::
+:::
 
-**Design 11.2**
+#### Design 11.2
 
+::: {#design-11-2 .sl_activity .design_activity}
+
+::: {.sl_reference}
 Refer to Decode 11.2.
+:::
 
-D. Which transformation decisions need to travel with the executive summary?
+::: {.sl_questions}
+A. Which transformation decisions need to travel with the executive summary?
+B. What can be summarized without making the evidence unquestionable?
+C. How would you mark the boundary between earned confidence and cleaned-away uncertainty?
+:::
+:::
 
-E. What can be summarized without making the evidence unquestionable?
+#### Design 11.3
 
-F. How would you mark the boundary between earned confidence and cleaned-away uncertainty?
+::: {#design-11-3 .sl_activity .design_activity}
 
-**Design 11.3**
-
+::: {.sl_reference}
 Refer to Decode 11.3.
+:::
 
-G. What companion visual or note would preserve the improvement while making variation visible?
+::: {.sl_questions}
+A. What companion visual or note would preserve the improvement while making variation visible?
+B. What should remain in the main slide rather than being deferred to the appendix?
+C. Where should the communicator leave room for response?
+:::
+:::
+:::
+:::
 
-H. What should remain in the main slide rather than being deferred to the appendix?
-
-I. Where should the communicator leave room for response?
-
-# Chapter 11 — Notes
+## 11.6 Notes
 
 1. Thomas S. Kuhn, *The Structure of Scientific Revolutions*, 4th ed. (Chicago: University of Chicago Press, 2012).
 
@@ -332,7 +373,7 @@ I. Where should the communicator leave room for response?
 
 4. Edward R. Tufte, *Beautiful Evidence* (Cheshire, CT: Graphics Press, 2006).
 
-# Chapter 11 — For Further Study
+## 11.7 For Further Study
 
 **Business Communication**
 

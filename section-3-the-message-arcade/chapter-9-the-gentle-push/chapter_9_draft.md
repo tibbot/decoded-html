@@ -1,4 +1,4 @@
-# Chapter 9: The Gentle Push
+# 9. The Gentle Push
 
 *Persuasive Messages*
 
@@ -31,7 +31,7 @@ A message may still sound clear, reasonable, even generous, yet something change
 What follows is not a guide to winning people over, but a way to see what must become visible before asking others to move.
 :::
 
-## Carrying the Work
+## 9.1 Carrying the Work
 
 > When communication invites movement, it redistributes risk.
 
@@ -45,7 +45,7 @@ This is the terrain persuasion occupies—a domain long treated in business comm
 
 Not as a technique. Not as a performance. But as a moment where ownership extends beyond the communicator and into shared consequence.
 
-## What Moves Forward
+## 9.2 What Moves Forward
 
 > Agreement changes what others must live with.
 
@@ -61,7 +61,7 @@ This is what makes persuasive moments ethically distinct.
 
 Once movement begins, uncertainty does not disappear. It settles—sometimes unevenly—across those who agreed to move. The communicator may retain control over framing, timing, and emphasis. They do not retain control over outcome.
 
-## Inviting Exposure
+## 9.3 Inviting Exposure
 
 > Agreement does not remove uncertainty—it relocates it.
 
@@ -69,7 +69,7 @@ Persuasion is not the act of securing agreement. It is the act of inviting other
 
 ✏️  ITM-risk-visibility
 
-### Inside the Message
+### 9.3.1 Inside the Message
 
 *Team —*
 *There is a real chance to expand the client relationship if we can produce a preliminary proposal by next Friday. Nothing is final yet, but early movement will help position us well. Let me know who can lean in this week so we can keep momentum.*
@@ -80,7 +80,7 @@ But it creates motion before the audience can fully see what that motion may att
 The ask is still voluntary on the surface.
 The exposure is not yet fully visible.
 
-### Inside the Work
+### 9.3.2 Inside the Work
 
 ⁘ What future burden is being suggested without being fully named?
 
@@ -91,7 +91,7 @@ The exposure is not yet fully visible.
 ⁘ If someone agrees now, what are they likely to discover only after momentum hardens?
 
 
-## Where Decisions Actually Form
+## 9.4 Where Decisions Actually Form
 
 > Attention gathers around what is visible—not necessarily what is risky.
 
@@ -106,7 +106,7 @@ People do not ask which risks they are underweighting. They ask whether the deci
 That feeling absorbs ambiguity. It smooths missing information. It substitutes confidence for completeness. When momentum is present, hesitation feels unnecessary. When others appear aligned, dissent feels awkward. When a future is described vividly, its likelihood feels higher than it is.
 
 
-## Visibility at the Moment of Choice
+## 9.5 Visibility at the Moment of Choice
 
 > People decide with what feels present.
 
@@ -124,7 +124,7 @@ This is not a failure of intelligence. It is how decision‑making works under u
 
 People decide with the information that feels present—not with the information that exists. And what feels present is shaped, deliberately or not, by how the decision is framed.
 
-## Partial Visibility
+## 9.6 Partial Visibility
 
 > Exposure remains—but it no longer sits at the center of the message.
 
@@ -150,7 +150,7 @@ The missing element was not goodwill. It was exposure made legible early enough 
 
 ✏️  ITM-legible-exposure
 
-### Inside the Message
+### 9.6.1 Inside the Message
 
 *Client update:*
 *We are continuing to make progress across the proposed rollout and the team is aligning well around next steps. A few dependencies are still resolving, but we expect to have clearer visibility shortly and remain optimistic about the direction.*
@@ -159,7 +159,7 @@ Nothing here is false. Progress is real. Alignment may be real. Even optimism ma
 Yet the message smooths the terrain at exactly the point where the audience would need sharper footing.
 "Dependencies are still resolving" carries uncertainty without scale. "Clearer visibility shortly" defers consequence into a later moment. The message protects momentum, but it also thins the audience's ability to see what is narrowing now.
 
-### Inside the Work
+### 9.6.2 Inside the Work
 
 ⁘ What does the audience believe after reading this that the message has not fully earned?
 
@@ -169,7 +169,7 @@ Yet the message smooths the terrain at exactly the point where the audience woul
 
 ⁘ If consequences surface later, what part of that surprise was already built into this phrasing?
 
-## Informed Movement
+## 9.7 Informed Movement
 
 > What is named early can be owned early.
 
@@ -195,9 +195,9 @@ Agreement reached this way may be slower. It may even be rarer.
 
 But it endures.
 
-## Situational Vignette
+## 9.8 Situational Vignette
 
-### The Reasonable Ask
+### 9.8.1 The Reasonable Ask
 
 The team meeting is already running long.
 
@@ -217,7 +217,7 @@ No one objects.
 
 They did, after all, agree to move.
 
-### The Same Ask, Reframed
+### 9.8.2 The Same Ask, Reframed
 
 The meeting is running long.
 
@@ -235,7 +235,7 @@ The proposal advances. The work continues.
 
 No one is surprised—but not everyone is comfortable.
 
-### Placed Side by Side
+### 9.8.3 Placed Side by Side
 
 Placed side by side, these moments do not differ in intent.
 
@@ -253,7 +253,7 @@ The question is not which ask was kinder. It is which made exposure legible earl
 
 🖼️  PF-informed-movement
 
-## Where It Stops Being Neutral
+## 9.9 Where It Stops Being Neutral
 
 > Responsibility begins where technique no longer holds.
 
@@ -277,7 +277,7 @@ Persuasion, practiced this way, is not gentle because it avoids discomfort. It i
 
 From here, the question is no longer *how do I persuade?* It becomes *what must be visible before I ask someone to move?*
 
-## Where These Moments Live
+## 9.10 Where These Moments Live
 
 > Labels describe the moment. Exposure determines what follows.
 
@@ -297,53 +297,118 @@ The difference is not what gets written or said. It is **what is made visible be
 
 What comes next is where those moments actually live.
 
-# Signal Lab
+## 9.11 Signal Lab
 
+::: {#chapter-9-signal-lab .signal_lab}
+
+::: {.sl_intro}
 *What becomes visible now is not always what moves forward.*
+:::
 
-## Decode
+### 9.11.1 Decode
 
-### Decode 9.1
+::: {.sl_decode}
+
+#### Decode 9.1
+
+::: {#decode-9-1 .sl_activity .decode_activity}
+
+::: {.sl_stimulus}
 A department lead closes a meeting with one final ask:
 There is a strong chance the client will expand the engagement if we can send a preliminary proposal by Friday. Nothing is committed yet, but early movement will help. Let me know who can support the effort this week.
+:::
+
+::: {.sl_questions}
 1. What becomes visible first in this message: opportunity, obligation, or exposure?
 2. What future burden is implied without being fully named?
 3. Where might agreement form before the audience can see what it may later have to carry?
+:::
+:::
 
-### Decode 9.2
+#### Decode 9.2
+
+::: {#decode-9-2 .sl_activity .decode_activity}
+
+::: {.sl_stimulus}
 A project update is sent to stakeholders:
 We're continuing to make progress across the rollout. A few dependencies are still resolving, but the team remains optimistic and we expect clearer visibility soon.
+:::
+
+::: {.sl_questions}
 1. What does the message allow the audience to feel confident about?
 2. What uncertainty remains present but under-described?
 3. If the situation tightens later, what part of that surprise was already built into the framing?
+:::
+:::
 
-### Decode 9.3
+#### Decode 9.3
+
+::: {#decode-9-3 .sl_activity .decode_activity}
+
+::: {.sl_stimulus}
 Two team members hear the same request to help with stretch work. One has slack capacity this week. The other is already covering delayed upstream inputs and knows the request will likely push work into evenings.
+:::
+
+::: {.sl_questions}
 1. How does the same persuasive moment land differently across these positions?
 2. What does the communicator need to make visible before consent can carry equal meaning for both people?
 3. Where does "voluntary" begin to split from "low-cost"?
+:::
+:::
+:::
 
-## Design
+### 9.11.2 Design
 
-### Design 9.1
+::: {.sl_design}
+
+#### Design 9.1
+
+::: {#design-9-1 .sl_activity .design_activity}
+
+::: {.sl_reference}
 Refer to Decode 9.1.
+:::
+
+::: {.sl_questions}
 A. What would need to become visible before this invitation becomes informed movement rather than momentum seeking?
 B. What can remain open, and what cannot remain vague, if others are being asked to absorb new work?
 C. How would you preserve opportunity without making consequence someone else's later discovery?
+:::
+:::
 
-### Design 9.2
+#### Design 9.2
+
+::: {#design-9-2 .sl_activity .design_activity}
+
+::: {.sl_reference}
 Refer to Decode 9.2.
+:::
+
+::: {.sl_questions}
 A. What must travel with the update so optimism does not crowd out orientation?
 B. Which uncertainty belongs adjacent to the ask rather than deferred into "clearer visibility soon"?
 C. How would you let the audience weigh movement with eyes open rather than reconcile exposure after the fact?
+:::
+:::
 
-### Design 9.3
+#### Design 9.3
+
+::: {#design-9-3 .sl_activity .design_activity}
+
+::: {.sl_reference}
 Refer to Decode 9.3.
+:::
+
+::: {.sl_questions}
 A. What design choice would reduce the gap between how this request lands for the two recipients?
 B. What must be named so that consent reflects actual tradeoff rather than generic willingness?
 C. Where should the communicator absorb more responsibility for legibility before asking the audience to absorb more risk?
+:::
+:::
+:::
+:::
 
-# Chapter 9 — Notes
+## 9.12 Notes
 
 1. Mary Ellen Guffey, *Business Communication: Process and Product* (Boston: Cengage); Kitty O. Locker, *Business and Administrative Communication* (Boston: McGraw-Hill).
 
@@ -357,7 +422,7 @@ C. Where should the communicator absorb more responsibility for legibility befor
 
 6. Aristotle, *Rhetoric*; Carolyn R. Miller, "Genre as Social Action," *Quarterly Journal of Speech* 70, no. 2 (1984): 151–167.
 
-# Chapter 9 — For Further Study
+## 9.13 For Further Study
 
 **Business Communication**
 

@@ -1,4 +1,4 @@
-# Chapter 13: The Job Quest
+# 13. The Job Quest
 
 *Employment Communication*
 
@@ -39,7 +39,7 @@ how a hiring decision can feel sudden because the work of judgment has been happ
 The job quest becomes easier to read once the visible artifact is no longer mistaken for the whole exchange.
 :::
 
-## The Silence Before the Answer
+## 13.1 The Silence Before the Answer
 
 > Nothing feels like a decision. Until it already is.
 
@@ -47,7 +47,7 @@ Hiring decisions are often experienced not as judgments, but as absences. Most p
 
 An application disappears into a system. An interview concludes politely. Days pass. Sometimes weeks. The outcome—if it arrives at all—comes without explanation. No clear misstep. No visible failure. Only the sense that something did not land.
 
-## Legibility Under Constraint
+## 13.2 Legibility Under Constraint
 
 > Full expression does not survive constrained judgment. Only what can be carried does.
 
@@ -55,7 +55,7 @@ Employment communication is often experienced through artifacts—résumés, int
 
 In hiring contexts, decisions are not optimized messages exchanged between equals. They are judgments exercised under constraint: limited time, uneven risk, partial information, and the need to defend outcomes after the fact. What matters most in these environments is not expressive fullness, but legibility—the ability for a person's experience to be recognized, retained, and carried forward with minimal friction.
 
-### When Outcomes Arrive Without Reasons
+### 13.2.1 When Outcomes Arrive Without Reasons
 
 > When no reason is given, the mind supplies one.
 
@@ -63,7 +63,7 @@ That ambiguity invites interpretation. Many people internalize it as a judgment 
 
 This distinction matters because it interrupts a common reflex: the urge to treat every ambiguous outcome as a personal signal. In employment communication, ambiguity is often structural long before it is evaluative.
 
-### When Rejection Carries No Instruction
+### 13.2.2 When Rejection Carries No Instruction
 
 > Not all rejection contains information.
 
@@ -73,9 +73,10 @@ The danger is not rejection itself, but extraction—treating every negative out
 
 Discernment, in this context, includes restraint. Knowing when *not* to change course is as important as knowing when to adapt. Silence does not always ask for revision. Sometimes it asks only for endurance.
 
-::: PF-follow-up-timeline :::
+::: {#pf-follow-up-timeline .pf}
+:::
 
-## What Hiring Systems Resolve
+## 13.3 What Hiring Systems Resolve
 
 > Hiring systems do not resolve people. They resolve decisions about people.
 
@@ -85,7 +86,7 @@ These pressures do not disappear with good intentions. The collision between hum
 
 Communication entering such systems is treated less as narrative and more as evidence. Documents, conversations, and impressions are evaluated for how cleanly they resolve uncertainty rather than how fully they represent a person. Signals that can be recognized quickly and defended later travel more easily than those that require interpretation.¹
 
-### Constraint as a Design Condition
+### 13.3.1 Constraint as a Design Condition
 
 > What moves forward is not what is most complete, but what aligns with how the system decides.
 
@@ -97,7 +98,7 @@ The system narrows its field of vision in order to function.
 
 This narrowing is not a flaw to be corrected. It is a condition to be understood. Once recognized, it becomes possible to distinguish between moments when communication can expand judgment and moments when expansion will simply be filtered away.
 
-## What Organizations Signal—Often Unintentionally
+## 13.4 What Organizations Signal—Often Unintentionally
 
 > Organizations communicate long before anyone speaks with you directly.
 
@@ -113,7 +114,7 @@ Reading the environment, then, is not cynicism. It is situational awareness.
 
 ::: ITM-job-posting-signal 
 
-### Inside the Message
+### 13.4.1 Inside the Message
 The posting appears routine. It names a role, sketches duties, and signals the traits the organization values.
 
 <message>
@@ -130,7 +131,7 @@ Then the surface begins to widen.
 
 Nothing in the posting is automatically suspect. The pressure sits in what the language asks the candidate to infer before contact begins.
 
-### Inside the Work
+### 13.4.2 Inside the Work
 ⁘ What does this organization make visible about the role, and what remains hidden inside broad language?
 
 ⁘ Which terms describe ordinary professional conditions, and which terms may be carrying unresolved internal uncertainty?
@@ -139,13 +140,13 @@ Nothing in the posting is automatically suspect. The pressure sits in what the l
 
 :::
 
-## Becoming a Candidate
+## 13.5 Becoming a Candidate
 
 > Candidacy is not an identity. It is a temporary compression of a person into a form that can be judged.
 
 Within this narrowing, a shift occurs. A person becomes a candidate.
 
-### Reduction Without Announcement
+### 13.5.1 Reduction Without Announcement
 
 > Nothing is removed explicitly. It disappears through the need to be understood quickly.
 
@@ -155,7 +156,7 @@ Legibility does not arise from simplification. Simplification removes substance.
 
 Put differently, legibility is not about saying less. It is about saying what can survive transit. It allows judgment to form without inviting additional risk. In constrained environments, this matters more than fullness or originality.
 
-### Asymmetry Without Malice
+### 13.5.2 Asymmetry Without Malice
 
 > Uneven outcomes do not require uneven intentions.
 
@@ -167,7 +168,7 @@ This imbalance does not require ill intent. It emerges naturally when judgment m
 
 Recognizing this asymmetry matters because it reframes interpretation. A stalled outcome is not always a verdict on preparation or worth. Often, it is simply the visible edge of an uneven distribution of exposure.
 
-## What Legibility Makes Possible
+## 13.6 What Legibility Makes Possible
 
 > Legibility allows judgment to move without reopening uncertainty.
 
@@ -175,7 +176,7 @@ Seen through this lens, familiar employment artifacts take on a different meanin
 
 This dynamic becomes visible in the artifacts that mediate entry.
 
-### Signals That Travel
+### 13.6.1 Signals That Travel
 
 > If a signal cannot be recognized quickly, it does not travel at all.
 
@@ -185,7 +186,7 @@ This efficiency is not aesthetic. It is operational. Resolution frees attention 
 
 ::: ITM-resume-compression 
 
-### Inside the Message
+### 13.6.2 Inside the Message
 The résumé excerpt does not tell the whole story. It cannot.
 
 <message>
@@ -202,7 +203,7 @@ What disappears is also part of the design. The frustrations, false starts, lear
 
 The document is not smaller because the work was small. It is smaller because the work must survive scanning.
 
-### Inside the Work
+### 13.6.3 Inside the Work
 ⁘ What part of the experience can be recognized without explanation?
 
 ⁘ What evidence travels cleanly, and what would require too much reconstruction from the evaluator?
@@ -213,13 +214,14 @@ The document is not smaller because the work was small. It is smaller because th
 
 Cover letters extend the same logic in a different register. They invite alignment rather than disclosure. What matters most is whether a candidate's trajectory can be situated comfortably within the organization's existing understanding of the role. The letter functions as a bridge between an individual history and an institutional narrative already in motion.
 
-::: PF-cover-letter-alignment :::
+::: {#pf-cover-letter-alignment .pf}
+:::
 
-## Artifacts That Carry Judgment
+## 13.7 Artifacts That Carry Judgment
 
 > Artifacts do not represent you. They enable others to judge you without you present.
 
-### Documents That Resolve Quickly
+### 13.7.1 Documents That Resolve Quickly
 
 > What cannot be retold cleanly cannot be used in a decision.
 
@@ -233,7 +235,8 @@ Frameworks persist in these settings because they hold shape under constraint.
 
 They do not eliminate complexity. They contain it just enough to make retelling possible. They contain experience in forms that can be retained, compared, and communicated to others who were not present.
 
-::: PF-interview-answer-portability :::
+::: {#pf-interview-answer-portability .pf}
+:::
 
 **Sidebar — Anatomy of a Portable Answer**
 
@@ -255,7 +258,7 @@ Noticing this pattern does not obligate a speaker to adopt it. It allows a reade
 
 ::: ITM-portable-answer 
 
-### Inside the Message
+### 13.7.2 Inside the Message
 The answer gives the listener more than a story. It gives the listener a version that can be carried.
 
 <message>
@@ -270,7 +273,7 @@ This matters because the answer may not remain in the room. Someone may later su
 
 The answer travels because its structure protects memory.
 
-### Inside the Work
+### 13.7.3 Inside the Work
 ⁘ What can someone repeat accurately after the conversation ends?
 
 ⁘ Where does the answer show judgment rather than merely describe activity?
@@ -279,13 +282,13 @@ The answer travels because its structure protects memory.
 
 :::
 
-## When Judgment Walks
+## 13.8 When Judgment Walks
 
 > Once evaluation begins to circulate, the candidate is no longer the sole author of their professional story.
 
 *After the paper runs out, judgment does not disappear. It moves.*
 
-### Who You Are When You're Not There
+### 13.8.1 Who You Are When You're Not There
 
 > Once you are absent, others carry only what they can remember.
 
@@ -299,7 +302,7 @@ This version is not maliciously constructed. It is shaped by necessity. People s
 
 The result is a subtle shift in authorship. A candidate no longer controls the framing of their own experience. That framing is shared, paraphrased, and occasionally simplified by others who are trying to be accurate while remaining efficient. Judgment begins to form at a distance, informed by memory rather than presence.
 
-### When Someone Speaks for You
+### 13.8.2 When Someone Speaks for You
 
 > To speak for someone is to place your own credibility behind them.
 
@@ -309,7 +312,7 @@ When one person mentions another in a professional context, something quiet but 
 
 This act carries weight because it redistributes exposure. If the description proves inaccurate, the cost does not fall evenly. It accrues to the person who spoke. Their reliability becomes entangled with the outcome. For this reason, such speech is cautious by design. People do not speak lightly on behalf of others when their own standing is at stake.
 
-### Memory With Legs
+### 13.8.3 Memory With Legs
 
 > Memory does not preserve experience. It preserves what can be repeated.
 
@@ -325,7 +328,7 @@ This middle terrain is where most professional lives actually unfold.
 
 Pausing here is important. Much anxiety about networking arises from misunderstanding this space. It is not a stage, a strategy, or a performance. It is the slow accumulation of familiarity under ordinary conditions. Few people are remembered intimately, and few are complete strangers. What circulates instead are partial impressions: someone who asks good questions, someone who follows through, someone who complicates decisions, someone who steadies them. These impressions are uneven and incomplete, but they are sufficient to travel.
 
-### Being Brought Into the Room
+### 13.8.4 Being Brought Into the Room
 
 > By the time you arrive, a version of you is already present.
 
@@ -335,9 +338,10 @@ To be brought into a room is not merely to be invited. It is to be framed before
 
 Introductions compress complexity before contact. They highlight what matters most to the person doing the bringing. They also limit what the listener must discover on their own. In this way, an introduction does more than open a door. It narrows the field of interpretation.
 
-::: PF-networking-introduction :::
+::: {#pf-networking-introduction .pf}
+:::
 
-### When the Ask Comes First
+### 13.8.5 When the Ask Comes First
 
 > The request arrives before the person does.
 
@@ -351,7 +355,7 @@ Seen this way, timing matters not as etiquette, but as mechanics. Judgment that 
 
 ::: ITM-networking-ask 
 
-### Inside the Message
+### 13.8.6 Inside the Message
 The message is polite. It is brief. It asks clearly.
 
 <message>
@@ -369,7 +373,7 @@ Maya may recognize Jordan's name. She may have had pleasant conversations with h
 
 The difficulty is not that the request is rude. The difficulty is that advocacy requires more than goodwill. It requires something stable enough to say when the candidate is not present.
 
-### Inside the Work
+### 13.8.7 Inside the Work
 ⁘ What professional memory is the message asking Maya to use?
 
 ⁘ What could Maya safely say about Jordan without overextending her own judgment?
@@ -382,7 +386,7 @@ What is often labeled networking is, in practice, the slow accumulation of carry
 
 The job quest, at this stage, is no longer about entry. It is about how judgment learns to move—and whose names it carries with it.
 
-## When Judgment Lands
+## 13.9 When Judgment Lands
 
 > Decisions feel sudden when their formation has been invisible.
 
@@ -398,61 +402,113 @@ This transition is asymmetric as well. Candidates experience relief or disappoin
 
 Understanding this arc clarifies what employment communication truly governs. It does not guarantee outcomes. It shapes how judgment forms, how it travels, and how it settles—often long before anyone believes a decision has been made.
 
-**Signal Lab - Decode**
+## 13.10 Signal Lab
 
-**Decode 13.1**
+::: {#chapter-13-signal-lab .signal_lab}
+
+### 13.10.1 Decode
+
+::: {.sl_decode}
+
+#### Decode 13.1
+
+::: {#decode-13-1 .sl_activity .decode_activity}
+
+::: {.sl_stimulus}
 A candidate submits this résumé line for a role that requires coordinating several departments during peak periods:
 
 Coordinated weekly intake reports, updated tracking sheets, and helped improve follow-up during busy periods.
 
 The experience is real. The work mattered. The hiring reviewer has less than a minute before moving to the next application.
+:::
 
+::: {.sl_questions}
 1. What survives the first scan?
 2. What does the line ask the reviewer to infer before judgment can move?
 3. Where does the candidate's experience become legible, and where does it remain too general to carry?
+:::
+:::
 
-**Decode 13.2**
+#### Decode 13.2
+
+::: {#decode-13-2 .sl_activity .decode_activity}
+
+::: {.sl_stimulus}
 During an interview, a candidate is asked about handling pressure.
 
 "I've had a lot of experience with busy weeks and deadlines. In my last office, I often had to communicate with different departments and stay flexible when things changed. I think that experience helped me become dependable under pressure."
 
 The answer sounds professional. The interviewer nods. Later, the interviewer must summarize the candidate to someone who was not in the room.
+:::
 
+::: {.sl_questions}
 1. What can the interviewer repeat accurately after the conversation ends?
 2. Where does the answer depend on impression rather than carryable judgment?
 3. What begins to weaken once the candidate is no longer present?
+:::
+:::
 
-**Decode 13.3**
+#### Decode 13.3
+
+::: {#decode-13-3 .sl_activity .decode_activity}
+
+::: {.sl_stimulus}
 A colleague sends this note to a hiring manager:
 
 "I wanted to introduce Jordan. Jordan is looking for analyst roles and has always been pleasant and reliable in the interactions I've had with him. I thought it might be worth connecting."
 
 The note is kind. It opens a door. The hiring manager has limited time and several candidates already in process.
+:::
 
+::: {.sl_questions}
 1. What kind of attention does this introduction create?
 2. What professional signal is present, and what remains unavailable for judgment?
 3. Where does the colleague lend credibility, and where does the hiring manager still have to discover the basis for it?
+:::
 
+::: {.sl_status}
 Design status: Not selected for Design.
+:::
+:::
+:::
 
-**Signal Lab - Design**
+### 13.10.2 Design
 
-**Design 13.1**
+::: {.sl_design}
+
+#### Design 13.1
+
+::: {#design-13-1 .sl_activity .design_activity}
+
+::: {.sl_reference}
 Refer to Decode 13.1.
+:::
 
+::: {.sl_questions}
 A. What must become visible first if the experience is going to survive a quick scan?
 B. What should be compressed, and what should not be flattened?
 C. What evidence would make the line easier to carry forward without asking the reviewer to reconstruct the work?
+:::
+:::
 
-**Design 13.2**
+#### Design 13.2
+
+::: {#design-13-2 .sl_activity .design_activity}
+
+::: {.sl_reference}
 Refer to Decode 13.2.
+:::
 
+::: {.sl_questions}
 A. What judgment needs to travel after the interview ends?
 B. What context is necessary, and what background would overload the answer?
 C. What should the interviewer be able to say later without distorting the candidate's example?
+:::
+:::
+:::
+:::
 
-
-**Chapter 13 — Notes**
+## 13.11 Notes
 
 1. Michael Spence, "Job Market Signaling," *The Quarterly Journal of Economics* 87, no. 3 (1973): 355–374.
 
@@ -462,7 +518,7 @@ C. What should the interviewer be able to say later without distorting the candi
 
 4. Pierre Bourdieu, "The Forms of Capital," in *Handbook of Theory and Research for the Sociology of Education*, ed. John G. Richardson (New York: Greenwood Press, 1986).
 
-**Chapter 13 — For Further Study**
+## 13.12 For Further Study
 
 **Business Communication**
 

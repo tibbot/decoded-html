@@ -1,4 +1,4 @@
-# Chapter 10: Paper Trails
+# 10. Paper Trails
 
 *Reports and Proposals*
 
@@ -38,7 +38,7 @@ Reports look settled before they are settled. They travel farther than the meeti
 The paper trail matters because it teaches later readers what can still be questioned.
 :::
 
-## A Paper Cage
+## 10.1 A Paper Cage
 
 > A report does not simply capture what happened. It decides what will be rememberable.
 
@@ -62,7 +62,7 @@ To read a report well is not to admire its clarity or follow its structure. It i
 
 The paper trail begins there—not with what is written, but with what the record now makes difficult to question.
 
-## From Information to Exposure
+## 10.2 From Information to Exposure
 
 > Once a report exists, it begins to travel.
 
@@ -70,7 +70,7 @@ It is forwarded, attached, referenced in meetings it never attends. It moves upw
 
 This is how reports acquire authority without asking for it.² A progress report written to reassure a small internal team becomes, a quarter later, evidence that expectations were always aligned. A feasibility analysis drafted to explore possibilities becomes a justification for why alternatives were never pursued. A proposal designed to invite discussion becomes a scope boundary that no one feels permitted to cross.
 
-### Frozen in Time
+### 10.2.1 Frozen in Time
 
 > Reports stabilize situations that were once fluid.
 
@@ -80,7 +80,7 @@ The hand-off is where this shift completes itself. The further a report travels 
 
 This is not a failure of readers. It is a feature of records.
 
-### Compression is irreversible
+### 10.2.2 Compression is irreversible
 
 > Reports are designed to be usable without their authors present.
 
@@ -90,13 +90,13 @@ An appendix is not neutral storage. It is a signal about priority. A summary is 
 
 ::: ITM-compression-survival 
 
-### Inside the Message
+### 10.2.3 Inside the Message
 
 The executive summary states: "Implementation remains on track. Final vendor dependencies are expected to resolve before launch."
 
 The statement gives the audience something usable. It preserves movement, reduces friction, and allows planning to continue. But the uncertainty has been compressed into a phrase that travels less clearly than the confidence around it.
 
-### Inside the Work
+### 10.2.4 Inside the Work
 ⁘ What does "on track" allow later audiences to assume?
 
 ⁘ Which dependency conditions need to remain visible if the record is cited later?
@@ -114,13 +114,13 @@ To write a report with care, then, is not to aim for completeness in an absolute
 
 Inspection does not ask whether the report is well written. It asks what the report now makes durable. That is where the paper trail begins to matter—not as a document, but as a commitment.
 
-## Interpretation Is the Event
+## 10.3 Interpretation Is the Event
 
 > Not all reports compress in the same way.
 
 Some are designed to stabilize what is already known. Others exist to press judgment forward. The distinction is rarely announced, but it governs how responsibility settles in the record.
 
-### When Description Becomes Decision
+### 10.3.1 When Description Becomes Decision
 
 **Informational reports** present themselves as neutral carriers. They organize facts, summarize activity, document status. Their authority comes from restraint. They do not argue. They do not recommend. They simply appear to show what is.
 
@@ -128,7 +128,7 @@ This posture is powerful precisely because it feels harmless. By deciding what c
 
 By choosing which facts deserve inclusion, it shapes what later readers will treat as background rather than contention. The report may disclaim analysis, but it still performs a decisive act: it frames the situation as already understood.
 
-### Making Judgment Visible — and Narrowing the Frame
+### 10.3.2 Making Judgment Visible — and Narrowing the Frame
 
 **Analytical reports** behave differently. They acknowledge friction. They compare alternatives, weigh tradeoffs, surface implications. Their authority comes not from neutrality, but from judgment made explicit. And yet, here too, compression matters.
 
@@ -136,13 +136,13 @@ An analytical report narrows possibility even as it appears to explore it. The o
 
 The distinction between informational and analytical reports is not about content. It is about where judgment is allowed to appear. One hides it upstream. The other names it openly. Both still commit something to the record.
 
-### Accumulation Without Escalation
+### 10.3.3 Accumulation Without Escalation
 
 **Progress reports** occupy an especially delicate position in this landscape. They are written to show movement, not resolution. Their purpose is reassurance, alignment, continuity. They mark time. But over time, they accumulate.
 
 A single progress report is provisional. A series of them becomes narrative. Delays are normalized when framed as phases. Risks soften when repeated without escalation. What was once "on track with caveats" quietly becomes "on track." The paper trail does not record hesitation; it records cadence.
 
-### When Assumptions Harden into Facts
+### 10.3.4 When Assumptions Harden into Facts
 
 **Feasibility reports** operate under a different pressure. They are expected to test viability, to surface constraints, to answer whether something can be done. But feasibility is rarely a fixed property. It is conditional, contextual, sensitive to assumptions that are often left unstated.
 
@@ -150,7 +150,7 @@ When feasibility is documented, those assumptions harden. Cost estimates become 
 
 Here again, compression does the work. The report does not need to declare certainty. It needs only to appear usable. Once it does, its conclusions travel forward as if they were stable truths.
 
-### Defining the Terms of Agreement
+### 10.3.5 Defining the Terms of Agreement
 
 **Proposals** introduce yet another compression pattern. 
 
@@ -160,16 +160,17 @@ Externally, proposals carry additional weight. They are persuasive by design, bu
 
 In both cases, the proposal's power lies less in what it promises than in what it stabilizes. Once accepted, the proposal becomes the reference point against which deviation is measured. Flexibility narrows. Alternatives recede. The document that once invited judgment becomes the standard that enforces it.
 
-::: PF-proposal-flexibility :::
+::: {#pf-proposal-flexibility .pf}
+:::
 
 ::: ITM-proposal-boundary 
 
-### Inside the Message
+### 10.3.6 Inside the Message
 The proposal defines a three-month pilot, two deliverables, and a fixed review date. After approval, a stakeholder asks whether a related training component can be added.
 
 Before approval, the proposal invited judgment. After approval, the same language becomes a boundary. The document has not changed, but its force has.
 
-### Inside the Work
+### 10.3.7 Inside the Work
 ⁘ What did the proposal make discussable before approval?
 
 ⁘ What became harder to introduce after approval?
@@ -178,7 +179,7 @@ Before approval, the proposal invited judgment. After approval, the same languag
 
 :::
 
-### What Becomes Stable
+### 10.3.8 What Becomes Stable
 
 Across all these forms, the same pattern holds. Reports do not merely inform. They position future readers. They determine what feels open to question and what feels already decided. Their ethical weight does not come from intent, but from durability.
 
@@ -186,7 +187,7 @@ To navigate this terrain responsibly is not to master formats. It is to recogniz
 
 The question is never simply, "Is this accurate?" It is, "What will this make difficult to revisit once I am no longer here to explain it?". That question is not answered by *technique*. It is answered by *care*.
 
-## Paraphrase, Pressure, and the Ethics of Speed
+## 10.4 Paraphrase, Pressure, and the Ethics of Speed
 
 > Most ethical failures in reports do not originate in intent. They originate in time.
 
@@ -200,7 +201,7 @@ Speed rewards plausibility over traceability.³ It encourages writers to preserv
 
 ::: ITM-paraphrase-lineage 
 
-### Inside the Message
+### 10.4.1 Inside the Message
 A report paraphrases an earlier research note: 
 
 "Customer onboarding delays are primarily caused by documentation gaps." 
@@ -209,7 +210,7 @@ The original note said delays appeared in teams where documentation gaps combine
 
 The paraphrase is not fabricated. It is plausible. But it narrows the lineage of the claim until a conditional finding begins to look like a stable cause.
 
-### Inside the Work
+### 10.4.2 Inside the Work
 ⁘ What was preserved from the source, and what disappeared?
 
 ⁘ What would a later audience be unable to reconstruct from the report alone?
@@ -230,7 +231,7 @@ Ethical report writing, then, is not about working more slowly in general. It is
 
 Paraphrase deserves scrutiny not because it is suspect, but because it is powerful. It shapes what survives. It determines which voices remain audible once the moment that produced them is gone.
 
-## Citation as Audience Calibration
+## 10.5 Citation as Audience Calibration
 
 > Reports do not merely summarize findings. They anticipate scrutiny.
 
@@ -252,7 +253,8 @@ And when durability is paramount—when documents must remain legible long after
 
 The differences described here are not differences in rigor, but in audience expectation. APA, MLA, and CMS are interfaces, not foundations. They are different answers to the same underlying question: *what does this audience need in order to trust what I am saying?*⁴
 
-::: PF-citation-calibration :::
+::: {#pf-citation-calibration .pf}
+:::
 
 A report that overwhelms an executive audience with dense citation may appear insecure rather than rigorous. A report that offers minimal attribution in a research‑driven environment may feel careless rather than efficient. In both cases, the ethical failure is not incorrect formatting, but misjudged audience care.
 
@@ -260,7 +262,7 @@ Citation, done well, respects the reader's threshold for assurance. It provides 
 
 Seen this way, citation is not compliance. It is a form of foresight.
 
-## When Accuracy Is Not Enough
+## 10.6 When Accuracy Is Not Enough
 
 > Paper trails preserve decisions while teaching organizations how to reason.
 
@@ -288,7 +290,7 @@ That is where the paper trail leads. Not to certainty, but to a narrower field o
 
 This is how records become standards. This is how standards become expectations. And this is where evidence begins to matter differently.
 
-## Convergence — When Ethics, Audience, and Evidence Meet
+## 10.7 Convergence — When Ethics, Audience, and Evidence Meet
 
 > Ethics, audience, and evidence are not separable concerns.
 
@@ -308,53 +310,112 @@ This is why reports and proposals matter so deeply in organizational life. They 
 
 To write them well is not to master templates. It is to recognize that every paper trail teaches an organization how to reason—and to decide, with care, what lessons that trail should leave behind.
 
-**Signal Lab Decode**
+## 10.8 Signal Lab
 
-**Decode 10.1**
+::: {#chapter-10-signal-lab .signal_lab}
+
+### 10.8.1 Decode
+
+::: {.sl_decode}
+
+#### Decode 10.1
+
+::: {#decode-10-1 .sl_activity .decode_activity}
+
+::: {.sl_stimulus}
 A quarterly progress report states: "The implementation remains on track. Minor dependencies are still resolving, but no major timeline risk is expected." Two months later, the report is cited in a planning meeting as evidence that timeline concerns had already been addressed.
+:::
 
+::: {.sl_questions}
 1. What did the original sentence make visible?
 2. What uncertainty traveled forward, and what uncertainty thinned out?
 3. Where does the later citation begin to treat a provisional statement as a settled fact?
+:::
+:::
 
-**Decode 10.2**
+#### Decode 10.2
+
+::: {#decode-10-2 .sl_activity .decode_activity}
+
+::: {.sl_stimulus}
 A feasibility report estimates a six-month rollout based on vendor availability, current staffing, and stable regulatory requirements. Later, the six-month timeline appears in a proposal without the original assumptions attached.
+:::
 
+::: {.sl_questions}
 1. Which conditions supported the original estimate?
 2. What changes when the estimate moves without those conditions?
 3. Where does feasibility begin to harden into expectation?
+:::
+:::
 
-**Decode 10.3**
+#### Decode 10.3
+
+::: {#decode-10-3 .sl_activity .decode_activity}
+
+::: {.sl_stimulus}
 An internal proposal describes a limited pilot with optional expansion after review. Once approved, team members cite the proposal to reject a request for a new stakeholder workshop, arguing that the workshop is "out of scope."
+:::
 
+::: {.sl_questions}
 1. What did the proposal stabilize?
 2. What flexibility was preserved, and what flexibility was not visible enough to survive approval?
 3. How did the document's role change after acceptance?
+:::
+:::
+:::
 
-**Signal Lab Design**
+### 10.8.2 Design
 
-**Design 10.1**
+::: {.sl_design}
+
+#### Design 10.1
+
+::: {#design-10-1 .sl_activity .design_activity}
+
+::: {.sl_reference}
 Refer to Decode 10.1.
+:::
 
+::: {.sl_questions}
 A. What would need to remain visible so "on track" does not erase the condition attached to it?
 B. What should travel with the report if it is likely to be cited later?
 C. Where would you place uncertainty so it remains usable without overwhelming the update?
+:::
+:::
 
-**Design 10.2**
+#### Design 10.2
+
+::: {#design-10-2 .sl_activity .design_activity}
+
+::: {.sl_reference}
 Refer to Decode 10.2.
+:::
 
+::: {.sl_questions}
 A. What assumptions should remain attached to the timeline?
 B. What would prevent the estimate from becoming an unsupported commitment?
 C. How would you distinguish feasibility under current conditions from feasibility as a standing conclusion?
+:::
+:::
 
-**Design 10.3**
+#### Design 10.3
+
+::: {#design-10-3 .sl_activity .design_activity}
+
+::: {.sl_reference}
 Refer to Decode 10.3.
+:::
 
+::: {.sl_questions}
 A. What language would preserve scope without pretending future adjustment is impossible?
 B. What should the proposal make explicit before approval?
 C. Where does approval need to close the decision, and where should it leave review visible?
+:::
+:::
+:::
+:::
 
-**Chapter 10 — Notes**
+## 10.9 Notes
 
 1. Mary Ellen Guffey, *Business Communication: Process and Product* (Boston: Cengage Learning, 2022); Courtland L. Bovée and John V. Thill, *Business Communication Today* (Boston: Pearson, 2021).
 
@@ -364,7 +425,7 @@ C. Where does approval need to close the decision, and where should it leave rev
 
 4. American Psychological Association, *Publication Manual of the American Psychological Association* (Washington, DC: APA); Modern Language Association, *MLA Handbook*; University of Chicago Press, *The Chicago Manual of Style*.
 
-**Chapter 10 — For Further Study**
+## 10.10 For Further Study
 
 **Business Communication**
 

@@ -1,10 +1,10 @@
-# Chapter 4: Laying the Tracks
+# 4. Laying the Tracks
 
 *Planning and Structuring Messages*
 
 ::: {#chapter-4-lo .lo}
 ::: {.lo_notice}
-### What You'll Begin to Notice
+**What You'll Begin to Notice**
 
 Messages rarely lose their way all at once. They begin to divide, to hesitate, to carry more than they should.
 :::
@@ -53,7 +53,7 @@ When structure is intentional, the reader moves with confidence. When it isn't, 
 
 Seen this way, planning is not a preliminary step. It is the moment when responsibility shifts from audience to communicator—a move long implicit in business communication texts that treat organization as a professional obligation rather than a stylistic preference.¹
 
-### The Shape of the Work
+## 4.1 The Shape of the Work
 
 > *Communication does not proceed in a straight line.*
 
@@ -71,7 +71,7 @@ This chapter begins with planning because planning fixes the message's center of
 
 When these lines of work blur, communication becomes harder to diagnose. Communicators sense that something is off, but they lack a vocabulary for locating the problem. When the lines are understood, revision becomes more precise—not because the work is easier, but because its decisions are visible.
 
-### Purpose, Seen Clearly
+## 4.2 Purpose, Seen Clearly
 
 > *Every message is oriented toward an outcome.*
 
@@ -91,7 +91,7 @@ Purpose also governs expectations. A message meant to inform invites evaluation 
 
 Communicators who struggle rarely lack ideas. More often, they are navigating competing purposes without realizing it. Naming purpose does not resolve that tension, but it makes it visible—and therefore manageable.
 
-### Working inside the message
+## 4.3 Working inside the message
 
 *It holds together, but not quite cleanly.*
 
@@ -103,7 +103,7 @@ What began as a clear intention now carries more than one aim. It informs, but a
 
 The message is not unclear. It is divided.
 
-#### Inside the Work
+### 4.3.1 Inside the Work
 What is this trying to do?
 
 The question does not ask for everything. It asks for priority.
@@ -112,7 +112,7 @@ One direction begins to sharpen. The others do not disappear, but they shift. So
 
 The message does not lose meaning. It begins to carry it with more precision.
 
-### How Messages Commit Early
+## 4.4 How Messages Commit Early
 
 > *Structure signals intent almost immediately.*
 
@@ -159,7 +159,7 @@ Once seen this way, structure stops feeling like a formatting choice and starts 
 
 > When a message is meant to secure approval, the decision must be visible early enough to anchor how the rest is read. One version commits to that purpose. The other delays it—asking the reader to interpret before deciding.
 
-### Working inside the message
+## 4.5 Working inside the message
 
 *The opening is where the message begins to commit.*
 
@@ -173,14 +173,14 @@ Once the message begins, the reader starts to form expectations—about what mat
 
 The hesitation is not about what to say. It is about when to say it.
 
-#### Inside the Work
+### 4.5.1 Inside the Work
 What does the reader need first?
 
 The answer does not settle everything. It commits the message to a path.
 
 What comes next will either support that opening—or strain against it.
 
-### Drafting: Where Intention Meets Language
+## 4.6 Drafting: Where Intention Meets Language
 
 > *Drafting is where plans are tested.*
 
@@ -198,7 +198,7 @@ This experience is familiar at every level. What changes with experience is not 
 
 Seeing drafting as a distinct line of work helps here. Drafting is not where purpose is decided. It is where purpose is interpreted in language. That interpretation can sharpen direction—or quietly reshape it.
 
-### Working inside the message
+## 4.7 Working inside the message
 
 *It begins to sound right.*
 
@@ -214,7 +214,7 @@ It also becomes harder to read in a single pass.
 
 Nothing signals a problem directly. The draft feels productive. It is only in moments—when a sentence needs to do more than it should, or when a paragraph no longer quite lands—that the uncertainty appears.
 
-#### Inside the Work
+### 4.7.1 Inside the Work
 What is this doing to the direction?
 
 The question does not stop the draft. It interrupts it just enough to be noticed.
@@ -223,7 +223,7 @@ Some lines begin to pull away from the center. Others still hold. The difference
 
 The work continues. But with attention returned.
 
-### Drift and Density
+## 4.8 Drift and Density
 
 > *Uncertainty leaves traces in structure.*
 
@@ -269,7 +269,7 @@ When drift and density are recognized as patterns, they become manageable. Commu
 
 Drafting does not require eliminating drift or density. It requires noticing them. Without that recognition, revision becomes guesswork.
 
-### Working inside the message
+## 4.9 Working inside the message
 
 *It no longer feels like it did.*
 
@@ -283,7 +283,7 @@ The problem is not in any single sentence. It is in what the message is trying t
 
 Something has to be decided.
 
-#### Inside the Work
+### 4.9.1 Inside the Work
 What does this need to do right now?
 
 That question does not simplify the message. It narrows it.
@@ -292,14 +292,14 @@ What remains begins to organize itself. What does not belong starts to show. Mat
 
 The message does not become shorter by default. It becomes clearer about what it is doing.
 
-#### Inside the Work
+### 4.9.2 Inside the Work
 What is this trying to do—and what is it carrying that it does not need?
 
 The direction returns, not all at once, but enough to continue.
 
 The work resumes.
 
-### Structure as a Reference Point
+## 4.10 Structure as a Reference Point
 
 > *Structure enables diagnosis.*
 
@@ -313,7 +313,7 @@ This changes the experience of revision. Rather than optimizing sentences in iso
 
 Drafting, then, is not a linear step. It is a dialogue. Intention informs language. Language pushes back. The communicator responds.
 
-### Completing: Preparing for Use
+## 4.11 Completing: Preparing for Use
 
 > *Messages must survive real conditions.*
 
@@ -353,7 +353,7 @@ Understanding this interaction does not simplify communication. It makes communi
 
 > When a message must survive partial reading, what carries the decision cannot depend on sequence. One version holds the decision in place. The other risks losing it when the message is skimmed.
 
-### Working inside the message
+## 4.12 Working inside the message
 
 *It will not be read the way you imagine.*
 
@@ -365,7 +365,7 @@ The reader does not encounter the message all at once. They enter somewhere, for
 
 The message does not fail because it is unclear. It falters because clarity depends on conditions that no longer hold.
 
-#### Inside the Work
+### 4.12.1 Inside the Work
 What will still be clear when this is read quickly—or out of context?
 
 The question does not change the message's intent. It changes what must carry that intent.
@@ -374,7 +374,7 @@ Some elements must stand on their own. Others can support, but not carry. What w
 
 The message does not become simpler. It becomes more durable.
 
-### Breathing In
+## 4.13 Breathing In
 
 > *Structure prepares messages for motion.*
 
@@ -394,48 +394,69 @@ Once writers recognize that, attention begins to shift—not away from intention
 
 The decisions haven't stopped. They're about to move.
 
-## 📡 Signal Lab — Chapter 4
+## 4.14 Signal Lab
 
-### Decode
+::: {#chapter-4-signal-lab .signal_lab}
+
+### 4.14.1 Decode
+
+::: {.sl_decode}
 
 Each message below is presented as it might appear in practice. The situation is held constant so that attention can remain on what the message is doing, not on changing context.
 
 The task is not to fix it.
 The task is to see what it is doing.
 
-#### 1
+#### Decode 4.1
 
+::: {#decode-4-1 .sl_activity .decode_activity}
+
+::: {.sl_stimulus}
 > The timeline has been finalized based on the constraints discussed last week. There were a few concerns about resource allocation and sequencing, but the current structure reflects the best available path forward. If there are any issues, we can revisit and adjust as needed.
+:::
 
-What is this message doing?
+::: {.sl_questions}
+1. What is this message doing?
+2. Where does it begin—and what does that commit?
+3. What does it ask the audience to assume?
+4. What feels less certain than it first appeared?
+:::
+:::
 
-Where does it begin—and what does that commit?
+#### Decode 4.2
 
-What does it ask the audience to assume?
+::: {#decode-4-2 .sl_activity .decode_activity}
 
-What feels less certain than it first appeared?
-
-#### 2
-
+::: {.sl_stimulus}
 > The project is structured across three phases, with initial development beginning next week and completion targeted for the end of the quarter. This schedule reflects current resource availability and dependencies identified during planning. Please let me know if you approve the proposed timeline.
+:::
 
-What is being asked—and when does that become clear?
+::: {.sl_questions}
+1. What is being asked—and when does that become clear?
+2. What does the opening prepare the audience to expect?
+3. What work is the audience doing before the decision appears?
+:::
+:::
 
-What does the opening prepare the audience to expect?
+#### Decode 4.3 (optional)
 
-What work is the audience doing before the decision appears?
+::: {#decode-4-3 .sl_activity .decode_activity .optional}
 
-#### 3 (optional)
-
+::: {.sl_stimulus}
 > The adjustment reflects updated vendor estimates and aligns with the timeline discussed last week. We approved the revised budget for Phase 2.
+:::
 
-If this message is skimmed, what is likely to be seen?
+::: {.sl_questions}
+1. If this message is skimmed, what is likely to be seen?
+2. What carries the decision—and where does it appear?
+3. What is at risk if the message is read out of sequence?
+:::
+:::
+:::
 
-What carries the decision—and where does it appear?
+### 4.14.2 Design
 
-What is at risk if the message is read out of sequence?
-
-### Design
+::: {.sl_design}
 
 The situations above remain in play.
 
@@ -444,23 +465,31 @@ Select any two and carry them forward.
 The task is not to rewrite.
 The task is to decide.
 
-#### 1
+#### Design 4.1
 
-What needs to be clear first?
+::: {#design-4-1 .sl_activity .design_activity}
 
-What must the audience understand immediately—and what can follow?
+::: {.sl_questions}
+A. What needs to be clear first?
+B. What must the audience understand immediately—and what can follow?
+C. What would you hold in place, and what would you move?
+:::
+:::
 
-What would you hold in place, and what would you move?
+#### Design 4.2
 
-#### 2
+::: {#design-4-2 .sl_activity .design_activity}
 
-What does this message need to do right now?
+::: {.sl_questions}
+A. What does this message need to do right now?
+B. What is it carrying that it does not need?
+C. What holds the purpose—and what pulls away from it?
+:::
+:::
+:::
+:::
 
-What is it carrying that it does not need?
-
-What holds the purpose—and what pulls away from it?
-
-## Chapter 4 — Notes
+## 4.15 Notes
 
 1. Courtland L. Bovée and John V. Thill, *Business Communication Today* (Boston: Pearson); Mary Ellen Guffey, *Business Communication: Process and Product* (Boston: Cengage).
 
@@ -474,7 +503,7 @@ What holds the purpose—and what pulls away from it?
 
 6. Karl E. Weick, *Sensemaking in Organizations*; Donald A. Norman, *The Design of Everyday Things* (New York: Basic Books, 1988).
 
-## Chapter 4 — For Further Study
+## 4.16 For Further Study
 
 **Business Communication**
 

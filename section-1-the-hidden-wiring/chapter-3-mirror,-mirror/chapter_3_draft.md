@@ -1,4 +1,4 @@
-# Chapter 3: Mirror, Mirror
+# 3. Mirror, Mirror
 
 *Ethical & Audience-Centered Communication*
 
@@ -45,7 +45,7 @@ They arrive in different conditions—of time, authority, access, and consequenc
 What follows is not a way to adjust tone or anticipate reactions, but a way to see how meaning, effort, and consequence begin to separate—often before anyone notices.
 :::
 
-## The Message Without a Face
+## 3.1 The Message Without a Face
 
 Consider a short message sent across an organization:
 
@@ -64,7 +64,7 @@ Such breakdowns are common not because communicators are careless, but because c
 Not the demographic. Not a distribution list. The *people* whose minds the message must traverse—people with histories, contexts, pressures, limits, and very different angles of interpretation.
 
 ::: ITM audience-resolution-distribution
-### Inside the Message
+### 3.1.1 Inside the Message
 
 A message circulates to several teams:
 
@@ -93,7 +93,7 @@ The same message moves across all three.
 It settles differently each time.
 
 
-### Inside the Work
+### 3.1.2 Inside the Work
 
 What does "Friday" require from where you stand?
 
@@ -110,7 +110,7 @@ Every message has a face the sender never sees: the one reflected in the mind of
 
 This chapter is about that mirror.
 
-## The Variable We Forgot to Name
+## 3.2 The Variable We Forgot to Name
 
 Up to this point, audience has been present in every model and principle studied—so present it blended into the background.
 
@@ -136,7 +136,7 @@ Principles follow the same shift. They no longer sit as guidelines outside the m
 
 Communication begins to take on a different quality: less like transmission, more like something built across minds.
 
-## (Yet) Unspoken Rules of Exchange
+## 3.3 (Yet) Unspoken Rules of Exchange
 
 Once audience comes into view, responsibility begins to take shape—not as a single rule, but as a continuum that forms within the structure of the exchange.
 
@@ -155,7 +155,7 @@ A distinct mode of **ethical responsibility** begins to emerge—not as a compro
 What matters here is not which system is "better," but which one can actually guide everyday communication when people disagree, lack shared values, or operate under uncertainty. Ethics governs shared interaction among people who do not share conscience and are not constantly regulated by law. It consists of professional norms, organizational expectations, and societal standards that stabilize collective work. Ethics functions as the operating system of business communication: it enables coordination, trust, and predictability under conditions of uncertainty, asymmetry, and interdependence.
 
 ::: ITM 2 — ethical-governance-choice
-### Inside the Message
+### 3.3.1 Inside the Message
 
 You are preparing an update for a client.
 
@@ -186,7 +186,7 @@ You pause on the phrasing.
 What the message carries forward—and what it leaves behind—begin to separate.
 
 
-### Inside the Work
+### 3.3.2 Inside the Work
 
 What does the client need to understand to make sense of this moment?
 
@@ -217,7 +217,7 @@ Finally, **ethics stabilizes interaction under asymmetry and uncertainty**. Busi
 
 These patterns are rarely stated outright. Yet they govern exchange all the same. Once an audience is acknowledged, communication stops being neutral. Every choice becomes consequential—even when no harm is intended.
 
-## When Meaning Is Not Shared
+## 3.4 When Meaning Is Not Shared
 
 **Here the focus shifts from intent to structure.** Interpretation is shaped by role, access, timing, and consequence long before judgment occurs.
 
@@ -252,7 +252,7 @@ Together, these perspectives converge on a simple but consequential insight: the
 This is why ethical responsibility increases with power—not as a moral indictment, but as a structural necessity.
 
 ::: ITM 3 — asymmetry-interpretive-limit
-### Inside the Message
+### 3.4.1 Inside the Message
 
 A note appears in the team channel from a senior lead:
 
@@ -275,7 +275,7 @@ Questions form, then stall.
 The message has already moved on.
 
 
-### Inside the Work
+### 3.4.2 Inside the Work
 
 What can you ask here—and what holds you back?
 
@@ -292,7 +292,7 @@ The common thread across these perspectives is not blame, but design. Each expla
 
 Power, in this sense, is both unavoidable and consequential. It cannot be eliminated from communication, but it can be acknowledged, managed, and designed for. Doing so does not resolve every imbalance. It stabilizes interaction by making meaning less dependent on position alone.
 
-## Where the Work of Meaning Falls
+## 3.5 Where the Work of Meaning Falls
 
 **Accessibility determines who must work hardest to understand.** This section makes that burden visible—and therefore designable.
 
@@ -317,7 +317,7 @@ Finally, accessibility stabilizes shared meaning under varied constraints. Even 
 In many contexts, accessibility is not optional. Anti-discrimination and accessibility laws—including the Americans with Disabilities Act (ADA).⁸)—establish enforceable minimum standards for reasonably accessible communication. Legal compliance, however, represents only the minimum boundary.
 
 ::: ITM 4 — decoding-burden-accessibility
-### Inside the Message
+### 3.5.1 Inside the Message
 
 A message arrives from another team:
 
@@ -336,7 +336,7 @@ A response is expected. Movement follows from this.
 You begin to assemble what is missing.
 
 
-### Inside the Work
+### 3.5.2 Inside the Work
 
 Where does understanding begin for you?
 
@@ -353,7 +353,7 @@ Accessibility carries ethical significance because inaccessible communication in
 
 For this reason, accessibility is not merely accommodation. It is fairness in comprehension. It ensures that participation in meaning-making does not depend on extraordinary effort by those least equipped to provide it, and that understanding is shaped by intention rather than circumstance.
 
-## The Anatomy of Ethical Failure
+## 3.6 The Anatomy of Ethical Failure
 
 **Ethical breakdowns follow patterns.** This section names the most common fractures so they can be recognized and redesigned.
 
@@ -392,7 +392,7 @@ Taken together, these fractures point to a single pattern: ethical failure is ra
 
 This is why ethical communication warrants scientific attention. By studying authentic structures, fractures become visible as architectural signals. Once recognized, they invite correction through design—strengthening how meaning is carried, shared, and sustained.
 
-## When Purpose Becomes Structural
+## 3.7 When Purpose Becomes Structural
 
 **Purpose has been present throughout this chapter.** Here it becomes explicit—and architectural.
 
@@ -420,7 +420,7 @@ Purpose therefore functions as a structural forecast. It shapes design decisions
 
 The techniques and formats that support different purposes will be explored in depth in Section II. Here, the goal is conceptual. Purpose is not stylistic choice or rhetorical flourish. It is the quiet architect of responsibility—shaping how meaning is carried, effort is allocated, and ethical obligations are fulfilled.
 
-## The Mirror and the Wiring
+## 3.8 The Mirror and the Wiring
 
 The models introduced earlier revealed the system of communication. The Seven Shadows illuminated its governing principles. With audience, ethics, accessibility, power, and purpose now brought into view, that system resolves into architecture.
 
@@ -440,10 +440,19 @@ In the chapters ahead, the focus will shift from diagnosis to design. You will m
 
 That design begins with the mirror.
 
-**Signal Lab — Decode**
+## 3.9 Signal Lab
 
-**Decode 3.1**
+::: {#chapter-3-signal-lab .signal_lab}
 
+### 3.9.1 Decode
+
+::: {.sl_decode}
+
+#### Decode 3.1
+
+::: {#decode-3-1 .sl_activity .decode_activity}
+
+::: {.sl_stimulus}
 A cross-team message appears:
 
 "Proceed with the revised onboarding sequence. Align documentation with current standards and escalate any blockers through the usual path."
@@ -453,15 +462,20 @@ The message moves quickly across teams.
 Some begin immediately.
 Others pause.
 A few wait.
+:::
 
+::: {.sl_questions}
 1. Where does interpretation begin?
-
 2. Who is ready to act—and who must reconstruct before moving?
-
 3. Where does the work of meaning fall before anything happens?
+:::
+:::
 
-**Decode 3.2**
+#### Decode 3.2
 
+::: {#decode-3-2 .sl_activity .decode_activity}
+
+::: {.sl_stimulus}
 A client update is sent:
 
 "We're continuing to make progress across all active workstreams. A few dependencies are still resolving, and we'll have greater clarity as those come into place."
@@ -471,16 +485,20 @@ The update is accurate.
 The client responds:
 
 "Great—sounds like everything is on track."
+:::
 
-4. What is understood—and what is assumed?
+::: {.sl_questions}
+1. What is understood—and what is assumed?
+2. What travels forward in the message—and what does not?
+3. Where might consequences begin to diverge?
+:::
+:::
 
-5. What travels forward in the message—and what does not?
+#### Decode 3.3
 
-6. Where might consequences begin to diverge?
+::: {#decode-3-3 .sl_activity .decode_activity}
 
-
-**Decode 3.3**
-
+::: {.sl_stimulus}
 A priority shift is announced in a team channel:
 
 "Stabilize the release before adding new features. Adjust plans accordingly."
@@ -492,15 +510,20 @@ Different teams respond differently.
 Some rework schedules immediately.
 Others wait for clarification.
 Some continue as planned.
+:::
 
-7. What determines each response?
+::: {.sl_questions}
+1. What determines each response?
+2. Who can ask—and who hesitates?
+3. Where does risk settle across these choices?
+:::
+:::
 
-8. Who can ask—and who hesitates?
+#### Decode 3.4
 
-9. Where does risk settle across these choices?
+::: {#decode-3-4 .sl_activity .decode_activity}
 
-**Decode 3.4**
-
+::: {.sl_stimulus}
 A compliance note is distributed:
 
 "Ensure all data handling aligns with updated privacy expectations. Refer to policy documentation for guidance."
@@ -508,47 +531,68 @@ A compliance note is distributed:
 No examples are provided.
 
 Questions begin to surface informally.
+:::
 
-10. What must be interpreted before action becomes possible?
+::: {.sl_questions}
+1. What must be interpreted before action becomes possible?
+2. Who carries responsibility for getting it right?
+3. Where does uncertainty concentrate?
+:::
+:::
+:::
 
-11. Who carries responsibility for getting it right?
+### 3.9.2 Design
 
-12. Where does uncertainty concentrate?
+::: {.sl_design}
 
+#### Design 3.1
 
-**Signal Lab — Design**
+::: {#design-3-1 .sl_activity .design_activity}
 
-**Design 3.1**
-
+::: {.sl_reference}
 Refer to Decode 3.2.
+:::
 
+::: {.sl_questions}
 A. What would allow the client to see the full situation without overexposure?
-
 B. What must travel with the message so interpretation aligns with reality?
-
 C. Where does accuracy need to become clarity?
+:::
+:::
 
-**Design 3.2**
+#### Design 3.2
 
+::: {#design-3-2 .sl_activity .design_activity}
+
+::: {.sl_reference}
 Refer to Decode 3.3.
+:::
 
-D. What would stabilize response across teams?
+::: {.sl_questions}
+A. What would stabilize response across teams?
+B. What must be specified—and what can remain flexible?
+C. Where should authority end and coordination begin?
+:::
+:::
 
-E. What must be specified—and what can remain flexible?
+#### Design 3.3
 
-F. Where should authority end and coordination begin?
+::: {#design-3-3 .sl_activity .design_activity}
 
-**Design 3.3**
-
+::: {.sl_reference}
 Refer to Decode 3.4.
+:::
 
-G. What would reduce the need for individual interpretation?
+::: {.sl_questions}
+A. What would reduce the need for individual interpretation?
+B. What examples or structure would allow correct action without escalation?
+C. Where should responsibility shift from audience to message?
+:::
+:::
+:::
+:::
 
-H. What examples or structure would allow correct action without escalation?
-
-I. Where should responsibility shift from audience to message?
-
-**Chapter 3 — Notes**
+## 3.10 Notes
 
 1. David K. Berlo, *The Process of Communication* (New York: Holt, Rinehart and Winston, 1960).
 
@@ -566,7 +610,7 @@ I. Where should responsibility shift from audience to message?
 
 8. Americans with Disabilities Act of 1990, 42 U.S.C. §12101 et seq.
 
-**Chapter 3 — For Further Study**
+## 3.11 For Further Study
 
 **Business Communication**
 

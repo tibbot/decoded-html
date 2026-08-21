@@ -1,4 +1,4 @@
-# Chapter 12: Lights, Mic, Action
+# 12. Lights, Mic, Action
 
 *Oral and Multimedia Presentations*
 
@@ -43,7 +43,7 @@ The room is already deciding before you speak.
 What follows is not a guide to performing well, but a way to see how live communication turns evidence into consequence.
 :::
 
-## When Communication Has to Work in Real Time
+## 12.1 When Communication Has to Work in Real Time
 
 > Decisions begin before explanation has time to catch up.
 
@@ -71,7 +71,7 @@ This is where responsibility peaks.
 
 At this moment, ethical communication is no longer about fairness in representation alone. It is about stewardship under pressure. The presenter inherits all prior design and research decisions and becomes accountable for how they will function when time, hierarchy, and attention collide.
 
-## When Visuals Become Decisions
+## 12.2 When Visuals Become Decisions
 
 > Visuals do not illustrate ideas. They decide them.
 
@@ -84,7 +84,7 @@ Across business communication, rhetoric, and adjacent fields, a consistent patte
 What emerges across this lineage is a shift: presentation is no longer the final step of communication. It is the moment where judgment becomes possible under constraint.
 
 
-### Inside the Message
+### 12.2.1 Inside the Message
 
 A slide appears near the start of a presentation:
 
@@ -100,7 +100,7 @@ Nothing on the slide is false.
 
 What it asks the room to notice first is doing the work.
 
-### Inside the Work
+### 12.2.2 Inside the Work
 
 ⁘ What has the slide made easy to accept before explanation begins?
 
@@ -119,7 +119,7 @@ What is placed on the slide is elevated. What is absent is demoted. What is simp
 
 This is why visuals accelerate decision-making. They collapse complexity into something that can be apprehended at a glance. That speed is not neutral. It favors conclusions that survive reduction over those that require context to be understood.
 
-### When Design Starts Deciding for the Room
+### 12.2.3 When Design Starts Deciding for the Room
 
 > By the time a visual appears, its ethical choices have already been made.
 
@@ -131,7 +131,7 @@ The slide does not say, "This is settled." It implies, "This is what remains aft
 
 Not all decisions fail because they are wrong. Some fail because not everyone was able to see the same thing.
 
-### When the Decision Isn't Shared
+### 12.2.4 When the Decision Isn't Shared
 
 > When not everyone can read the visual, not everyone shares the decision.
 
@@ -141,7 +141,7 @@ If a visual cannot be interpreted by everyone in the room—because of color dep
 
 Accessible design does more than include. It exposes assumptions about who is expected to understand quickly and who is expected to follow.
 
-### Before Anyone Has Time to Sit With It
+### 12.2.5 Before Anyone Has Time to Sit With It
 
 > Slides decide how long the room is allowed to think.
 
@@ -151,7 +151,7 @@ Responsible visual communication does not aim for elegance alone. It aims for le
 
 A good visual does not exhaust the evidence. It signals where exhaustion would be dangerous.
 
-## When the Agenda Becomes the Argument
+## 12.3 When the Agenda Becomes the Argument
 
 > What looks like order is actually a decision about what matters.
 
@@ -161,7 +161,7 @@ Early models of oral communication treat structure as a tool for clarity.² More
 
 Sequence and timing do not simply organize a presentation. They determine what the room will treat as essential, and what it will allow to fade once time begins to close.
 
-### When the Room Is Framed Before It Thinks
+### 12.3.1 When the Room Is Framed Before It Thinks
 
 > Every presentation begins by deciding what the room is about.
 
@@ -169,14 +169,15 @@ Because time is finite, structure acts as a sorting mechanism. It tells the audi
 
 The way a talk is organized does more than help an audience follow along. It determines what will be treated as foundational, what will be tolerated as nuance, and what will be dismissed as peripheral once time runs out.
 
-::: PF-structure-priority :::
+::: {#pf-structure-priority .pf}
+:::
 
 
 Openings establish the frame within which everything else will be interpreted. Once this frame is set, it becomes difficult to escape. Evidence introduced later will be evaluated against it, not alongside it.
 
 What appears early feels essential. What appears later feels additive. Time itself becomes an argument about importance.
 
-### When Order Starts Feeling Like Logic
+### 12.3.2 When Order Starts Feeling Like Logic
 
 > Sequence makes conclusions feel inevitable before they are tested.
 
@@ -188,7 +189,7 @@ Time allocation sharpens these effects. What is given time appears worthy of con
 
 By this point, the structure is no longer neutral. It is being performed.
 
-### When Delivery Takes Over
+### 12.3.3 When Delivery Takes Over
 
 > Delivery turns structure into judgment.
 
@@ -198,7 +199,7 @@ Fluency feels like mastery. Hesitation reads as uncertainty—even when it refle
 
 When time expires, structure becomes verdict.
 
-## When Everything Starts to Agree
+## 12.4 When Everything Starts to Agree
 
 > Authority rarely comes from what is shown or what is said. It comes from when they agree.
 
@@ -228,7 +229,7 @@ Speech should not exist to neutralize the visual. Visuals should not exist to se
 
 Without signals that inspection is still possible, alignment becomes closure.
 
-## When Judgment Reopens
+## 12.5 When Judgment Reopens
 
 > Questions do not clarify a presentation. They reallocate power.
 
@@ -240,7 +241,7 @@ Some questions are welcomed. Others are tolerated. A few are deflected.
 
 "We can take that offline" is not logistical. It redistributes responsibility.
 
-### Inside the Message
+### 12.5.1 Inside the Message
 
 A stakeholder asks:
 
@@ -259,7 +260,7 @@ The room hears responsiveness. It also receives a signal: the central judgment r
 The compression has been challenged, but not reopened.
 
 
-### Inside the Work
+### 12.5.2 Inside the Work
 
 ⁘ What did the question make visible?
 
@@ -274,7 +275,7 @@ Q&A reveals what the room is willing to pause for. A question answered quickly b
 
 Responsible Q&A acknowledges unresolved compression.
 
-## When Responsibility Diffuses
+## 12.6 When Responsibility Diffuses
 
 > When no one owns the final decision, accountability has nowhere to attach.
 
@@ -290,7 +291,7 @@ Smoothness is the danger.
 
 When transitions work perfectly, gaps disappear. When responsibility is shared evenly, accountability can disappear with it.
 
-## When the Artifact Takes Over
+## 12.7 When the Artifact Takes Over
 
 > Presentations end. Their conclusions do not.
 
@@ -302,7 +303,8 @@ Once slides circulate without narration, they acquire a different authority. The
 
 Meeting notes favor decisiveness. Ambiguity is inconvenient to record. A slide that felt provisional in the room can read as final once it travels. A title that guided discussion becomes the conclusion others inherit. Later, outcomes are justified by what was presented.
 
-::: PF-artifact-afterlife :::
+::: {#pf-artifact-afterlife .pf}
+:::
 
 The artifact does not remember the moment. It replaces it. Responsible presentations anticipate their afterlife.
 
@@ -316,24 +318,38 @@ In the aftermath, what survives becomes the new ground.
 
 That is the responsibility of final compression.
 
-**Signal Lab — Decode**
+## 12.8 Signal Lab
 
-**Decode 12.1**
+::: {#chapter-12-signal-lab .signal_lab}
 
+### 12.8.1 Decode
+
+::: {.sl_decode}
+
+#### Decode 12.1
+
+::: {#decode-12-1 .sl_activity .decode_activity}
+
+::: {.sl_stimulus}
 A slide deck opens with this title:
 
 **Recommendation: Expand Pilot to All Regions**
 
 The first chart shows adoption rising over six weeks. A note at the bottom says Week 5 excludes incomplete partner data.
+:::
 
+::: {.sl_questions}
 1. What does the slide ask the room to treat as already decided?
-
 2. What uncertainty is visible but weakened?
-
 3. What will likely survive if this slide circulates without narration?
+:::
+:::
 
-**Decode 12.2**
+#### Decode 12.2
 
+::: {#decode-12-2 .sl_activity .decode_activity}
+
+::: {.sl_stimulus}
 A presenter says:
 
 We are here to review whether expansion is justified.
@@ -341,59 +357,85 @@ We are here to review whether expansion is justified.
 The slide behind them says:
 
 **Expansion Plan: Regional Rollout Timeline**
+:::
 
-4. Where do speech and visual alignment break?
+::: {.sl_questions}
+1. Where do speech and visual alignment break?
+2. Which signal is likely to dominate the room's interpretation?
+3. What kind of judgment has been made harder by the mismatch?
+:::
+:::
 
-5. Which signal is likely to dominate the room's interpretation?
+#### Decode 12.3
 
-6. What kind of judgment has been made harder by the mismatch?
+::: {#decode-12-3 .sl_activity .decode_activity}
 
-**Decode 12.3**
-
+::: {.sl_stimulus}
 During Q&A, someone asks whether the findings change when incomplete data is included. The presenter responds:
 
 We can take that offline. The direction is clear enough for today's decision.
+:::
 
-7. What did the question reopen?
+::: {.sl_questions}
+1. What did the question reopen?
+2. What did the response contain?
+3. Who now carries responsibility for the unresolved uncertainty?
+:::
+:::
+:::
 
-8. What did the response contain?
+### 12.8.2 Design
 
-9. Who now carries responsibility for the unresolved uncertainty?
+::: {.sl_design}
 
-**Signal Lab — Design**
+#### Design 12.1
 
-**Design 12.1**
+::: {#design-12-1 .sl_activity .design_activity}
 
+::: {.sl_reference}
 Refer to Decode 12.1.
+:::
 
+::: {.sl_questions}
 A. What should the slide make visible first if the decision is still open?
-
 B. What must remain legible after the deck is forwarded?
-
 C. What would prevent the chart from overstating certainty?
+:::
+:::
 
-**Design 12.2**
+#### Design 12.2
 
+::: {#design-12-2 .sl_activity .design_activity}
+
+::: {.sl_reference}
 Refer to Decode 12.2.
+:::
 
-D. What should align between speech and slide title?
+::: {.sl_questions}
+A. What should align between speech and slide title?
+B. What wording would preserve inspection rather than imply rollout?
+C. What should the presenter say before moving to the chart?
+:::
+:::
 
-E. What wording would preserve inspection rather than imply rollout?
+#### Design 12.3
 
-F. What should the presenter say before moving to the chart?
+::: {#design-12-3 .sl_activity .design_activity}
 
-**Design 12.3**
-
+::: {.sl_reference}
 Refer to Decode 12.3.
+:::
 
-G. When is it appropriate to move a question offline?
+::: {.sl_questions}
+A. When is it appropriate to move a question offline?
+B. What must be preserved in the room before doing so?
+C. How should the meeting record capture the unresolved question?
+:::
+:::
+:::
+:::
 
-H. What must be preserved in the room before doing so?
-
-I. How should the meeting record capture the unresolved question?
-
-
-# Chapter 12 — Notes
+## 12.9 Notes
 
 1. Mary Ellen Guffey, *Business Communication: Process and Product*; Courtland L. Bovée and John V. Thill, *Business Communication Today*.
 
@@ -401,7 +443,7 @@ I. How should the meeting record capture the unresolved question?
 
 3. John Sweller, *Cognitive Load Theory*; Richard Schechner, *Performance Studies: An Introduction*.
 
-# Chapter 12 — For Further Study
+## 12.10 For Further Study
 
 **Business Communication**
 

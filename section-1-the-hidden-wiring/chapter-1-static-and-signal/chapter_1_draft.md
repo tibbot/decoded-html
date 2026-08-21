@@ -1,4 +1,4 @@
-# Static and Signal
+# 1. Static and Signal
 
 *Understanding Communication*
 
@@ -48,7 +48,7 @@ Communication doesn't usually fail because people stop trying. It slips, distort
 What follows is not a better way to send messages, but a sharper way to see what is already happening.
 :::
 
-## The Silent Meeting
+## 1.1 The Silent Meeting
 
 > Remove communication and the system stops—nothing moves forward.
 
@@ -56,7 +56,7 @@ Imagine stepping into a conference room where a critical decision is about to be
 
 This thought experiment reveals a fundamental truth: business communication isn't an accessory to professional life—it is its foundation. Without it, decisions falter, opportunities slip away, and businesses fail.
 
-## Not a "Soft Skill"
+## 1.2 Not a "Soft Skill"
 
 > Communication is not a trait; it is how work moves from intent to action.
 
@@ -64,7 +64,7 @@ Communication is often called a *soft skill*. The phrase suggests something seco
 
 In that sense, communication isn't soft. It's structural. It's the wiring that connects every other function of business. Without it, even the hardest technical expertise remains inert.
 
-## Understanding Communication through Models
+## 1.3 Understanding Communication through Models
 
 > Models don't recreate reality—they sharpen what you can see within it.
 
@@ -82,7 +82,7 @@ The models that shaped modern business communication—SMR, Shannon–Weaver, Sc
 
 Let's trace that evolution—not as a list to memorize, but as a discovery of how we learned to see our own conversations.
 
-## SMR—Drawing the First Line
+## 1.4 SMR—Drawing the First Line
 
 > Structure gives direction; without it, messages cannot be located.
 
@@ -92,7 +92,7 @@ One person. One message. One listener.
 
 The **Source–Message–Receiver (SMR)** model gave that simplicity a diagram.¹ A straight line: the source sends, the receiver receives. For the first time, communication could be studied like a system rather than an art. The SMR model is the simplest way to visualize communication. It shows a one-way flow of information from the Source (the person who creates and sends the message) through the Message (the content being communicated) to the Receiver (the person who receives it).
 
-### Key parts
+### 1.4.1 Key parts
 
 At its simplest, the model separates three elements:
 
@@ -106,13 +106,13 @@ Table: SMR Anatomy
 Image: SMR Lens\
 Direction: Who is responsible for what here?
 
-### How it works
+### 1.4.2 How it works
 
 The sender encodes an idea into words, gestures, or symbols and sends it through a chosen channel. The receiver decodes or interprets that message. The model assumes the message travels clearly and directly from sender to receiver.
 
 A manager emails a memo announcing a new workplace policy. The communication moves in one direction—from the manager (source) to the staff (receivers). There's no built-in place for feedback yet.
 
-### Why it matters
+### 1.4.3 Why it matters
 
 The SMR model establishes the foundation. It reminds us that every message begins somewhere and goes somewhere—and that clarity starts with intentional design.
 
@@ -134,7 +134,7 @@ And once we drew it, the next question practically asked itself:
 
 Figure: Confirming a timeline
 
-## Shannon–Weaver—Discovering Distortion
+## 1.5 Shannon–Weaver—Discovering Distortion
 
 > Channels shape what survives; noise determines what weakens.
 
@@ -150,7 +150,7 @@ Weaver realized the brilliance extended far beyond wires. Human communication ha
 
 The Shannon–Weaver model expands the SMR framework by recognizing that messages travel through a channel and can be affected by noise along the way.
 
-### Key parts
+### 1.5.1 Key parts
 
 This model adds two pressures the earlier line could not show: the *channel* a message travels through and the *noise* that may distort it.
 
@@ -163,13 +163,13 @@ Table: Shannon-Weaver Anatomy
 Image: Shannon-Weaver Lens\
 Distortion: Where could this message have been altered or degraded?
 
-### How it works
+### 1.5.2 How it works
 
 A message is sent through a channel, but interference—whether background sound, unclear writing, or emotional distraction—can distort it. Noise can appear anywhere in the process, making communication less effective.
 
 During a video meeting, a poor internet connection causes words to drop out. Even though everyone is trying to communicate, the noise (technical problems) reduces understanding.
 
-### Why it matters
+### 1.5.3 Why it matters
 
 Recognizing noise helps business communicators troubleshoot miscommunication. When a message doesn't land, it may not be the people—it may be the channel.
 
@@ -194,7 +194,7 @@ This model gave us two enduring questions:
 
 2.      **What kinds of noise could distort it?**
 
-### Inside the Message
+### 1.5.4 Inside the Message
 
 *The message moves—but not all of it holds.*
 
@@ -208,7 +208,7 @@ The content is unchanged.
 
 What survives is not.
 
-### Inside the Work
+### 1.5.5 Inside the Work
 
 Signals do not travel intact; they travel under conditions.
 
@@ -226,7 +226,7 @@ The next generation of theorists turned to that mystery.
 
 ***If noise isn't the only culprit, what else shapes understanding?***
 
-## Schramm—Mapping the Human Field
+## 1.6 Schramm—Mapping the Human Field
 
 > Meaning depends on overlap; without it, signals arrive but do not align.
 
@@ -242,7 +242,7 @@ Schramm reframed communication as a **process of encoding and decoding**. The se
 
 Wilbur Schramm's model emphasizes that communication depends on a shared background or field of experience between sender and receiver.
 
-### Key parts
+### 1.6.1 Key parts
 
 Schramm's model turns attention away from transmission alone and toward the shared ground that makes interpretation possible.
 
@@ -254,17 +254,17 @@ Table: Schramm Anatomy
 
 Image: Schramm Lens — Interpretation: Do we mean the same thing when we say this?
 
-### How it works
+### 1.6.2 How it works
 
 Both participants create and interpret meaning through their own perspectives. The more their experiences overlap, the better they understand one another. An Information Technology specialist explains a system update to a marketing manager. If both understand basic digital terms like "server" or "user permissions," communication succeeds. If not, messages can miss the mark.
 
-### Why it matters
+### 1.6.3 Why it matters
 
 This model reminds us that clarity isn't just about words—it's about context. Successful communicators bridge experience gaps by using relatable examples and shared references.
 
 In business, the insight is everywhere. A financial analyst and a software engineer might both use the word "launch," but one imagines a product milestone while the other imagines a rocket trajectory. The signal travels perfectly—no noise—yet the meaning diverges.
 
-### Inside the Message
+### 1.6.4 Inside the Message
 
 Understanding holds—but not in the same place.
 
@@ -276,7 +276,7 @@ Meaning does not break; it diverges.
 
 What is understood depends on where the message begins.
 
-### Inside the Work
+### 1.6.5 Inside the Work
 
 Meaning takes hold where something is already familiar.
 
@@ -300,7 +300,7 @@ The next wave of models stopped drawing arrows back and forth and started drawin
 
 ***What if communication isn't a relay, but a continuous event?***
 
-## The Transactional Model—Communication in Motion
+## 1.7 The Transactional Model—Communication in Motion
 
 > Feedback is already shaping the message while it is still forming.
 
@@ -316,7 +316,7 @@ Here, sender and receiver are the same people at the same time. Every nod, pause
 
 The transactional model presents communication as a continuous, simultaneous process. Both people are communicators, sending and receiving at the same time.
 
-### Key parts
+### 1.7.1 Key parts
 
 The Transactional model stops separating sender and receiver and treats communication as a live exchange shaped by response, context, and change in real time.
 
@@ -332,11 +332,11 @@ Image: Transactional Lens — Co-creation How is this interaction changing as it
 <figcaption><p></p></figcaption>
 </figure>
 
-### How it works
+### 1.7.2 How it works
 
 In a meeting, gestures, tone, and reactions constantly inform the exchange. Communication becomes a dynamic loop where meaning is built together, not transferred one way. A team brainstorms a product idea. As one person talks, others nod, take notes, or add suggestions. Each signal shapes the next response.
 
-### Why it matters
+### 1.7.3 Why it matters
 
 The transactional model reflects today's fast, feedback-driven communication culture. It's the model of leadership conversations, team collaboration, and customer engagement.
 
@@ -348,7 +348,7 @@ Transactional thinking matters because it's how learning organizations survive. 
 
 Yet even this model doesn't cancel the others. It stands atop them. You still need SMR's structure, Shannon–Weaver's attention to noise, and Schramm's empathy. The transactional view simply shows them operating all at once.
 
-## Seeing the Whole System
+## 1.8 Seeing the Whole System
 
 > Communication operates in layers; breakdowns can be located within them.
 
@@ -394,7 +394,7 @@ Messages don't arrive fully formed, and they don't settle into meaning all at on
 
 These elements don't line up neatly. They meet. They overlap. At certain moments, they begin to pull in the same direction. At others, they compete. Meaning forms not in isolation, but where these forces begin to come together—sometimes gradually, sometimes all at once. What matters is not just what was said, but where, when, and under what conditions something starts to hold.
 
-## From Description to Practice
+## 1.9 From Description to Practice
 
 > Seeing reveals structure; shaping requires choice.
 
@@ -408,7 +408,7 @@ Real-world communication rarely flows smoothly. Messages can be disrupted by:
 
 - **Feedback Loops**—the cues that tell senders whether the message landed as intended. A quick emoji reaction in chat, a puzzled look on camera, or silence in a meeting all provide feedback. Without feedback, even polished messages risk failure.
 
-### Inside the Message
+### 1.9.1 Inside the Message
 
 *Something is off—and it isn't located in one place.*
 
@@ -422,7 +422,7 @@ The imbalance does not announce itself.
 
 It reveals itself in where the message begins to give way.
 
-### Inside the Work
+### 1.9.2 Inside the Work
 
 Breakdowns rarely originate from a single point.
 
@@ -442,24 +442,42 @@ Now that we can *see* communication, the next challenge is learning how to *shap
 
 The next chapter, *The Seven Shadows*, invites you to uncover the patterns behind successful communicators.
 
-**Signal Lab — Decode**
+## 1.10 Signal Lab
 
+::: {#chapter-1-signal-lab .signal_lab}
+
+::: {.sl_intro}
 Recognition becomes control when it can be named and shaped.
+:::
 
-**Decode 1.1**
+### 1.10.1 Decode
 
+::: {.sl_decode}
+
+#### Decode 1.1
+
+::: {#decode-1-1 .sl_activity .decode_activity}
+
+::: {.sl_stimulus}
 Team—
 
 Phase 2 now delivers next Friday.
 
 We've made a few adjustments to help keep things on track, and this should give everyone a bit more room to finalize their pieces. If anything comes up, we can revisit as needed.
+:::
 
-1.  What is this message doing?
-2.  Where does it begin—and what does that commit?
-3.  What work is the audience doing before the decision appears?
+::: {.sl_questions}
+1. What is this message doing?
+2. Where does it begin—and what does that commit?
+3. What work is the audience doing before the decision appears?
+:::
+:::
 
-**Decode 1.2**
+#### Decode 1.2
 
+::: {#decode-1-2 .sl_activity .decode_activity}
+
+::: {.sl_stimulus}
 A manager needs to communicate a shift in priorities after a missed milestone.
 
 *Version A — Live Meeting*
@@ -485,13 +503,20 @@ Dashboard updates move to next sprint.
 Flag conflicts if any.
 
 (message appears between 30+ other posts; no immediate responses)
+:::
 
-4.  What holds across both?
-5.  What weakens?
-6.  What depends on the channel?
+::: {.sl_questions}
+1. What holds across both?
+2. What weakens?
+3. What depends on the channel?
+:::
+:::
 
-**Decode 1.3**
+#### Decode 1.3
 
+::: {#decode-1-3 .sl_activity .decode_activity}
+
+::: {.sl_stimulus}
 A product team introduces a change to how user permissions are managed.
 
 > *Version A — Engineering Team*
@@ -505,32 +530,53 @@ A product team introduces a change to how user permissions are managed.
 "Access to user settings is now controlled in one place."
 
 "You'll no longer need to update permissions across multiple screens—changes will apply everywhere automatically."
+:::
 
-7.  Where does understanding begin?
-8.  What is assumed before the message starts?
-9.  What feels less stable than it first appeared?
+::: {.sl_questions}
+1. Where does understanding begin?
+2. What is assumed before the message starts?
+3. What feels less stable than it first appeared?
+:::
+:::
+:::
 
-**Signal Lab — Design**
+### 1.10.2 Design
 
-**Design 1.1**
+::: {.sl_design}
 
-Refer to **Decode 1.1**.
+#### Design 1.1
 
-1.  What must be clear first?
-2.  What must be visible immediately—and what can follow?
-3.  What belongs—and what pulls away from the purpose?
+::: {#design-1-1 .sl_activity .design_activity}
 
-**Design 1.2**
+::: {.sl_reference}
+Refer to Decode 1.1.
+:::
 
-Refer to **Decode 1.3**.
+::: {.sl_questions}
+A. What must be clear first?
+B. What must be visible immediately—and what can follow?
+C. What belongs—and what pulls away from the purpose?
+:::
+:::
 
-4.  Where should the message begin?
-5.  What must be bridged—and what can remain implicit?
-6.  What would you commit to—and what would you leave unresolved?
+#### Design 1.2
 
+::: {#design-1-2 .sl_activity .design_activity}
 
+::: {.sl_reference}
+Refer to Decode 1.3.
+:::
 
-**Chapter 1 — Notes**
+::: {.sl_questions}
+A. Where should the message begin?
+B. What must be bridged—and what can remain implicit?
+C. What would you commit to—and what would you leave unresolved?
+:::
+:::
+:::
+:::
+
+## 1.11 Notes
 
 1.  Wilbur Schramm, *The Process and Effects of Mass Communication* (Urbana: University of Illinois Press, 1954).
 
@@ -542,7 +588,7 @@ Refer to **Decode 1.3**.
 
 5.  Dean C. Barnlund, "A Transactional Model of Communication," in *Foundations of Communication Theory*, ed. K. K. Sereno and C. D. Mortensen (New York: Harper & Row, 1970); Frank E. X. Dance, "The Concept of Communication," *Journal of Communication* 20, no. 2 (1970): 201–210.
 
-**Chapter 1 — For Further Study**
+## 1.12 For Further Study
 
 The sources below are not required reading. They are offered for readers who want to explore the intellectual roots of the ideas introduced in this chapter or to see how these concepts are treated in more traditional academic texts.
 
