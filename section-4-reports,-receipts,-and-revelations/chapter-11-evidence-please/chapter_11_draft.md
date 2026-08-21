@@ -57,17 +57,13 @@ This is why evidence rarely feels radical. It feels appropriate. It is decided b
 
 Research does not simply discover. It qualifies.
 
-### 11.1.1 Inside the Message
+::: {#diagram-11-1 .diagram_ref .io_ref data-src="io-pairs/io_admissibility-fit.html"}
+[io_admissibility-fit.html](io-pairs/io_admissibility-fit.html)
 
-"Several customer interviews suggested that the new intake process creates confusion during handoff. Because the sample was small and comments were qualitative, these findings were not included in the final evidence summary."
-
-The evidence is not dismissed as false. It is dismissed as difficult to admit. It is accurate enough to matter and unofficial enough to disappear.
-
-### 11.1.2 Inside the Work
-
-⁘ What makes this evidence difficult to admit?
-⁘ What would need to change for the finding to become usable without pretending it is stronger than it is?
-⁘ What risk appears if the evidence is excluded entirely?
+::: {.diagram_caption}
+Diagram 11.1: io_admissibility-fit.html
+:::
+:::
 
 A source can be accurate and still be dismissed. A dataset can be rich and still be deemed unusable. A method can be sound and still feel out of scope. These judgments are often explained as technical. They are also structural. They reflect decisions about what kinds of claims the system is prepared to accept. 
 
@@ -141,16 +137,13 @@ In practice, data integrity is about whether evidence can survive reuse without 
 
 Data does not arrive intact. It is collected, cleaned, structured, and prepared for movement. Each of these stages involves judgment. Each involves loss. Each leaves traces—though not all of them remain visible to later readers.
 
-### 11.3.1 Inside the Message
+::: {#diagram-11-2 .diagram_ref .io_ref data-src="io-pairs/io_transformation-legibility.html"}
+[io_transformation-legibility.html](io-pairs/io_transformation-legibility.html)
 
-"Responses with incomplete demographic fields were removed. Related categories were combined to improve readability. Extreme values were excluded before calculating the average response time."
-
-The transformations sound procedural. Each one may be justified. But the evidence has changed shape before the audience sees it.
-
-### 11.3.2 Inside the Work
-⁘ Which transformations are necessary for use?
-⁘ Which transformations need to remain visible for later judgment?
-⁘ What would collapse if the audience treated this cleaned result as the original evidence?
+::: {.diagram_caption}
+Diagram 11.2: io_transformation-legibility.html
+:::
+:::
 
 Cleaning data makes it usable. Normalizing it makes it comparable. Aggregating it makes it legible. These are not optional steps; they are prerequisites for communication. But each step removes texture. Each step smooths irregularities that may have been inconvenient rather than meaningless. When these transformations are treated as neutral preparation, their ethical weight disappears from view.
 
@@ -201,9 +194,14 @@ Evidence rarely fails where it is gathered. It fails where it is presented for u
 The moment research leaves the working space of inquiry and enters circulation, it begins to shed its scaffolding. What remains must travel efficiently. It must fit agendas, decks, reports, and briefings. The pressures that once shaped the data now shape its expression.
 
 This is where integrity is most at risk—not because standards disappear, but because audiences change.
+::: {#diagram-11-3 .diagram_ref .pf_ref data-src="alignment/pf-summary-confidence.html"}
+[pf-summary-confidence.html](alignment/pf-summary-confidence.html)
 
-::: PF-summary-confidence 
+::: {.diagram_caption}
+Diagram 11.3: pf-summary-confidence.html
 :::
+:::
+
 
 Executive summaries are the first compression point.
 
@@ -218,27 +216,24 @@ The executive summary does not misrepresent. It reassigns attention. And attenti
 Visualizations perform an even more aggressive compression. Charts, tables, and dashboards promise transparency. They appear to let the data speak for itself. But visual clarity is never neutral. Choices about scale, aggregation, categorization, and omission determine what patterns are visible and which ones dissolve into background.
 
 Averages replace distributions. Trends replace volatility. Thresholds replace nuance.
+::: {#diagram-11-4 .diagram_ref .pf_ref data-src="alignment/pf-visual-distribution.html"}
+[pf-visual-distribution.html](alignment/pf-visual-distribution.html)
 
-::: PF-visual-distribution 
+::: {.diagram_caption}
+Diagram 11.4: pf-visual-distribution.html
 :::
+:::
+
 
 What the visual makes legible becomes the story. What it cannot show disappears from consideration—not because it was disproven, but because it was not rendered.
 
-### 11.4.1 Inside the Message
+::: {#diagram-11-5 .diagram_ref .io_ref data-src="io-pairs/io_visual-compression.html"}
+[io_visual-compression.html](io-pairs/io_visual-compression.html)
 
-A dashboard displays a single line: 
-
-"Average resolution time declined from 5.4 days to 3.1 days over the quarter." 
-
-The chart shows a smooth downward trend.
-
-The visual makes improvement visible. It also hides distribution. The average carries the story because the visual has made that story easiest to see.
-
-### 11.4.2 Inside the Work
-⁘ What does the chart make immediately credible?
-⁘ What does the chart make harder to ask?
-⁘ What companion signal would preserve the improvement without erasing variation?
-
+::: {.diagram_caption}
+Diagram 11.5: io_visual-compression.html
+:::
+:::
 
 This is why visuals are so persuasive. They do not argue. They present. And presentation feels like fact. 
 
@@ -363,6 +358,8 @@ C. Where should the communicator leave room for response?
 :::
 :::
 
+::: {.notes}
+
 ## 11.6 Notes
 
 1. Thomas S. Kuhn, *The Structure of Scientific Revolutions*, 4th ed. (Chicago: University of Chicago Press, 2012).
@@ -372,6 +369,10 @@ C. Where should the communicator leave room for response?
 3. Theodore M. Porter, *Trust in Numbers: The Pursuit of Objectivity in Science and Public Life* (Princeton, NJ: Princeton University Press, 1995).
 
 4. Edward R. Tufte, *Beautiful Evidence* (Cheshire, CT: Graphics Press, 2006).
+
+:::
+
+::: {.further_study}
 
 ## 11.7 For Further Study
 
@@ -388,3 +389,5 @@ Tufte, E. R. *Beautiful Evidence*.
 Porter, T. M. *Trust in Numbers*.
 
 Kuhn, T. S. *The Structure of Scientific Revolutions*.
+
+:::

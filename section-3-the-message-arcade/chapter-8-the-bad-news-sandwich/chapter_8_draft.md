@@ -99,23 +99,14 @@ Communicators who treated ease casually now find that trust has little reserve. 
 
 Asymmetry does not create consequence. It reveals whether consequence was already being taken seriously.
 
-✏️ ITM-asymmetry-recalibration
+::: {#diagram-8-1 .diagram_ref .io_ref data-src="io-pairs/io_buffering-trust.html"}
+[io_buffering-trust.html](io-pairs/io_buffering-trust.html)
 
-### 8.2.1 Inside the Message
+::: {.diagram_caption}
+Diagram 8.1: io_buffering-trust.html
+:::
+:::
 
-*We won't be able to extend the project deadline. Please proceed with the current delivery date and adjust internal planning as needed.*
-
-The limit appears quickly, but the real pressure is not only in the refusal. It is in who now has to absorb the adjustment. The message leaves the decision with the communicator and the recalibration with the recipient. The asymmetry is not created by tone; it is made visible by what the message requires from the audience next.
-
-### 8.2.2 Inside the Work
-
-⁘ Where does the message place the burden of adjustment after the decision is stated?
-
-⁘ What does "adjust internal planning as needed" ask the audience to absorb without support?
-
-⁘ Which part of the message is final—and which part shifts consequence outward?
-
-⁘ If the audience cannot comply cleanly, where does that strain become visible?
 
 ## 8.3 The Misread: Erasing the Imbalance
 
@@ -145,23 +136,14 @@ Recipients are left to sort signal from cushioning. They wonder what is firm and
 
 This is the core miscalibration in constrained communication: mistaking emotional smoothing for ethical responsibility.
 
-✏️ ITM-buffering-trust
+::: {#diagram-8-2 .diagram_ref .io_ref data-src="io-pairs/io_asymmetry-recalibration.html"}
+[io_asymmetry-recalibration.html](io-pairs/io_asymmetry-recalibration.html)
 
-### 8.3.1 Inside the Message
+::: {.diagram_caption}
+Diagram 8.2: io_asymmetry-recalibration.html
+:::
+:::
 
-*I know this isn't ideal, and I really wish we could accommodate the request because the work has been strong. At this point, though, it probably makes sense to stay with the original plan for now.*
-
-The language tries to preserve relationship by surrounding the limit with affirmation and softness. But the more the message cushions, the less stable the boundary feels. The recipient is left listening for what is firm inside a field of goodwill. The imbalance remains; what begins to wobble is trust in the finality of the decision.
-
-### 8.3.2 Inside the Work
-
-⁘ Which phrases clarify the decision, and which ones make it feel provisional?
-
-⁘ What does "probably makes sense" do to the recipient's sense of finality?
-
-⁘ Where is empathy helping the message land—and where is it relocating uncertainty?
-
-⁘ If the recipient replies by negotiating, what in the message invited that reopening?
 
 Ethical responsibility here does not mean minimizing impact. It means owning it.
 
@@ -202,8 +184,14 @@ Under constraint, tone cannot carry what judgment did not establish.
 The responsibility of ownership in these moments is not to remove consequence, but to hold it steadily enough that others can orient themselves, recalibrate, and move forward without confusion or false hope.
 
 That steadiness—not comfort—is what ethical communication looks like when options narrow.
+::: {#diagram-8-3 .diagram_ref .pf_ref data-src="alignment/pf-softening-vs-finality.html"}
+[pf-softening-vs-finality.html](alignment/pf-softening-vs-finality.html)
 
-🖼️ PF-softening-vs-finality
+::: {.diagram_caption}
+Diagram 8.3: pf-softening-vs-finality.html
+:::
+:::
+
 
 ## 8.5 Translating the Canon: Negative Messages, Decoded
 
@@ -235,23 +223,13 @@ The communicator's task is not to make the message feel better than it is. It is
 
 That is the ethical burden these moments place on ownership.
 
-✏️ ITM-limit-then-movement 
+::: {#diagram-8-4 .diagram_ref .io_ref data-src="io-pairs/io_limit-then-movement.html"}
+[io_limit-then-movement.html](io-pairs/io_limit-then-movement.html)
 
-### 8.5.1 Inside the Message
-
-*Your request for an extension is denied. The revised draft is still due Friday at 3:00 p.m. If the current scope no longer fits, send a narrowed version by noon tomorrow so we can confirm what remains viable.*
-
-The message does not attempt to make the refusal feel mutual. It states the limit, then immediately turns toward the remaining terrain. The denial still carries consequence, but the audience is not left to infer what comes next. Constraint becomes usable because the message restores orientation after closing one path.
-
-### 8.5.2 Inside the Work
-
-⁘ What changes when the message pairs finality with a legible next move?
-
-⁘ Which sentence closes the negotiation, and which one restores agency?
-
-⁘ How much ambiguity remains for the audience to manage on its own?
-
-⁘ If the refusal had stopped one sentence earlier, what would the recipient still have to reconstruct?
+::: {.diagram_caption}
+Diagram 8.4: io_limit-then-movement.html
+:::
+:::
 
 ## 8.6 When Limits Are Set, Movement Follows
 
@@ -294,8 +272,14 @@ They close one door and, if carried well, illuminate the remaining ones.
 What follows is not comfort, but movement grounded in reality.
 
 That is how responsibility travels after bad news is delivered.
+::: {#diagram-8-5 .diagram_ref .pf_ref data-src="alignment/pf-refusal-vs-orientation.html"}
+[pf-refusal-vs-orientation.html](alignment/pf-refusal-vs-orientation.html)
 
-🖼️ PF-refusal-vs-orientation 
+::: {.diagram_caption}
+Diagram 8.5: pf-refusal-vs-orientation.html
+:::
+:::
+
 
 ## 8.8 Signal Lab
 
@@ -393,6 +377,8 @@ C. Where is the line between orientation and reopening negotiation?
 :::
 :::
 
+::: {.notes}
+
 ## 8.9 Notes
 
 1. Penelope Brown and Stephen C. Levinson, *Politeness: Some Universals in Language Usage* (Cambridge: Cambridge University Press, 1987); Kitty O. Locker, *Business and Administrative Communication* (Boston: McGraw-Hill); Mary Ellen Guffey, *Business Communication: Process and Product* (Boston: Cengage).
@@ -400,6 +386,10 @@ C. Where is the line between orientation and reopening negotiation?
 2. Daniel Kahneman, *Thinking, Fast and Slow* (New York: Farrar, Straus and Giroux, 2011); Daniel Kahneman and Amos Tversky, "Prospect Theory: An Analysis of Decision under Risk," *Econometrica* 47, no. 2 (1979): 263–291.
 
 3. Tom R. Tyler, *Why People Obey the Law* (New Haven, CT: Yale University Press, 1990); Jason A. Colquitt, "On the Dimensionality of Organizational Justice," *Journal of Applied Psychology* 86, no. 3 (2001): 386–400.
+
+:::
+
+::: {.further_study}
 
 ## 8.10 For Further Study
 
@@ -428,3 +418,5 @@ Gigerenzer, Gerd. *Risk Savvy.*
 Tyler, Tom R. *Why People Obey the Law.*
 
 Colquitt, Jason A. "On the Dimensionality of Organizational Justice."
+
+:::

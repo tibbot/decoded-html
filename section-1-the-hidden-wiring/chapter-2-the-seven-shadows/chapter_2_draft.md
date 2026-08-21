@@ -76,36 +76,14 @@ Most messages fail not because people disagree, but because they don't know what
 
 Imagine this: a manager communicates, "The implementation will be accelerated once dependencies are aligned." It sounds polished. It could appear in any memo or meeting note. Yet it says almost nothing. Who is accelerating what? Which dependencies? How will we know when alignment happens? If you've ever walked out of a meeting with everyone nodding and no one knowing, you've met the enemy of clarity.
 
-::: ITW-Clear-ambiguity
-### 2.1.2 Inside the Message
+::: {#diagram-2-1 .diagram_ref .io_ref data-src="io-pairs/io_Clear-ambiguity.html"}
+[io_Clear-ambiguity.html](io-pairs/io_Clear-ambiguity.html)
 
-"The implementation will be accelerated once dependencies are aligned."
-
-Nothing in the sentence sounds careless.
-It sounds composed. Professional, even.
-
-For a moment, that polish does its work.
-
-Then the message asks for more than it gives.
-
-Accelerated by whom.
-Aligned how.
-Dependent on what.
-Visible to whom.
-
-The sentence does not collapse all at once.
-It holds just long enough for the reader to notice that they are supplying the structure themselves.
-
-What looked complete begins to thin.
-
-### 2.1.3 Inside the Work
-
-Where is the message asking you to do work it should be carrying?
-
-What would become visible if the actor were named?
-What would settle if the condition were made concrete?
-What part of the sentence sounds stable without yet being clear?
+::: {.diagram_caption}
+Diagram 2.1: io_Clear-ambiguity.html
 :::
+:::
+
 
 Good communication doesn't hide behind professional fog. It steps into the light. To be clear is to be *specific* about people, actions, and outcomes, and to use language your audience can understand the first time they hear it. When you communicate clearly, you reduce cognitive load—the mental effort your audience spends decoding your message. In a world saturated with messages, clarity isn't a courtesy; it's survival.
 
@@ -115,7 +93,7 @@ But clarity doesn't mean oversimplifying complex ideas. It means matching comple
 
 When in doubt, ask yourself: *Would someone outside my circle understand what I mean? Could they explain it to someone else without losing accuracy?* If the answer is yes, you've achieved clarity.
 
-### 2.1.4 Concise: The Art of Breathing Room
+### 2.1.2 Concise: The Art of Breathing Room
 
 **A useful distinction**: Clarity determines whether a message can be understood. Concision determines whether it will be read at all.
 
@@ -124,24 +102,14 @@ If clarity is about light, concision is about space. It gives your ideas room to
 We live in an era that rewards speed. But true concision isn't just speed—it's respect. Respect for your audience's time, attention, and cognitive bandwidth. When you cut clutter, you don't just make your message shorter; you make it sharper. You show that you've done the work of editing your thoughts so your audience doesn't have to.
 
 Here's a story you might recognize. A team lead drafts a five-paragraph update about a one-line issue: the client needs a new invoice. The explanation winds through background, context, and reassurance before landing on the actual ask: "Please send the corrected version." The intent was good—the execution buried it. The longer the message, the easier it is to lose the point.
+::: {#diagram-2-2 .diagram_ref .pf_ref data-src="alignment/pf-concise-attention.html"}
+[pf-concise-attention.html](alignment/pf-concise-attention.html)
 
-::: PF-Concise-attention
-**Purpose**  
-Prompt action.
-
-**Version A**
-
-We reviewed the invoice issue and found inconsistencies in how charges were applied. We want to ensure everything aligns with the updated agreement before moving forward.
-
-**Version B**
-
-Please send the corrected invoice reflecting the updated agreement.
-
-**Alignment**
-
-Both messages intend to prompt action. One expands context. The other allows the action to occur.
-
+::: {.diagram_caption}
+Diagram 2.2: pf-concise-attention.html
 :::
+:::
+
 
 Concision doesn't mean coldness. It means economy. A concise message reads as confident and thoughtful, not rushed. It invites dialogue instead of exhaustion. The best communicators trim words not because they love minimalism, but because they love their audience.
 
@@ -149,30 +117,21 @@ If you've ever used an AI writing assistant, you've seen this in action. Ask it 
 
 Before you hit send, pause. *Can you say it with fewer words without losing meaning? Can you put the main point in the first line? Does every sentence earn its place?* Concision is not the trimming of thought—it's the shaping of it.
 
-### 2.1.5 Concrete: The Ground Beneath Words
+### 2.1.3 Concrete: The Ground Beneath Words
 
 **What concreteness adds**: Without something to picture, even clear ideas drift. Concreteness gives ideas weight.
 
 Light reveals. Space invites. But without ground, both drift.
 
 Concreteness is that ground—the place where ideas take form and earn their weight in the world. It's what makes understanding *stick.* Abstract language can inspire, but concrete language persuades. It's the difference between *"We'll improve engagement"* and *"We'll respond to every customer message within 24 hours."* The first floats; the second lands.
+::: {#diagram-2-3 .diagram_ref .pf_ref data-src="alignment/pf-concrete-grounding.html"}
+[pf-concrete-grounding.html](alignment/pf-concrete-grounding.html)
 
-::: PF-Concrete-grounding
-**Purpose**  
-Guide coordinated action.
-
-**Version A**
-
-We should improve customer engagement.
-
-**Version B**
-
-We will respond to every customer message within 24 hours.
-
-**Alignment**
-
-Both messages intend to guide action. One invites interpretation. The other enables shared execution.
+::: {.diagram_caption}
+Diagram 2.3: pf-concrete-grounding.html
 :::
+:::
+
 
 In business communication, being concrete doesn't mean being rigid. It means giving ideas a shape others can grasp, measure, and act on. When someone can picture what you mean, they can build with it. That's why concrete communication amplifies influence—it turns concepts into shared reality.
 
@@ -212,7 +171,7 @@ Concreteness doesn't limit creativity; it completes it. It's where imagination m
 
 At this point, a pattern should feel familiar. These shadows are not about carelessness or incompetence. They emerge precisely when communicators assume that effort alone guarantees understanding.
 
-### 2.1.6 Correct: The Shape of Truth
+### 2.1.4 Correct: The Shape of Truth
 
 **A quiet misconception**: Correctness is not about winning arguments—it's about preserving trust.
 
@@ -224,39 +183,14 @@ We often think of being correct as an outcome—a fixed point reached when error
 
 Correctness begins with precision: using the right words, citing reliable information, representing data faithfully. But it does not end there. Communication that is technically right can still fail if it lands cold or condescending.
 
-::: ITW-Correct-alignment
-### 2.1.7 Inside the Message
+::: {#diagram-2-4 .diagram_ref .io_ref data-src="io-pairs/io_Correct-alignment.html"}
+[io_Correct-alignment.html](io-pairs/io_Correct-alignment.html)
 
-You respond to a colleague's draft with one word:
+::: {.diagram_caption}
+Diagram 2.4: io_Correct-alignment.html
+:::
+:::
 
-"Correct."
-
-The judgment is accurate.
-The figures hold.
-The reasoning checks out.
-
-And yet the message lands harder than you intended.
-
-Not because the word is false.
-Because it carries more than accuracy.
-
-It closes.
-It distances.
-It sounds finished in a moment that may still require connection.
-
-Nothing factual has gone wrong.
-But the relationship absorbs the force.
-
-### 2.1.8 Inside the Work
-
-What is this response confirming?
-And what else is it signaling at the same time?
-
-What happens when correctness arrives without acknowledgment?
-What keeps the judgment intact while changing its landing?
-When does precision support trust—and when does it harden into distance?
-
-::: 
 
 The phrase "Correct!", spoken sharply, might sound like a stamp of authority rather than a gesture of understanding. The difference isn't in the word—it's in the delivery.
 
@@ -288,7 +222,7 @@ So, before finalizing a message, pause: *Is this accurate? Is it fair? Is it kin
 
 *Next comes coherence—where separate truths begin to join, and structure gives rise to flow.*
 
-### 2.1.9 Coherent: The Thread That Holds Meaning Together
+### 2.1.5 Coherent: The Thread That Holds Meaning Together
 
 **Orientation cue**: Coherence is not about individual sentences. It's about how ideas move together over time.
 
@@ -304,36 +238,14 @@ The budget proposal was approved. Team morale is high. We expect shipping delays
 
 Each statement is true. Yet together, they form confusion, not clarity.
 
-::: ITW-Coherent-structure
-The budget proposal was approved.
-Team morale is high.
-We expect shipping delays.
-Marketing begins next week.
-New interns start Monday.
+::: {#diagram-2-5 .diagram_ref .io_ref data-src="io-pairs/io_Coherent-structure.html"}
+[io_Coherent-structure.html](io-pairs/io_Coherent-structure.html)
 
-No sentence fails on its own.
+::: {.diagram_caption}
+Diagram 2.5: io_Coherent-structure.html
+:::
+:::
 
-Taken one at a time, each statement holds.
-Taken together, they do not yet become a whole.
-
-So the reader begins to build the bridge.
-
-What matters most.
-What belongs together.
-What follows from what.
-What should have come first.
-
-The message is still giving information.
-But it is no longer carrying understanding.
-
-### 2.1.10 Inside the Work
-
-Where does the burden of connection shift from message to reader?
-
-Which ideas belong in relation, not merely in sequence?
-What kind of order would reduce guessing?
-What is missing between these statements that would allow them to move as one?
-::: 
 
 The listener must assemble context on their own, bridging gaps the sender left open. Coherence doesn't require repetition or hand-holding—it requires relationships. Transitions, sequencing, and purpose turn disjointed facts into storylines.
 
@@ -361,7 +273,7 @@ Before you finalize your next message, ask: *Can someone follow my reasoning wit
 
 *Next comes completeness—the moment when the whole picture comes into view.*
 
-### 2.1.11 Complete: The Whole Picture
+### 2.1.6 Complete: The Whole Picture
 
 **What completeness protects**: When messages feel incomplete, work stalls—not because people resist, but because they hesitate.
 
@@ -374,23 +286,14 @@ Completeness isn't about volume; it's about sufficiency. An overstuffed email ca
 Imagine a status update that reads:
 
 The client approved the design. Deployment soon.
+::: {#diagram-2-6 .diagram_ref .pf_ref data-src="alignment/pf-complete-sufficiency.html"}
+[pf-complete-sufficiency.html](alignment/pf-complete-sufficiency.html)
 
-::: PF-Complete-sufficiency
-**Purpose**  
-Enable forward movement.
-
-**Version A**
-
-The client approved the design. Deployment soon.
-
-**Version B**
-
-The client approved the design. Deployment begins Monday.
-
-**Alignment**
-
-Both messages intend to move work forward. One signals progress. The other enables movement.
+::: {.diagram_caption}
+Diagram 2.6: pf-complete-sufficiency.html
 :::
+:::
+
 
 Technically true. Yet what's missing? When is "soon"? What happens next? Who's responsible? A few added details—timeline, dependencies, owner—turn a vague note into a reliable message. Completeness keeps teams aligned and projects moving.
 
@@ -426,7 +329,7 @@ Before sending your next message, pause to ask: *Does this provide everything so
 
 *Next comes courtesy—the shadow that makes communication fully human.*
 
-### 2.1.12 Courtesy: The Light That Softens Every Shadow
+### 2.1.7 Courtesy: The Light That Softens Every Shadow
 
 **Why this shadow closes the set**: Courtesy doesn't fix mistakes—it prevents them from becoming fractures.
 
@@ -437,24 +340,14 @@ If clarity is light, courtesy is warmth. It's what makes communication not only 
 Courtesy can starve in the thin air of digital life. Messages shorten, tone flattens, and delay replaces dialogue. In asynchronous spaces—email, chat, comment threads—the cues that once carried warmth are stripped away. What remains is efficient but brittle. A single missing word or misplaced period can shift tone from calm to curt.
 
 In business communication, this erosion shows up as tension that no one intended. A manager's two-word reply—"Looks good."—can sound either approving or annoyed, depending on the audience's emotional load.
+::: {#diagram-2-7 .diagram_ref .pf_ref data-src="alignment/pf-courtesy-landing.html"}
+[pf-courtesy-landing.html](alignment/pf-courtesy-landing.html)
 
-::: PF-Courtesy-landing
-**Purpose**  
-Acknowledge and sustain connection.
+::: {.diagram_caption}
+Diagram 2.7: pf-courtesy-landing.html
+:::
+:::
 
-**Version A**
-
-Looks good.
-
-**Version B**
-
-Looks good. I appreciate the turnaround.
-
-**Alignment**
-
-Both messages intend to acknowledge. One closes. The other keeps the exchange open.
-
-::: 
 
 Courtesy, in its simplest form, is the act of *checking the landing* before hitting send.
 
@@ -504,10 +397,14 @@ As you move forward and encounter tone, active listening, impression management,
 
 Messages don't fracture in one place. They give way under pressure—unevenly, often invisibly. Some forces push for speed, others for precision or connection, and the message holds only as long as those pressures remain in balance.
 
-::: Visual Communication Pressure Field 
-Communication Pressure Field
-Messages do not fail all at once. They deform under competing pressures—some structural, some relational. Where pressure concentrates, meaning begins to give way.
+::: {#diagram-2-8 .diagram_ref .image_ref data-src="images/Communication Pressure Field.svg"}
+[Communication Pressure Field.svg](images/Communication%20Pressure%20Field.svg)
+
+::: {.diagram_caption}
+Diagram 2.8: Communication Pressure Field.svg
 :::
+:::
+
 
 The same message can hold in one direction and weaken in another. Some pressures reinforce each other. Others compete. Most go unnoticed until something begins to slip.
 
@@ -525,10 +422,14 @@ Pressure explains why meaning gives way. Experience tells us where it lands.
 
 Pressure explains why a message shifts. Experience reveals where it lands. A message can be understood and still stall, or feel right and still fail to move action—these outcomes follow a pattern.
 
-::: Visual Emotive–Cognitive Load Map 
-Emotive–Cognitive Load Map
-Messages land along two dimensions: how they are understood and how they are felt. Movement depends on both. When either load is misaligned, action hesitates or meaning drifts.
+::: {#diagram-2-9 .diagram_ref .image_ref data-src="images/Emotive-Cognitive Load Map.svg"}
+[Emotive-Cognitive Load Map.svg](images/Emotive-Cognitive%20Load%20Map.svg)
+
+::: {.diagram_caption}
+Diagram 2.9: Emotive-Cognitive Load Map.svg
 :::
+:::
+
 
 
 These principles will continue to echo through the next chapters—not as repetition, but as resonance. Each new topic will cast its own light, and you'll start to recognize familiar shapes within it.
@@ -639,6 +540,8 @@ C. What holds the purpose—and what pulls away from it?
 :::
 :::
 
+::: {.notes}
+
 ## 2.4 Notes
 
 1. Mary Ellen Guffey and Dana Loewy, *Business Communication* (Boston: Cengage Learning).
@@ -648,6 +551,10 @@ C. What holds the purpose—and what pulls away from it?
 3. Courtland L. Bovee and John V. Thill, *Business Communication Today* (Boston: Pearson).
 
 4. Mary Ellen Guffey and Dana Loewy, *Business Communication* (Boston: Cengage Learning).
+
+:::
+
+::: {.further_study}
 
 ## 2.5 For Further Study
 
@@ -667,3 +574,5 @@ Sweller. Cognitive Load Theory
 
 Weick. Sensemaking in Organizations
 
+
+:::

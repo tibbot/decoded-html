@@ -91,28 +91,15 @@ Purpose also governs expectations. A message meant to inform invites evaluation 
 
 Communicators who struggle rarely lack ideas. More often, they are navigating competing purposes without realizing it. Naming purpose does not resolve that tension, but it makes it visible—and therefore manageable.
 
-## 4.3 Working inside the message
+::: {#diagram-4-1 .diagram_ref .io_ref data-src="io-pairs/io_purpose.html"}
+[io_purpose.html](io-pairs/io_purpose.html)
 
-*It holds together, but not quite cleanly.*
+::: {.diagram_caption}
+Diagram 4.1: io_purpose.html
+:::
+:::
 
-The message moves forward, but it hesitates. It explains, then softens. It points in one direction, then makes room for another. Each move feels reasonable on its own. Nothing stands out as a mistake.
-
-But the center is harder to locate.
-
-What began as a clear intention now carries more than one aim. It informs, but also reassures. It requests, but also justifies. It closes, but leaves space for reconsideration.
-
-The message is not unclear. It is divided.
-
-### 4.3.1 Inside the Work
-What is this trying to do?
-
-The question does not ask for everything. It asks for priority.
-
-One direction begins to sharpen. The others do not disappear, but they shift. Some will support. Some will recede.
-
-The message does not lose meaning. It begins to carry it with more precision.
-
-## 4.4 How Messages Commit Early
+## 4.3 How Messages Commit Early
 
 > *Structure signals intent almost immediately.*
 
@@ -140,47 +127,25 @@ It reflects assumptions about trust, alignment, authority, and consequence. It s
 
 Once seen this way, structure stops feeling like a formatting choice and starts to feel like a judgment call—one that quietly governs the entire message and shapes how the audience makes sense of intent, urgency, and consequence.⁴
 
-**Purpose**
+::: {#diagram-4-2 .diagram_ref .pf_ref data-src="alignment/pf-timeline-approval.html"}
+[pf-timeline-approval.html](alignment/pf-timeline-approval.html)
 
-> Securing approval for a proposed timeline *(audience is time-constrained and expects a clear decision)*
+::: {.diagram_caption}
+Diagram 4.2: pf-timeline-approval.html
+:::
+:::
 
-**Version A**
+::: {#diagram-4-3 .diagram_ref .io_ref data-src="io-pairs/io_direct-indirect.html"}
+[io_direct-indirect.html](io-pairs/io_direct-indirect.html)
 
-> I'd like to confirm your approval of the proposed timeline.
-> 
-> The project is structured across three phases, with initial development beginning next week and completion targeted for the end of the quarter. This schedule reflects current resource availability and dependencies identified during planning.
-
-**Version B**
-> The project is structured across three phases, with initial development beginning next week and completion targeted for the end of the quarter. This schedule reflects current resource availability and dependencies identified during planning.
-> 
-> Please let me know if you approve the proposed timeline.
-
-**Alignment**
-
-> When a message is meant to secure approval, the decision must be visible early enough to anchor how the rest is read. One version commits to that purpose. The other delays it—asking the reader to interpret before deciding.
-
-## 4.5 Working inside the message
-
-*The opening is where the message begins to commit.*
-
-There is a moment, often brief, where the direction could still shift. The central point could appear now, or wait. The message could lead with its outcome, or build toward it.
-
-Both paths are available. For a moment, neither has been chosen.
-
-After that, the path closes.
-
-Once the message begins, the reader starts to form expectations—about what matters, about what is coming, about how to interpret what follows. That early signal is difficult to undo. Even small adjustments later must work against what has already been set in motion.
-
-The hesitation is not about what to say. It is about when to say it.
-
-### 4.5.1 Inside the Work
-What does the reader need first?
-
-The answer does not settle everything. It commits the message to a path.
+::: {.diagram_caption}
+Diagram 4.3: io_direct-indirect.html
+:::
+:::
 
 What comes next will either support that opening—or strain against it.
 
-## 4.6 Drafting: Where Intention Meets Language
+## 4.4 Drafting: Where Intention Meets Language
 
 > *Drafting is where plans are tested.*
 
@@ -198,32 +163,15 @@ This experience is familiar at every level. What changes with experience is not 
 
 Seeing drafting as a distinct line of work helps here. Drafting is not where purpose is decided. It is where purpose is interpreted in language. That interpretation can sharpen direction—or quietly reshape it.
 
-## 4.7 Working inside the message
+::: {#diagram-4-4 .diagram_ref .io_ref data-src="io-pairs/io_drafting.html"}
+[io_drafting.html](io-pairs/io_drafting.html)
 
-*It begins to sound right.*
+::: {.diagram_caption}
+Diagram 4.4: io_drafting.html
+:::
+:::
 
-The sentences connect. The transitions hold. Each addition feels like progress. The message gains shape as it grows.
-
-And yet, something is harder to trust.
-
-What was clear at the outset is less immediate now. The direction is still there, but it no longer leads as cleanly. The message is moving forward, but not always in the same line.
-
-New ideas arrive as the draft unfolds. They feel relevant—often helpful. They fill gaps, add context, strengthen the case. One leads to another. The message becomes more complete.
-
-It also becomes harder to read in a single pass.
-
-Nothing signals a problem directly. The draft feels productive. It is only in moments—when a sentence needs to do more than it should, or when a paragraph no longer quite lands—that the uncertainty appears.
-
-### 4.7.1 Inside the Work
-What is this doing to the direction?
-
-The question does not stop the draft. It interrupts it just enough to be noticed.
-
-Some lines begin to pull away from the center. Others still hold. The difference is not always obvious, but it is there.
-
-The work continues. But with attention returned.
-
-## 4.8 Drift and Density
+## 4.5 Drift and Density
 
 > *Uncertainty leaves traces in structure.*
 
@@ -237,25 +185,13 @@ The second pattern is density. Communicators often respond to uncertainty by add
 
 A brief example makes this visible. Imagine an email intended to confirm a meeting decision. It begins clearly: the date is set, the room is booked. As the draft grows, the communicator adds background about how the decision was reached, notes a few unresolved concerns, and anticipates possible objections. By the end, the message no longer feels like confirmation. It reads as justification—inviting debate rather than closing it.
 
-**Purpose**
+::: {#diagram-4-5 .diagram_ref .pf_ref data-src="alignment/pf-negotiation-confirmation.html"}
+[pf-negotiation-confirmation.html](alignment/pf-negotiation-confirmation.html)
 
-> Confirmation of a previously negotiated outcome
-
-**Version A**
-
-> The meeting is scheduled for Thursday at 2:00 PM in Conference Room B.
-> 
-> As discussed, there were a few concerns about availability earlier in the week, and we considered several options before settling on this time. If this creates issues, we can revisit the timing.
-
-**Version B**
-
-> The meeting is scheduled for Thursday at 2:00 PM in Conference Room B.
-> 
-> If this time creates a conflict, let me know and we'll address it directly.
-
-**Alignment**
-
-> A message intended to confirm can drift from that purpose into justification or renegotiation. One version maintains that role. The other reopens the decision.
+::: {.diagram_caption}
+Diagram 4.5: pf-negotiation-confirmation.html
+:::
+:::
 
 Both patterns are common. Both are often invisible while drafting.
 
@@ -269,37 +205,15 @@ When drift and density are recognized as patterns, they become manageable. Commu
 
 Drafting does not require eliminating drift or density. It requires noticing them. Without that recognition, revision becomes guesswork.
 
-## 4.9 Working inside the message
+::: {#diagram-4-6 .diagram_ref .io_ref data-src="io-pairs/io_drift.html"}
+[io_drift.html](io-pairs/io_drift.html)
 
-*It no longer feels like it did.*
+::: {.diagram_caption}
+Diagram 4.6: io_drift.html
+:::
+:::
 
-The message begins with a clear direction. At some point, that clarity softens. The sentences still make sense. Each part can be justified. But taken together, something has shifted. What began as one thing now carries more than it should.
-
-It is explaining, but also defending. It is moving forward, but also circling back. It is closing, but not quite letting go.
-
-Nothing is obviously wrong. That is what makes it hard to catch.
-
-The problem is not in any single sentence. It is in what the message is trying to carry all at once.
-
-Something has to be decided.
-
-### 4.9.1 Inside the Work
-What does this need to do right now?
-
-That question does not simplify the message. It narrows it.
-
-What remains begins to organize itself. What does not belong starts to show. Material that once felt necessary now competes. Some of it will move. Some of it will shrink. Some of it will disappear.
-
-The message does not become shorter by default. It becomes clearer about what it is doing.
-
-### 4.9.2 Inside the Work
-What is this trying to do—and what is it carrying that it does not need?
-
-The direction returns, not all at once, but enough to continue.
-
-The work resumes.
-
-## 4.10 Structure as a Reference Point
+## 4.6 Structure as a Reference Point
 
 > *Structure enables diagnosis.*
 
@@ -313,7 +227,7 @@ This changes the experience of revision. Rather than optimizing sentences in iso
 
 Drafting, then, is not a linear step. It is a dialogue. Intention informs language. Language pushes back. The communicator responds.
 
-## 4.11 Completing: Preparing for Use
+## 4.7 Completing: Preparing for Use
 
 > *Messages must survive real conditions.*
 
@@ -333,48 +247,23 @@ Seen together, planning, drafting, and completing form a continuous act rather t
 
 Understanding this interaction does not simplify communication. It makes communication effective. 
 
-**Purpose**
+::: {#diagram-4-7 .diagram_ref .pf_ref data-src="alignment/pf-comprehension-when-revisited.html"}
+[pf-comprehension-when-revisited.html](alignment/pf-comprehension-when-revisited.html)
 
-> Ensuring a key decision is understood when the message is skimmed or revisited *(message will be read quickly and possibly out of sequence)*
+::: {.diagram_caption}
+Diagram 4.7: pf-comprehension-when-revisited.html
+:::
+:::
 
-**Version A**
+::: {#diagram-4-8 .diagram_ref .io_ref data-src="io-pairs/io_structure.html"}
+[io_structure.html](io-pairs/io_structure.html)
 
-> We approved the revised budget for Phase 2.
-> 
-> The adjustment reflects updated vendor estimates and aligns with the timeline discussed last week.
+::: {.diagram_caption}
+Diagram 4.8: io_structure.html
+:::
+:::
 
-**Version B**
-
-> The adjustment reflects updated vendor estimates and aligns with the timeline discussed last week.
-> 
-> We approved the revised budget for Phase 2.
-
-**Alignment**
-
-> When a message must survive partial reading, what carries the decision cannot depend on sequence. One version holds the decision in place. The other risks losing it when the message is skimmed.
-
-## 4.12 Working inside the message
-
-*It will not be read the way you imagine.*
-
-The message leaves in one form and arrives in another. It is opened quickly, skimmed once, and set aside. It is revisited later, out of sequence. It is forwarded without context. A single paragraph is read closely while the rest is assumed.
-
-What felt clear in composition becomes partial in use.
-
-The reader does not encounter the message all at once. They enter somewhere, form an impression, and decide how much more to take in. What they see first carries more weight than what follows. What is missed may not be recovered.
-
-The message does not fail because it is unclear. It falters because clarity depends on conditions that no longer hold.
-
-### 4.12.1 Inside the Work
-What will still be clear when this is read quickly—or out of context?
-
-The question does not change the message's intent. It changes what must carry that intent.
-
-Some elements must stand on their own. Others can support, but not carry. What was once implicit may need to surface. What was carefully developed may need to appear sooner—or more plainly.
-
-The message does not become simpler. It becomes more durable.
-
-## 4.13 Breathing In
+## 4.8 Breathing In
 
 > *Structure prepares messages for motion.*
 
@@ -394,11 +283,11 @@ Once writers recognize that, attention begins to shift—not away from intention
 
 The decisions haven't stopped. They're about to move.
 
-## 4.14 Signal Lab
+## 4.9 Signal Lab
 
 ::: {#chapter-4-signal-lab .signal_lab}
 
-### 4.14.1 Decode
+### 4.9.1 Decode
 
 ::: {.sl_decode}
 
@@ -454,7 +343,7 @@ The task is to see what it is doing.
 :::
 :::
 
-### 4.14.2 Design
+### 4.9.2 Design
 
 ::: {.sl_design}
 
@@ -489,7 +378,9 @@ C. What holds the purpose—and what pulls away from it?
 :::
 :::
 
-## 4.15 Notes
+::: {.notes}
+
+## 4.10 Notes
 
 1. Courtland L. Bovée and John V. Thill, *Business Communication Today* (Boston: Pearson); Mary Ellen Guffey, *Business Communication: Process and Product* (Boston: Cengage).
 
@@ -503,7 +394,11 @@ C. What holds the purpose—and what pulls away from it?
 
 6. Karl E. Weick, *Sensemaking in Organizations*; Donald A. Norman, *The Design of Everyday Things* (New York: Basic Books, 1988).
 
-## 4.16 For Further Study
+:::
+
+::: {.further_study}
+
+## 4.11 For Further Study
 
 **Business Communication**
 
@@ -525,3 +420,5 @@ Weick, Karl E. *Sensemaking in Organizations.*
 
 Norman, Donald A. *The Design of Everyday Things.*
 
+
+:::

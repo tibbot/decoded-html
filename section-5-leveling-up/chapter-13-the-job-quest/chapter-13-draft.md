@@ -72,9 +72,14 @@ In constrained systems, many outcomes are determined by factors unrelated to the
 The danger is not rejection itself, but extraction—treating every negative outcome as a diagnostic failure that demands correction. This impulse often leads candidates to revise artifacts that were already legible, introduce noise where clarity existed, or abandon strategies prematurely.
 
 Discernment, in this context, includes restraint. Knowing when *not* to change course is as important as knowing when to adapt. Silence does not always ask for revision. Sometimes it asks only for endurance.
+::: {#diagram-13-1 .diagram_ref .pf_ref data-src="alignment/pf-follow-up-timeline.html"}
+[pf-follow-up-timeline.html](alignment/pf-follow-up-timeline.html)
 
-::: {#pf-follow-up-timeline .pf}
+::: {.diagram_caption}
+Diagram 13.1: pf-follow-up-timeline.html
 :::
+:::
+
 
 ## 13.3 What Hiring Systems Resolve
 
@@ -112,33 +117,14 @@ Candidates frequently treat these signals as background noise, focusing instead 
 
 Reading the environment, then, is not cynicism. It is situational awareness.
 
-::: ITM-job-posting-signal 
+::: {#diagram-13-2 .diagram_ref .io_ref data-src="io-pairs/io_job-posting-signal.html"}
+[io_job-posting-signal.html](io-pairs/io_job-posting-signal.html)
 
-### 13.4.1 Inside the Message
-The posting appears routine. It names a role, sketches duties, and signals the traits the organization values.
-
-<message>
-Senior Operations Coordinator
-
-We are seeking a flexible, detail-oriented professional to support cross-functional operations in a fast-moving environment. The ideal candidate will manage multiple priorities, coordinate with internal stakeholders, and help improve team processes as business needs evolve.
-
-Preferred qualifications include three to five years of relevant experience, strong communication skills, comfort with ambiguity, and the ability to work independently.
-</message>
-
-Then the surface begins to widen.
-
-"Flexible" may describe adaptability, but it may also signal shifting priorities. "Fast-moving" may suggest energy, or limited stability. "Comfort with ambiguity" may be honest, necessary, or an early warning that the role has not fully resolved inside the organization.
-
-Nothing in the posting is automatically suspect. The pressure sits in what the language asks the candidate to infer before contact begins.
-
-### 13.4.2 Inside the Work
-⁘ What does this organization make visible about the role, and what remains hidden inside broad language?
-
-⁘ Which terms describe ordinary professional conditions, and which terms may be carrying unresolved internal uncertainty?
-
-⁘ What would a candidate need to learn before treating this opportunity as aligned rather than merely available?
-
+::: {.diagram_caption}
+Diagram 13.2: io_job-posting-signal.html
 :::
+:::
+
 
 ## 13.5 Becoming a Candidate
 
@@ -184,38 +170,24 @@ Resumes condense experience into a structure that can be scanned, sorted, and co
 
 This efficiency is not aesthetic. It is operational. Resolution frees attention for the next decision in a crowded evaluative sequence.
 
-::: ITM-resume-compression 
+::: {#diagram-13-3 .diagram_ref .io_ref data-src="io-pairs/io_resume-compression.html"}
+[io_resume-compression.html](io-pairs/io_resume-compression.html)
 
-### 13.6.2 Inside the Message
-The résumé excerpt does not tell the whole story. It cannot.
-
-<message>
-Project Assistant, Student Services
-
-- Coordinated weekly intake reports for a six-person advising team
-- Updated shared tracking sheets and flagged missing documentation
-- Helped improve appointment follow-up process during peak registration
-</message>
-
-It compresses work into a few portable signals: coordination, tracking, follow-up, peak demand. Each line gives the evaluator something that can be recognized quickly and repeated later without reconstructing the full workplace.
-
-What disappears is also part of the design. The frustrations, false starts, learning curve, team dynamics, and ordinary effort do not travel. They may matter to the person who lived the experience, but they do not necessarily help judgment move.
-
-The document is not smaller because the work was small. It is smaller because the work must survive scanning.
-
-### 13.6.3 Inside the Work
-⁘ What part of the experience can be recognized without explanation?
-
-⁘ What evidence travels cleanly, and what would require too much reconstruction from the evaluator?
-
-⁘ Where does compression preserve substance, and where might it flatten work that deserves more context elsewhere?
-
+::: {.diagram_caption}
+Diagram 13.3: io_resume-compression.html
 :::
+:::
+
 
 Cover letters extend the same logic in a different register. They invite alignment rather than disclosure. What matters most is whether a candidate's trajectory can be situated comfortably within the organization's existing understanding of the role. The letter functions as a bridge between an individual history and an institutional narrative already in motion.
+::: {#diagram-13-4 .diagram_ref .pf_ref data-src="alignment/pf-cover-letter-alignment.html"}
+[pf-cover-letter-alignment.html](alignment/pf-cover-letter-alignment.html)
 
-::: {#pf-cover-letter-alignment .pf}
+::: {.diagram_caption}
+Diagram 13.4: pf-cover-letter-alignment.html
 :::
+:::
+
 
 ## 13.7 Artifacts That Carry Judgment
 
@@ -234,9 +206,14 @@ Time narrows. Stakes rise. Answers are heard less as stories and more as indicat
 Frameworks persist in these settings because they hold shape under constraint.
 
 They do not eliminate complexity. They contain it just enough to make retelling possible. They contain experience in forms that can be retained, compared, and communicated to others who were not present.
+::: {#diagram-13-5 .diagram_ref .pf_ref data-src="alignment/pf-interview-answer-portability.html"}
+[pf-interview-answer-portability.html](alignment/pf-interview-answer-portability.html)
 
-::: {#pf-interview-answer-portability .pf}
+::: {.diagram_caption}
+Diagram 13.5: pf-interview-answer-portability.html
 :::
+:::
+
 
 **Sidebar — Anatomy of a Portable Answer**
 
@@ -256,31 +233,14 @@ This structure endures not because it is optimal or guaranteed to persuade, but 
 
 Noticing this pattern does not obligate a speaker to adopt it. It allows a reader to recognize why certain answers persist—and why others, however thoughtful, often stall when they must be carried forward.
 
-::: ITM-portable-answer 
+::: {#diagram-13-6 .diagram_ref .io_ref data-src="io-pairs/io_portable-answer.html"}
+[io_portable-answer.html](io-pairs/io_portable-answer.html)
 
-### 13.7.2 Inside the Message
-The answer gives the listener more than a story. It gives the listener a version that can be carried.
-
-<message>
-Interviewer: "Tell us about a time you handled a difficult deadline."
-
-Candidate: "Last semester, our office had to prepare advising materials before registration opened. I was responsible for gathering updates from three departments and combining them into one student-facing checklist. Two departments were late, so I created a temporary version with confirmed information, marked the pending items clearly, and sent a revision plan to my supervisor. Students received the checklist on time, and the final version was updated the next morning without conflicting instructions."
-</message>
-
-The context is narrow enough to hold. Responsibility is visible. The action shows judgment under constraint rather than heroic effort. The result closes the loop without pretending the situation was perfect.
-
-This matters because the answer may not remain in the room. Someone may later summarize it as: "They handled a deadline by separating confirmed information from pending items and keeping students from receiving conflicting instructions."
-
-The answer travels because its structure protects memory.
-
-### 13.7.3 Inside the Work
-⁘ What can someone repeat accurately after the conversation ends?
-
-⁘ Where does the answer show judgment rather than merely describe activity?
-
-⁘ What would become harder to carry if the answer added more background, more emotion, or more unresolved detail?
-
+::: {.diagram_caption}
+Diagram 13.6: io_portable-answer.html
 :::
+:::
+
 
 ## 13.8 When Judgment Walks
 
@@ -337,9 +297,14 @@ Occasionally, circulation produces a different outcome: an introduction.
 To be brought into a room is not merely to be invited. It is to be framed before arrival. Expectations are set in advance. Attention is directed. The listener enters the interaction with a provisional understanding already in place.
 
 Introductions compress complexity before contact. They highlight what matters most to the person doing the bringing. They also limit what the listener must discover on their own. In this way, an introduction does more than open a door. It narrows the field of interpretation.
+::: {#diagram-13-7 .diagram_ref .pf_ref data-src="alignment/pf-networking-introduction.html"}
+[pf-networking-introduction.html](alignment/pf-networking-introduction.html)
 
-::: {#pf-networking-introduction .pf}
+::: {.diagram_caption}
+Diagram 13.7: pf-networking-introduction.html
 :::
+:::
+
 
 ### 13.8.5 When the Ask Comes First
 
@@ -353,34 +318,14 @@ Often, the difficulty is not absence but asymmetry. Someone may recognize a name
 
 Seen this way, timing matters not as etiquette, but as mechanics. Judgment that walks must have somewhere to go before it is asked to arrive.
 
-::: ITM-networking-ask 
+::: {#diagram-13-8 .diagram_ref .io_ref data-src="io-pairs/io_networking-ask.html"}
+[io_networking-ask.html](io-pairs/io_networking-ask.html)
 
-### 13.8.6 Inside the Message
-The message is polite. It is brief. It asks clearly.
-
-<message>
-Hi Maya,
-
-I hope you're doing well. I saw that your team has an opening for a program analyst. I'm very interested in the role and wondered if you would be willing to put in a good word for me.
-
-Thanks,
-Jordan
-</message>
-
-But the ask arrives before the relationship has supplied enough material to carry it.
-
-Maya may recognize Jordan's name. She may have had pleasant conversations with him. She may even think well of him. None of that automatically gives her a defensible description she can attach to her own credibility.
-
-The difficulty is not that the request is rude. The difficulty is that advocacy requires more than goodwill. It requires something stable enough to say when the candidate is not present.
-
-### 13.8.7 Inside the Work
-⁘ What professional memory is the message asking Maya to use?
-
-⁘ What could Maya safely say about Jordan without overextending her own judgment?
-
-⁘ What would need to exist before this ask becomes easier to carry forward?
-
+::: {.diagram_caption}
+Diagram 13.8: io_networking-ask.html
 :::
+:::
+
 
 What is often labeled networking is, in practice, the slow accumulation of carryable impressions long before they are needed. It is less about visibility than about predictability—whether others can anticipate how a person will show up when context is thin and stakes are uneven.
 
@@ -508,6 +453,8 @@ C. What should the interviewer be able to say later without distorting the candi
 :::
 :::
 
+::: {.notes}
+
 ## 13.11 Notes
 
 1. Michael Spence, "Job Market Signaling," *The Quarterly Journal of Economics* 87, no. 3 (1973): 355–374.
@@ -517,6 +464,10 @@ C. What should the interviewer be able to say later without distorting the candi
 3. Daniel Kahneman, *Thinking, Fast and Slow* (New York: Farrar, Straus and Giroux, 2011).
 
 4. Pierre Bourdieu, "The Forms of Capital," in *Handbook of Theory and Research for the Sociology of Education*, ed. John G. Richardson (New York: Greenwood Press, 1986).
+
+:::
+
+::: {.further_study}
 
 ## 13.12 For Further Study
 
@@ -545,3 +496,5 @@ C. **Kahneman, Daniel.** *Thinking, Fast and Slow.* Farrar, Straus and Giroux.
 D. **Bourdieu, Pierre.** *The Forms of Capital.* In *Handbook of Theory and Research for the Sociology of Education*.  
    Frames professional credibility and advocacy as forms of social and symbolic capital that circulate unevenly.
 
+
+:::

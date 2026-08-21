@@ -89,24 +89,14 @@ Once repetition and reframing take root, revision—of either version—requires
 
 ## 14.3 When Silence Becomes Action
 
-::: ITM-silence-as-continuation 
+::: {#diagram-14-1 .diagram_ref .io_ref data-src="io-pairs/io_silence-as-continuation.html"}
+[io_silence-as-continuation.html](io-pairs/io_silence-as-continuation.html)
 
-### 14.3.1 Inside the Message
-
-> Message"Any concerns with moving the vendor review to Friday? If I don't hear otherwise, I'll update the timeline this afternoon."
-
-The message appears to invite response, but it also creates a path for silence to function as permission. The deadline for objection does not merely organize the exchange; it allows the current interpretation to advance if no one interrupts it. Agreement is not stated, but the work can still move as if agreement has been supplied.
-
-### 14.3.2 Inside the Work
-⁘ What does silence authorize here?
-
-⁘ Who has enough context, confidence, and time to interrupt before the timeline changes?
-
-⁘ Where would responsibility settle if someone later says the change was never approved?
-
-⁘ What would need to be made visible so silence does not have to carry agreement by itself?
-
+::: {.diagram_caption}
+Diagram 14.1: io_silence-as-continuation.html
 :::
+:::
+
 
 > The absence of agreement or argument shapes meaning as much as their presence.
 
@@ -143,9 +133,14 @@ Messages do not move randomly. They travel upward to those who evaluate, downwar
 What does not change is that every message is taken up and judged. Someone reads it, decides what it means, and something follows from that decision.³
 
 What changes is not whether a message is evaluated, but how that evaluation happens and what it requires from the message itself. In directional environments, different pressures begin to take shape. Some constrain meaning—narrowing what can be said and how it can be defended. Others reshape it—requiring adjustment, negotiation, and reintroduction as it moves across peers.
+::: {#diagram-14-2 .diagram_ref .pf_ref data-src="alignment/pf-directional-alignment.html"}
+[pf-directional-alignment.html](alignment/pf-directional-alignment.html)
 
-::: {#pf-directional-alignment .pf}
+::: {.diagram_caption}
+Diagram 14.2: pf-directional-alignment.html
 :::
+:::
+
 
 A request sent upward enters a space where evaluation is explicit. It will be accepted, rejected, or redirected, and that possibility is already present before anything is written. The message is shaped with that outcome in mind. What might otherwise be left open is narrowed. Uncertainty is reduced to what can be defended. Risk is not removed, but it is framed in a way that can be judged. What remains unstated does not disappear. It becomes part of what is being evaluated.
 
@@ -155,24 +150,14 @@ Across peers, evaluation becomes distributed. No single person determines the ou
 
 These patterns are often described as channels—upward, downward, lateral—but direction does more than describe movement. It shapes how evaluation occurs, what must be made explicit, and what happens when something remains open.
 
-::: ITM-directional-burden 
+::: {#diagram-14-3 .diagram_ref .io_ref data-src="io-pairs/io_directional-burden.html"}
+[io_directional-burden.html](io-pairs/io_directional-burden.html)
 
-### 14.4.1 Inside the Message
-
-> Message"Please update the client packet so it reflects the revised rollout plan. Keep the core scope intact and flag anything that creates delivery risk."
-
-The instruction moves downward, but it leaves several interpretive spaces open. "Revised rollout plan," "core scope," and "delivery risk" may be clear to the person sending the message and less stable for the person carrying it out. The message transfers action, but it also transfers the burden of deciding what counts as faithful execution.
-
-### 14.4.2 Inside the Work
-⁘ What must the audience already know before this instruction can become usable?
-
-⁘ Which parts guide action, and which parts require reconstruction?
-
-⁘ Where does useful flexibility become variation in outcome?
-
-⁘ What consequence would fall on the person acting if the interpretation is reasonable but wrong?
-
+::: {.diagram_caption}
+Diagram 14.3: io_directional-burden.html
 :::
+:::
+
 
 The same message does not function the same way in each direction. It is evaluated differently, acted on differently, and produces different consequences depending on where it is sent and how it will be used.
 
@@ -204,9 +189,14 @@ Once work begins, what was only loosely aligned becomes harder to revisit. The v
 When differences resurface, they rarely appear as direct contradiction. They show up as friction—repeated clarification, revisited decisions, hesitation that slows what had already begun to move.
 
 What is often labeled miscommunication is not a failure to communicate, but a difference in what participants believed had already been settled.
+::: {#diagram-14-4 .diagram_ref .pf_ref data-src="alignment/pf-partial-alignment.html"}
+[pf-partial-alignment.html](alignment/pf-partial-alignment.html)
 
-::: {#pf-partial-alignment .pf}
+::: {.diagram_caption}
+Diagram 14.4: pf-partial-alignment.html
 :::
+:::
+
 
 Meaning is constructed in that movement. It holds long enough to carry work forward, even as parts of it remain incomplete or in tension.
 
@@ -239,24 +229,14 @@ Others form too quickly. A contribution that required extra interpretation becom
 
 Once an impression becomes usable, it resists revision. A single later moment rarely replaces it, because the earlier impression has already shaped what people expect to see. New messages are read through the old frame.
 
-::: ITM-impression-memory
+::: {#diagram-14-5 .diagram_ref .io_ref data-src="io-pairs/io_impression-memory.html"}
+[io_impression-memory.html](io-pairs/io_impression-memory.html)
 
-### 14.6.1 Inside the Message
-
-> MessageMeeting note: "Jordan slowed the discussion to clarify the implementation risk before the group approved the Friday timeline."
-
-The note preserves a moment, but not the full conditions around it. The clarification may have protected the decision. It may also be remembered as hesitation, caution, or resistance once the pressure of the meeting disappears. What remains is a usable impression, compressed enough to travel.
-
-### 14.6.2 Inside the Work
-⁘ What does the record make easy to remember?
-
-⁘ What context disappears when the moment becomes a label?
-
-⁘ How might the next meeting read Jordan before Jordan speaks?
-
-⁘ What pattern would be needed later to revise the impression without merely contradicting it?
-
+::: {.diagram_caption}
+Diagram 14.5: io_impression-memory.html
 :::
+:::
+
 
 Revision usually requires pattern, not correction. Over time, later interactions can supply a different shape: repeated clarity, steadiness, follow-through, repair. The earlier impression may not vanish, but it can lose authority as a stronger pattern becomes easier to remember.
 
@@ -266,7 +246,14 @@ What remains from the moment begins shaping the next one.
 
 At this point, what once appeared incidental begins to show a pattern. Across structure, channel, design, audience, and the consequences that follow, the same behavior can be seen repeating: meaning does not travel intact, and it does not settle by design alone. It forms where multiple forces meet under real conditions—sometimes reinforcing one another, sometimes pulling apart, sometimes holding just long enough to be used. 
 
-Figure 14.3 Convergence Model of Meaning: Structure, channel, design, audience, and ethics do not operate in sequence. Meaning begins to hold—or give way—where they meet.
+::: {#diagram-14-6 .diagram_ref .image_ref data-src="images/CMM-Final.svg"}
+[CMM-Final.svg](images/CMM-Final.svg)
+
+::: {.diagram_caption}
+Diagram 14.6: CMM-Final.svg
+:::
+:::
+
 
 The Convergence Model of Meaning makes visible where meaning begins to hold—and where it does not—as these elements come together.
 
@@ -296,7 +283,14 @@ Over time, patterns form. Some make communication easier to interpret and act up
 
 This continuity gives everyday communication its weight—not any single message, but the accumulation of meaning that shapes how others come to expect, interpret, and respond. Beneath these patterns, a simpler structure begins to show.
 
-Image 12.x The Meaning-Pressure Field
+::: {#diagram-14-7 .diagram_ref .image_ref data-src="images/Meaning Pressure Field.svg"}
+[Meaning Pressure Field.svg](images/Meaning%20Pressure%20Field.svg)
+
+::: {.diagram_caption}
+Diagram 14.7: Meaning Pressure Field.svg
+:::
+:::
+
 
 Meaning does not move uniformly. It enters different directional environments, each placing distinct pressures on how it is interpreted, carried, and used.
 
@@ -304,7 +298,14 @@ Some directions narrow meaning. Others require it to hold across variation. Stil
 
 Across these directional pressures, a simpler pattern emerges.
 
-Image 12.y Constrain-Reshape Pattern
+::: {#diagram-14-8 .diagram_ref .image_ref data-src="images/Constrain-Reshape Pattern.svg"}
+[Constrain-Reshape Pattern.svg](images/Constrain-Reshape%20Pattern.svg)
+
+::: {.diagram_caption}
+Diagram 14.8: Constrain-Reshape Pattern.svg
+:::
+:::
+
 
 What appears complex across moments resolves into these two forces. What is judged, negotiated, and carried out follows from this distinction. Some directions demand defensibility. Others demand alignment. Still others demand action.
 
@@ -427,6 +428,8 @@ C. What does the next audience need to see so the decision is usable but not fal
 :::
 :::
 
+::: {.notes}
+
 ## 14.9 Notes
 
 1. Karl E. Weick, *Sensemaking in Organizations* (Thousand Oaks, CA: Sage Publications, 1995).
@@ -441,6 +444,10 @@ C. What does the next audience need to see so the decision is usable but not fal
 
 6. Charles Perrow, *Normal Accidents: Living with High-Risk Technologies* (Princeton: Princeton University Press, 1984).
 
+
+:::
+
+::: {.further_study}
 
 ## 14.10 For Further Study
 
@@ -472,3 +479,5 @@ Provides insight into why certain ideas persist and are remembered, complementin
 
 E. **Weber, Max**. *Economy and Society*.
 Offers a foundational perspective on authority, structure, and legitimacy—useful for understanding how direction shapes interpretation in organizational settings.
+
+:::

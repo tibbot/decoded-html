@@ -72,31 +72,14 @@ In the previous chapter, structure made intention visible. Here, intention encou
 Communicators often think of channels as containers: email, text, meeting, report. Audiences experience channels differently. For them, a channel is not an object but a condition—one that shapes pace, posture, attention, and response before content has a chance to speak.
 
 An identical message feels different when it arrives as a calendar invite, a chat notification, a formal memo, or a spoken remark at the end of a meeting. The words may not change. The experience does.
+::: {#diagram-5-1 .diagram_ref .pf_ref data-src="alignment/pf-announce-a-timeline-change.html"}
+[pf-announce-a-timeline-change.html](alignment/pf-announce-a-timeline-change.html)
 
-::: PF-channel-condition 
-
-**Purpose**  
-Announce a timeline change while ensuring the team responds in a coordinated and timely way.
-
-
-**Version A**
-
-"We've moved the deadline to Friday. Please adjust your work accordingly."
-
-
-**Version B**
-
-"The deadline has been moved to Friday. Please confirm what this change affects on your side and flag anything that may not align."
-
-
-**Alignment**
-
-In a shared, real-time setting, which version achieves coordination?  
-In a distributed setting, which version carries more of that work?
-
-What shifts between the two?
-
+::: {.diagram_caption}
+Diagram 5.1: pf-announce-a-timeline-change.html
 :::
+:::
+
 
 
 
@@ -118,31 +101,14 @@ All of that is happening before the content itself has finished arriving.
 
 The conditions under which audiences consume messages—time available, physical setting, competing demands, expectations about what this text is for—shape how much attention you give, what you retain, and what feels important enough to revisit. The same words, encountered under different conditions, produce different experiences.
 
-::: ITW-channel-awareness 
+::: {#diagram-5-2 .diagram_ref .io_ref data-src="io-pairs/io_channel-awareness.html"}
+[io_channel-awareness.html](io-pairs/io_channel-awareness.html)
 
-### 5.3.1 Inside the Message
-
-You are already inside a channel.
-
-"Please review the attached update and let me know if anything needs to change."
-
-Something else preceded this moment—another task, another message, a different kind of attention. That context carries forward. It shapes how long you stay, what you notice first, and what feels worth returning to.
-
-Nothing about the message has changed.
-
-But the conditions under which you meet it have already begun to shift the work.
-
-### 5.3.2 Inside the Work
-
-⟐ What condition does this message enter—focused attention, fragmented time, or interruption?
-
-⟐ What will be seen first—and what risks being missed entirely?
-
-⟐ How much effort will the audience need to invest before meaning becomes usable?
-
-⟐ What must hold even if the message is only partially read?
-
+::: {.diagram_caption}
+Diagram 5.2: io_channel-awareness.html
 :::
+:::
+
 
 Channels do not just carry messages. They shape the moment in which messages are met—a perspective echoed by work that treats media not as neutral tools but as environments that condition perception and response ².
 
@@ -210,33 +176,14 @@ Social interference often goes unnoticed by the sender because it is distributed
 
 These dynamics do not disappear with clarity. They persist alongside it.
 
-::: ITW-visibility-risk 
+::: {#diagram-5-3 .diagram_ref .io_ref data-src="io-pairs/io_visibility-risk.html"}
+[io_visibility-risk.html](io-pairs/io_visibility-risk.html)
 
-### 5.4.4 Inside the Message
-
-"Can you clarify what ‘aligned with current standards' means in this case?"
-
-You encounter the message and consider responding.
-
-The question forms. So does the hesitation.
-
-Who else will see this? What changes once it is said out loud?
-
-The message remains the same.
-
-Your position inside it does not.
-
-### 5.4.5 Inside the Work
-
-⟐ Who is visible in this exchange—and who is exposed by participating?
-
-⟐ What changes when this message moves from private to shared space?
-
-⟐ Where might silence carry less risk than response?
-
-⟐ How does the channel shape who is likely to engage—and who is likely to hold back?
-
+::: {.diagram_caption}
+Diagram 5.3: io_visibility-risk.html
 :::
+:::
+
 
 
 
@@ -244,7 +191,7 @@ For example, a question asked in a large meeting may go unspoken not because it 
 
 Choosing a channel is therefore also choosing a social configuration—one that shapes participation, silence, and response before the message itself has a chance to persuade or inform.
 
-### 5.4.6 Cognitive Interference: Load and Attention
+### 5.4.4 Cognitive Interference: Load and Attention
 
 **Attention is a scarce resource.** This section frames clarity as respect for cognitive limits.
 
@@ -275,31 +222,14 @@ It is a judgment made in the presence of uncertainty.
 Communicators do not control interference. They work within it. They anticipate where friction may arise, decide which forms matter most in a given situation, and choose channels that support the experience they intend to create.
 
 That work does not guarantee success. But it does make responsibility visible.
+::: {#diagram-5-4 .diagram_ref .pf_ref data-src="alignment/pf-provide-a-project-update.html"}
+[pf-provide-a-project-update.html](alignment/pf-provide-a-project-update.html)
 
-::: PF-interference 
-
-**Purpose**  
-Provide a project update that reflects progress while ensuring stakeholders correctly understand current risk.
-
-
-**Version A**
-
-"We're continuing to make progress across all workstreams. A few dependencies are still resolving, and we'll have more clarity soon."
-
-
-**Version B**
-
-"We're continuing to make progress across all workstreams. A few dependencies remain unresolved, and if they don't align this week, the timeline may shift."
-
-
-**Alignment**
-
-In a fast-moving or low-attention channel, which version holds?  
-In a persistent, reviewable channel, which version carries more forward?
-
-What is the audience left to supply in each case?
-
+::: {.diagram_caption}
+Diagram 5.4: pf-provide-a-project-update.html
 :::
+:::
+
 
 
 
@@ -327,34 +257,14 @@ Asynchronous channels distribute time differently. They allow audiences to engag
 
 Neither condition is inherently better. Each shapes how responsibility is shared.
 
-::: ITW-responsibility-shift 
+::: {#diagram-5-5 .diagram_ref .io_ref data-src="io-pairs/io_responsibility-shift.html"}
+[io_responsibility-shift.html](io-pairs/io_responsibility-shift.html)
 
-### 5.7.1 Inside the Message
-
-"Please review the document and confirm that everything is aligned."
-
-The message arrives without its author present.
-
-There is no immediate clarification. No shared moment to resolve ambiguity.
-
-You read once. Then again.
-
-Some meaning is present. Some must be constructed.
-
-The message holds—but it does not complete itself.
-
-
-### 5.7.2 Inside the Work
-
-⟐ What must the audience supply that is not explicitly present?
-
-⟐ Where does interpretation depend on assumed context rather than stated meaning?
-
-⟐ What would need to travel with the message to reduce reconstruction?
-
-⟐ How much of the outcome depends on the audience getting it "right" the first time?
-
+::: {.diagram_caption}
+Diagram 5.5: io_responsibility-shift.html
 :::
+:::
+
 
 
 
@@ -574,6 +484,8 @@ B. Where does the work of understanding belong—and how will you distribute it?
 :::
 :::
 
+::: {.notes}
+
 ## 5.12 Notes
 
 1. Richard L. Daft and Robert H. Lengel, "Organizational Information Requirements, Media Richness and Structural Design," *Management Science* 32, no. 5 (1986): 554–571.
@@ -585,6 +497,10 @@ B. Where does the work of understanding belong—and how will you distribute it?
 4. Donald A. Norman, *The Design of Everyday Things* (New York: Basic Books, 1988).
 
 5. Mary Ellen Guffey, *Business Communication: Process and Product* (Boston: Cengage); Courtland L. Bovée and John V. Thill, *Business Communication Today* (Boston: Pearson).
+
+:::
+
+::: {.further_study}
 
 ## 5.13 For Further Study
 
@@ -608,3 +524,5 @@ Hall, Edward T. *Beyond Culture.*
 
 Norman, Donald A. *The Design of Everyday Things.*
 
+
+:::
